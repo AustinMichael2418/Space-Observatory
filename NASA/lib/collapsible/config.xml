@@ -1,0 +1,2 @@
+<link rel="stylesheet" src="{{path}}/collapsible.css"></link>
+<script  src="{{path}}/collapsible.js"></script>

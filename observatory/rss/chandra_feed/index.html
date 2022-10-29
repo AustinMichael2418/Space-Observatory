@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Space Observatory | Observatory | RSS | Chandra Feed</title>
+<style>
+html, body
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+h1 {
+position: absolute;
+    top: 50%;
+    left: 50%;
+      text-align: center;
+      transform: translate(-50%, -50%);
+}
+h1, h4 {
+text-align:center;
+}
+.footer {
+    display: flex;
+    background-color: #E8E8E8;
+}
+.footer > div {
+    width: 100px;
+    flex-grow:1;
+    display: inline-block;
+    margin: 20px;
+
+}
+
+.card {
+margin: 30px;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: center;
+}
+.header {
+  position: relative;
+    background-color: #0099ff;
+    height: 100%;
+    color: white;
+}
+    #nav{
+    background-color: #005c99;
+      text-align: center;
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        z-index: 100;
+        transform: translateZ(0);
+        -webkit-transform: translateZ(0);
+          display: flex;
+  flex-wrap: wrap;
+    }
+#nav > a {
+    display:inline-block;
+    color: white;
+    flex-grow: 1;
+    padding: 10px auto;
+      transition-duration: 0.4s;
+    background-color:  #0099ff;
+    margin: 10px 3px 10px 3px;
+    border-radius: 4px;
+    text-decoration: none;
+    }
+
+
+
+    #nav > a:hover {
+    background-color: blue;
+    }
+</style>
+</head>
+<body>
+<div id="nav">
+
+<a href="../../../">Home</a>
+<a href="../../../NASA">NASA</a>
+<a href="../../../SpaceX Tracking">SpaceX</a>
+<a href="../../../observatory">Observatory</a>
+</div>
+  <div class='header'>
+<h1>Space Observatory - Observatory - RSS - Chandra Feed</h1>
+  </div>
+  <div class='card'>
+    <h4>About</h4>
+<p>View space news through RSS feeds not on the main page about the Chandra X-Ray Observatory.</p>
+  </div>
+  <div class='card'>
+    <h4>Chandra Feed</h4>
+<a href="./news.html">Go here!</a>
+
+  </div>
+  
+<script>
+function shadow(bool) {
+if(bool) {
+document.getElementById('nav').style.boxShadow = "0 0 10px rgba(0,0,0,0.4)";
+} else {
+document.getElementById('nav').style.boxShadow = "0 0 0px rgba(0,0,0,0.4)";
+}
+}
+
+shadow(false);
+
+function getIfScroll() {
+return (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50 || window.scrollY > 50);
+}
+
+window.addEventListener('scroll',function(){
+shadow(getIfScroll());
+});
+
+</script>
+</body>
+</html>

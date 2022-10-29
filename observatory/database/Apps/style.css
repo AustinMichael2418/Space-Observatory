@@ -1,0 +1,21 @@
+* {
+text-align: center;
+}
+button {
+width: 100%;
+border-color: none;
+background-color:white;
+color:black;
+font-size: 50px;
+}
+div {
+border-style: solid;
+border-radius: 8px;
+border-color: black;
+border-width: 2px;
+padding: 10px;
+margin: 10px;
+}
+.iotd {
+width: 100%;
+}

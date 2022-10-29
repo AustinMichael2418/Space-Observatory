@@ -1,0 +1,33 @@
+{
+"build_files": [
+      {
+        "name":"observatory/database/update.py",
+        "dependencies":[
+          "observatory/database/update/1.py",
+          "observatory/database/v1/download.py",
+          "observatory/database/update/2.py",
+          "observatory/database/v1/readall.py",
+          "observatory/database/v1/tojson.py"
+        ]
+      },
+      {
+        "name":"run.py",
+        "dependencies":[
+          "startup/1.py",
+          "NASA/NASA Podcast/download.py",
+          "startup/2.py",
+          "observatory/database/update.py",
+          "startup/3.py",
+          "observatory/rss/download.py",
+          "startup/4.py",
+          "observatory/rss/sti/download.py",
+          "startup/5.py",
+          "observatory/rss/centers/download.py",
+          "startup/6.py",
+          "observatory/rss/chandra_feed/download.py",
+          "startup/7.py",
+          "start_file_server.py"
+         ]
+      }
+    ]
+}

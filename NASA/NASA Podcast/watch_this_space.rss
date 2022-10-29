@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Watch This Space</title>
+ <description>Join NASA Administrator Jim Bridenstine as he explores all aspects of America&#039;s space program and embeds you into critical conversations about how NASA pioneers the future in space exploration, scientific discovery and aeronautics research.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/watch-this-space.rss" />
+ <language>en-us</language>
+ <image> <url>https://www.nasa.gov/sites/default/files/thumbnails/image/maxresdefault-5.png</url>
+ <title>Watch This Space</title>
+ <link>http://www.nasa.gov/</link>
+</image>
+ <managingEditor>hq-webteam@lists.nasa.gov</managingEditor>
+ <webMaster>hq-webteam@lists.nasa.gov</webMaster>
+ <itunes:subtitle>Watch This Space audio podcast episodes</itunes:subtitle>
+ <itunes:summary>Join NASA Administrator Jim Bridenstine as he explores all aspects of America&#039;s space program and embeds you into critical conversations about how NASA pioneers the future in space exploration, scientific discovery and aeronautics research.</itunes:summary>
+ <itunes:category text="Science &amp; Medicine" />
+ <itunes:keywords>NASA, NASA science, spaceflight, space exploration, International Space Station, astronauts</itunes:keywords>
+ <itunes:image href="https://www.nasa.gov/sites/default/files/thumbnails/image/maxresdefault-5.png" />
+ <itunes:author>National Aeronautics and Space Administration (NASA)</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>hq-webteam@lists.nasa.gov</itunes:email>
+</itunes:owner>
+ <item> <title>Watch This Space: NASA Administrator Bridenstine Chats with Elon Musk of SpaceX</title>
+ <link>http://www.nasa.gov/mediacast/watch-this-space-nasa-administrator-bridenstine-chats-with-elon-musk-of-spacex</link>
+ <description>On the latest Watch this Space, NASA Administrator Jim Bridenstine chats with SpaceX CEO and Chief Designer Elon Musk during a tour of Launch Complex 39A just before the Demo-1 launch at the Kennedy Space Center in Florida.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/20190318_watch_this_space_final.mp3" length="21748977" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/watch-this-space-nasa-administrator-bridenstine-chats-with-elon-musk-of-spacex</guid>
+ <pubDate>Mon, 18 Mar 2019 15:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/watch-this-space.rss">Watch This Space</source>
+</item>
+ <item> <title>Watch This Space: The Latest From Moon to Mars</title>
+ <link>http://www.nasa.gov/mediacast/watch-this-space-the-latest-from-moon-to-mars</link>
+ <description>On the latest Watch This Space, NASA administrator Jim Bridenstine looks back at 15 years of discoveries by our Opportunity rover on Mars, and forward to new commercial partnerships for missions to the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/nhq_2019_0221_watch_this_space_with_nasa_administrator_jim_bridenstine_with_the_latest_from_the_moon_and_marsorig.mp3" length="15108197" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/watch-this-space-the-latest-from-moon-to-mars</guid>
+ <pubDate>Thu, 21 Feb 2019 13:21 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/watch-this-space.rss">Watch This Space</source>
+</item>
+ <item> <title>Watch This Space: New Partnerships for Commercial Lunar Payload Delivery</title>
+ <link>http://www.nasa.gov/mediacast/watch-this-space/lunar-partnerships</link>
+ <description>Welcome to Watch This Space.  I&#039;m NASA administrator Jim Bridenstine, and NASA is going forward to the moon.  This time we&#039;re doing it differently than we&#039;ve ever done it before.  Recently NASA announced nine commercial partners that will take NASA payloads to the surface of the moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/watchthisspace121918.mp3" length="27851890" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/watch-this-space/lunar-partnerships</guid>
+ <pubDate>Wed, 19 Dec 2018 09:58 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/watch-this-space.rss">Watch This Space</source>
+</item>
+ <item> <title>Watch This Space: Astronaut Nick Hague</title>
+ <link>http://www.nasa.gov/mediacast/watchthisspace/astronaut-nick-hague</link>
+ <description>NASA Administrator Jim Bridenstine talks via satellite with astronaut Nick Hague in Houston. Hague and Russian crewmate Alexey Ovchinin safely made a ballistic landing in Kazakhstan on Oct. 11, when the launch of their Soyuz spacecraft to the International Space Station was aborted due to an anomaly.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/wts_1017.mp3" length="36903304" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/watchthisspace/astronaut-nick-hague</guid>
+ <pubDate>Wed, 17 Oct 2018 13:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/watch-this-space.rss">Watch This Space</source>
+</item>
+ <item> <title>Watch This Space: Commercial Crew Astronauts Chris Ferguson and Suni Williams</title>
+ <link>http://www.nasa.gov/mediacast/watch-this-space/commercial-crew-astronauts</link>
+ <description>During a visit to Johnson Space Center, NASA Administrator Jim Bridenstine sits down with astronauts Chris Ferguson and Sunita “Suni” Williams for an informal Q&amp;A session about the Commercial Crew Program.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/wts_0906.mp3" length="55856135" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/watch-this-space/commercial-crew-astronauts</guid>
+ <pubDate>Thu, 06 Sep 2018 13:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/watch-this-space.rss">Watch This Space</source>
+</item>
+ <item> <title>Watch This Space: Webb Science with Nobel Laureate John Mather</title>
+ <link>http://www.nasa.gov/mediacast/watch-this-space/webb-telescope-nobel-laureate</link>
+ <description>NASA Administrator Jim Bridenstine sits down with Nobel Prize winner John Mather and the agency&#039;s Associate Administrator for Science, Thomas Zurbuchen for a conversation about NASA’s James Webb Space Telescope.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/wts_0724.mp3" length="55639035" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/watch-this-space/webb-telescope-nobel-laureate</guid>
+ <pubDate>Tue, 24 Jul 2018 13:07 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/watch-this-space.rss">Watch This Space</source>
+</item>
+ <item> <title>Watch This Space: Astronauts Joe Acaba and Mark Vande Hei</title>
+ <link>http://www.nasa.gov/mediacast/watch-this-space/astronauts-joe-acaba-and-mark-vande-hei</link>
+ <description>During a visit to NASA Headquarters, astronauts Joe Acaba and Mark Vande Hei sit down for an informal Q&amp;A session with Administrator Jim Bridenstine – and respond to questions from the agency’s social media followers.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/wts_0613.mp3" length="28837204" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/watch-this-space/astronauts-joe-acaba-and-mark-vande-hei</guid>
+ <pubDate>Wed, 13 Jun 2018 16:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/watch-this-space.rss">Watch This Space</source>
+</item>
+</channel>
+</rss>

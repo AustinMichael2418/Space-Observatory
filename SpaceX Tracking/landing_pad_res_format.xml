@@ -1,0 +1,11 @@
+<h1>{{landP_results[j].id}}</h1>
+<h2>{{landP_results[j].full_name}}</h2>
+<p>{{landP_results[j].details}}</p>
+<p>Landing Type: {{landP_results[j].landing_type}}</p>
+<p>Status: {{landP_results[j].status}}</p>
+<p>Successful Landings: {{landP_results[j].successful_landings}}</p>
+<p>Attempted Landings: {{landP_results[j].attempted_landings}}</p>
+<h4>Location</h4>
+<p>{{landP_results[j].location.name}}, {{landP_results[j].location.region}}</p>
+<p>Longitude: {{landP_results[j].location.longitude}}</p>
+<p>Latitude: {{landP_results[j].location.latitude}}</p>

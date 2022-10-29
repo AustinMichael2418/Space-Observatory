@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Space Observatory | Observatory | RSS</title>
+<style>
+html, body
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+h1 {
+position: absolute;
+    top: 50%;
+    left: 50%;
+      text-align: center;
+      transform: translate(-50%, -50%);
+}
+h1, h4 {
+text-align:center;
+}
+.footer {
+    display: flex;
+    background-color: #E8E8E8;
+}
+.footer > div {
+    width: 100px;
+    flex-grow:1;
+    display: inline-block;
+    margin: 20px;
+
+}
+
+.card {
+margin: 30px;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: center;
+}
+.header {
+  position: relative;
+    background-color: #0099ff;
+    height: 100%;
+    color: white;
+}
+    #nav{
+    background-color: #005c99;
+      text-align: center;
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        z-index: 100;
+        transform: translateZ(0);
+        -webkit-transform: translateZ(0);
+          display: flex;
+  flex-wrap: wrap;
+    }
+#nav > a {
+    display:inline-block;
+    color: white;
+    flex-grow: 1;
+    padding: 10px auto;
+      transition-duration: 0.4s;
+    background-color:  #0099ff;
+    margin: 10px 3px 10px 3px;
+    border-radius: 4px;
+    text-decoration: none;
+    }
+
+
+
+    #nav > a:hover {
+    background-color: blue;
+    }
+</style>
+</head>
+<body>
+<div id="nav">
+
+<a href="../../">Home</a>
+<a href="../../NASA">NASA</a>
+<a href="../../SpaceX Tracking">SpaceX</a>
+<a href="../../observatory">Observatory</a>
+</div>
+  <div class='header'>
+<h1>Space Observatory - Observatory - RSS</h1>
+  </div>
+  <div class='card'>
+    <h4>About</h4>
+<p>View space news through RSS feeds.</p>
+  </div>
+  <div class='card'>
+    <h4>Chandra</h4>
+<p>Stay up to date on the Chandra X-Ray Observatory.</p>
+<a href="./chandra.html">Chandra</a><br/>
+<a href="./chandra_photo.html">Chandra Photos</a>
+  </div>
+  <div class='card'>
+    <h4>Hubble</h4>
+<p>Track the Hubble Space Telescope!</p>
+<a href="./hubble.html">Hubble</a>
+  </div>
+  <div class='card'>
+    <h4>ISS</h4>
+<p>Stay up to date on the events on the International Space Station!</p>
+<a href="./iss.html">ISS</a>
+  </div>
+  <div class='card'>
+    <h4>Kepler</h4>
+<p>Keep up with new updates on the Kepler program!</p>
+<a href="./kepler.html">Kepler</a>
+  </div>
+  <div class='card'>
+    <h4>New Horizons</h4>
+<p>Read updates on New Horizons as it flies through the Kupier Belt and beyond!</p>
+<a href="./new_horizons.html">New Horizons</a>
+  </div>
+  <div class='card'>
+    <h4>Parker Solar Probe</h4>
+<p>Track the Parker Solar Probe in its mission to "touch the Sun!"</p>
+<a href="./parker.html">Parker Solar Probe</a>
+  </div>
+  <div class='card'>
+    <h4>Solar System</h4>
+<p>Track the updates in solar system research!</p>
+<a href="./solar_system.html">Solar System</a>
+  </div>
+  <div class='card'>
+    <h4>News</h4>
+<p>Read NASA news and education news while viewing the NASA image of the day!</p>
+<a href="./news.html">News</a>
+  </div>
+  <div class='card'>
+    <h4>More RSS</h4>
+<p>View more RSS feeds through the following links:</p>
+<a href="./chandra_feed">More on Chandra</a>
+<a href="./centers">NASA RSS by Center</a>
+  </div>
+  
+<script>
+function shadow(bool) {
+if(bool) {
+document.getElementById('nav').style.boxShadow = "0 0 10px rgba(0,0,0,0.4)";
+} else {
+document.getElementById('nav').style.boxShadow = "0 0 0px rgba(0,0,0,0.4)";
+}
+}
+
+shadow(false);
+
+function getIfScroll() {
+return (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50 || window.scrollY > 50);
+}
+
+window.addEventListener('scroll',function(){
+shadow(getIfScroll());
+});
+
+</script>
+</body>
+</html>

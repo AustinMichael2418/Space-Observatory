@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>The Invisible Network</title>
+ <description> The technologies that allow NASA to talk to and navigate spacecraft are often overlooked — perhaps because they work so well. Join us as we shine a light on the invisible networks that power space science and exploration. </description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/Invisible-Network.rss" />
+ <language>en-us</language>
+ <image> <url>https://www.nasa.gov/sites/default/files/thumbnails/image/newtheinvisiblenetwork.png</url>
+ <title>The Invisible Network</title>
+ <link>http://www.nasa.gov/</link>
+</image>
+ <copyright>094665</copyright>
+ <managingEditor>peter.jacobs@nasa.gov</managingEditor>
+ <webMaster>peter.jacobs@nasa.gov</webMaster>
+ <itunes:subtitle>The Invisible Network audio podcast episodes</itunes:subtitle>
+ <itunes:summary> The technologies that allow NASA to talk to and navigate spacecraft are often overlooked — perhaps because they work so well. Join us as we shine a light on the invisible networks that power space science and exploration. </itunes:summary>
+ <itunes:category text="Technology" />
+ <itunes:keywords>NASA Goddard Space Flight Center, podcast, nasa podcast, nasa goddard, nasa scan, space communications</itunes:keywords>
+ <itunes:image href="https://www.nasa.gov/sites/default/files/thumbnails/image/newtheinvisiblenetwork.png" />
+ <itunes:author>National Aeronautics and Space Administration (NASA)</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>peter.jacobs@nasa.gov</itunes:email>
+ <itunes:name>Peter Jacobs</itunes:name>
+</itunes:owner>
+ <item> <title>Bonus - DSN: Your Questions Answered | NASA’s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/bonus-dsn-your-questions-answered-nasa-s-the-invisible-network-podcast</link>
+ <description>In this bonus episode of NASA&#039;s The Invisible Network podcast, a NASA subject matter expert answers questions about the Deep Space Network (DSN) submitted on social media.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/dsn-bonus.mp3" length="12488014" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/bonus-dsn-your-questions-answered-nasa-s-the-invisible-network-podcast</guid>
+ <pubDate>Fri, 23 Sep 2022 11:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>28. Deep Space Network - Explore Tomorrow | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2022/28-deep-space-network-explore-tomorrow-nasas-the-invisible-network-podcast</link>
+ <description>In this final episode of the fifth season of NASA&#039;s &quot;The Invisible Network&quot; podcast, we discuss the technologies and capabilities key to the Deep Space Network&#039;s future.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/dsn-06_exploretomorrow_final.mp3" length="25401386" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2022/28-deep-space-network-explore-tomorrow-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Thu, 14 Jul 2022 07:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>27. Deep Space Network - The Ultimate Classroom | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2022/27-deep-space-network-the-ultimate-classroom-nasas-the-invisible-network-podcast</link>
+ <description>In this fifth episode in the fifth season of NASA&#039;s &quot;The Invisible Network&quot; podcast, we discuss a unique educational opportunity that allows students to use a Deep Space Network antenna for real science.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/dsn-05_theultimateclassroom_final.mp3" length="30261206" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2022/27-deep-space-network-the-ultimate-classroom-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Thu, 07 Jul 2022 07:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>26. Deep Space Network - Radio Science | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2022/26-deep-space-network-radio-science-nasas-the-invisible-network-podcast</link>
+ <description>In this fourth episode in the fifth season of NASA&#039;s &quot;The Invisible Network&quot; podcast, we discuss the unique type of radio science empowered by Deep Space Network antennas.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/dsn-04_radioscience_final.mp3" length="29755998" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2022/26-deep-space-network-radio-science-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Thu, 30 Jun 2022 07:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>25. Deep Space Network - Negotiators | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2022/25-deep-space-network-negotiators-nasas-the-invisible-network-podcast</link>
+ <description>In this third episode in the fifth season of NASA&#039;s &quot;The Invisible Network&quot; podcast, we meet the Mission Interface Managers who furnish missions with Deep Space Network services.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/dsn-03_negotiators-final.mp3" length="32312341" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2022/25-deep-space-network-negotiators-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Thu, 23 Jun 2022 07:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>24. Deep Space Network - Follow the Sun | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2022/24-deep-space-network-follow-the-sun-nasas-the-invisible-network-podcast</link>
+ <description>In this second episode in the fifth season of NASA&#039;s &quot;The Invisible Network&quot; podcast, we take a tour of the Deep Space Network&#039;s worldwide infrastructure.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/dsn-02_followthesun_final.mp3" length="28341728" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2022/24-deep-space-network-follow-the-sun-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Thu, 16 Jun 2022 06:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>23. Deep Space Network - Origins | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/23-deep-space-network-origins-nasas-the-invisible-network-podcast</link>
+ <description>In this first episode in the fifth season of NASA&#039;s &quot;The Invisible Network&quot; podcast, we examine the origins, evolution, and basic structure of NASA&#039;s Deep Space Network.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/dsn-01_origins_final_trim.mp3" length="25764488" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/23-deep-space-network-origins-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Thu, 09 Jun 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>Deep Space Network Season Trailer | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2022/dsn-season-trailer-nasas-the-invisible-network-podcast</link>
+ <description>A new season of NASA&#039;s The Invisible Network podcast is coming soon! This time around, we&#039;ll focus on the communications and navigation services provided by NASA&#039;s Deep Space Network. Based at NASA&#039;s Jet Propulsion Laboratory, the Deep Space Network has a global infrastructure of huge importance to NASA&#039;s past, present, and future.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/dsn-trailer.mp3" length="2858235" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2022/dsn-season-trailer-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Tue, 19 Apr 2022 07:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>Bonus - LCRD: Your Questions Answered | NASA’s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2022/bonus-lcrd-your-questions-answered-nasa-s-the-invisible-network-podcast</link>
+ <description>In this bonus episode of NASA&#039;s The Invisible Network podcast, NASA subject matter experts answer questions about the Laser Communications Relay Demonstration (LCRD) submitted on social media.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/lcrd-podbonus1.mp3" length="10763933" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2022/bonus-lcrd-your-questions-answered-nasa-s-the-invisible-network-podcast</guid>
+ <pubDate>Mon, 11 Apr 2022 12:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>22. LCRD - The Future | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/22-lcrd-the-future-nasas-the-invisible-network-podcast</link>
+ <description>In this final episode of a five-part series about NASA’s Laser Communications Relay Demonstration, we look at the future of optical communications technologies at NASA.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/lcrd-ep5.mp3" length="24822512" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/22-lcrd-the-future-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Wed, 29 Dec 2021 07:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>21. LCRD - The Design: Ground | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/21-lcrd-the-design-ground-nasas-the-invisible-network-podcast</link>
+ <description>In this fourth episode of a five-part series about NASA’s Laser Communications Relay Demonstration, we look at the LCRD ground segment, which consists of infrastructure in Hawaii, California, and New Mexico.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/lcrd-ep4.mp3" length="22503883" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/21-lcrd-the-design-ground-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Wed, 22 Dec 2021 07:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>20. LCRD - The Design: Flight | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/20-lcrd-the-design-flight-nasas-the-invisible-network-podcast</link>
+ <description>In this third episode of a five-part series about NASA’s Laser Communications Relay Demonstration, we look at the LCRD flight payload, which launched on the U.S. Space Force’s Space Test Program Satellite-6 earlier on December 7.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/lcrd-ep3_0.mp3" length="23514300" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/20-lcrd-the-design-flight-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Wed, 15 Dec 2021 07:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>19. LCRD - The Dream | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/19-lcrd-the-dream-nasas-the-invisible-network-podcast</link>
+ <description>In this second episode of an LCRD-focused season of The Invisible Network podcast, we take a look at the reasons NASA is embracing optical communications technologies and what challenges LCRD will overcome.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/lcrd-ep2_dec7_0.mp3" length="15876096" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/19-lcrd-the-dream-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Wed, 08 Dec 2021 07:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>18. LCRD - The Launch | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/18-lcrd-launch-nasas-the-invisible-network-podcast</link>
+ <description>Today, Tuesday, December 7, 2021, the U.S. Space Force’s Space Test Program Satellite-6 launched from Kennedy Space Center on Florida’s space coast. The spacecraft contains a revolutionary space communications mission, NASA&#039;s Laser Communications Relay Demonstration, or LCRD.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/lcrd-ep1_dec7.mp3" length="13736145" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/18-lcrd-launch-nasas-the-invisible-network-podcast</guid>
+ <pubDate>Tue, 07 Dec 2021 09:30 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>LCRD Season Trailer | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-pod-lcrd-season-trailer</link>
+ <description>Over five episodes, this new season of The Invisible Network will dive into NASA&#039;s Laser Communications Relay Demonstration (LCRD), which will showcase the benefits of optical communications, which uses infrared lasers instead of radio waves to communicate.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/theinvisiblenetwork_lcrd_trailer.mp3" length="1520765" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-pod-lcrd-season-trailer</guid>
+ <pubDate>Tue, 30 Nov 2021 22:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>International Podcast Day 2021 | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-podcast-2021-international-podcast-day</link>
+ <description>Happy International Podcast Day! The Invisible Network has some exciting things coming up, including seasons about NASA’s Laser Communications Relay Demonstration and NASA’s Deep Space Network. In the meantime, you can find all of NASA&#039;s out of this world podcasts at nasa.gov/podcasts.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/theinvisiblenetwork_internationalpodcastday_2021.mp3" length="2233908" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-podcast-2021-international-podcast-day</guid>
+ <pubDate>Thu, 30 Sep 2021 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>2021 Interns | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-podcast-2021-interns</link>
+ <description>Each year, NASA&#039;s Space Communications and Navigation (SCaN) Internship Project welcomes students of all levels to develop projects of real benefit to the agency while earning real world experience in their fields. In this episode of The Invisible Network podcast, we&#039;ll speak with members of 2021&#039;s intern cohort at three different NASA centers.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/the_invisible_network_2021_nationalinternday_0.mp3" length="26278577" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-podcast-2021-interns</guid>
+ <pubDate>Thu, 29 Jul 2021 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>17. Commercialization - LunaNet | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-pod-episode-17-commercialization-lunanet</link>
+ <description>NASA is fostering a commercial space economy. In this episode of &quot;The Invisible Network&quot; podcast, we look at how NASA&#039;s LunaNet communications architecture allows industry to participate in Artemis.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/the_invisible_network_ep17_commercialization_lunanet.mp3" length="23633418" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-pod-episode-17-commercialization-lunanet</guid>
+ <pubDate>Wed, 19 May 2021 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>16. Commercialization - Marketplace | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-podcast-episode-15-commercialization-marketplace</link>
+ <description>NASA is fostering a commercial space economy. In this episode of &quot;The Invisible Network&quot; podcast, we look at how NASA is working with industry to nurture a space communications marketplace.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/the_invisible_network_ep16_commercialization_marketplace.mp3" length="26225288" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-podcast-episode-15-commercialization-marketplace</guid>
+ <pubDate>Wed, 12 May 2021 11:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>15. Commercialization - Crew | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-podcast-episode-15-commercialization-crew</link>
+ <description>NASA is fostering a commercial space economy. In this episode of &quot;The Invisible Network&quot; podcast, we look at space communications support of the Commercial Crew Program.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/the_invisible_network_ep15_commercialization_crew.mp3" length="18848308" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2021/the-invisible-network-podcast-episode-15-commercialization-crew</guid>
+ <pubDate>Wed, 05 May 2021 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>Bonus - NASA Historian Bill Barry | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2020/the-invisible-network-podcast-bonus-content-nasa-historian-bill-barry</link>
+ <description>At its core the NASA History Office ensures that, as we look forward to the Moon, Mars and beyond, we remember the lessons we’ve learned from our predecessors. The race to the Moon in the 1960s occurred against a very different backdrop than today&#039;s Artemis program — but both exhibit what humanity can achieve when we set ourselves to lofty aims.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/03_billbarry.mp3" length="26807296" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2020/the-invisible-network-podcast-bonus-content-nasa-historian-bill-barry</guid>
+ <pubDate>Thu, 30 Jan 2020 09:07 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>Bonus - Dr. Jim Garvin | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2020/the-invisible-network-podcast-bonus-content-dr-jim-garvin</link>
+ <description>There is perhaps no one better than Jim Garvin to outline the unique opportunities for research that the Artemis missions to the Moon could provide scientists on Earth. Jim is chief scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and a tireless champion for crewed exploration of the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/02_jimgarvin.mp3" length="19869173" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2020/the-invisible-network-podcast-bonus-content-dr-jim-garvin</guid>
+ <pubDate>Thu, 23 Jan 2020 15:19 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>Bonus - Dan Curry | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2020/the-invisible-network-podcast-bonus-content-dan-curry</link>
+ <description>Science fiction and science fact have long enjoyed a symbiotic relationship, with ideas in one prompting innovations in the other, and so on. Dan Curry, a filmmaker, artist and visual effects producer best known for his Star Trek work, shares his perspectives.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/01_dancurry.mp3" length="28777973" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2020/the-invisible-network-podcast-bonus-content-dan-curry</guid>
+ <pubDate>Thu, 16 Jan 2020 08:20 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>14. Ansible | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-14-ansible</link>
+ <description>Faster-than-light communications might not be a possibility now — our current understanding of natural laws don’t allow for it. But who knows what innovations await us just beyond the horizon?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ep14.mp3" length="31046969" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-14-ansible</guid>
+ <pubDate>Thu, 19 Dec 2019 15:49 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>13. Pony Express | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-13-pony-express</link>
+ <description>What does the Pony Express of the 19th century have in common with the internet and disruption-tolerant networking? They&#039;re all (for their times) innovative communications technologies that revolutionize the way we share data.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ep13.mp3" length="47001516" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-13-pony-express</guid>
+ <pubDate>Mon, 16 Dec 2019 14:21 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>12. Reconnaissance | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-12-reconnaissance</link>
+ <description>Without communications there is no exploration: To reveal the unknown, a spacecraft must be able to share its data. In a sense, today&#039;s space communications networks are like the roadways of ancient empires, allowing information to move across vast distances. But how might our satellite data highways evolve to enable exploration centuries from now?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ep12v3.mp3" length="33239687" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-12-reconnaissance</guid>
+ <pubDate>Thu, 12 Dec 2019 09:39 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>11. Reflections | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-11-reflections</link>
+ <description>For billions of years, the Earth and the Moon have danced together. Since the Apollo era, scientists have used lasers — a technology then in its infancy — to measure their waltz. Lasers have since played increasingly important roles in spaceflight. They may even play a part in keeping the next generation of lunar astronauts connected to home.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/in02_ep11.mp3" length="16309206" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-11-reflections</guid>
+ <pubDate>Mon, 09 Dec 2019 08:07 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>10. 406 MHz | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-10-406-mhz</link>
+ <description>Amidst the grandeur of spaceflight, there is a tiny bit of technology that, if not for its major role, might otherwise go unnoticed: distress beacons. This NASA-developed search-and-rescue technology could be life-saving not just for astronauts, but for travelers across the globe as well.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/in02_ep10.mp3" length="29367296" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-10-406-mhz</guid>
+ <pubDate>Thu, 05 Dec 2019 08:28 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>09. Lobes | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-09-lobes</link>
+ <description>Spacecraft near Earth have long relied on GPS signals for navigation, just as users on the ground might use their phones to navigate the highways. Farther away, navigation — and the math behind it — becomes a great deal more challenging.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/in02_ep09v2.mp3" length="23970920" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-09-lobes</guid>
+ <pubDate>Mon, 25 Nov 2019 10:47 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>08. Form and Function | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-08-form-and-function</link>
+ <description>&quot;Form follows function&quot; is an oft-cited architectural axiom. In space, form doesn’t necessarily follow function. Human space habitation is rooted, by necessity, in pragmatism. The architectures of Earth won’t work in space, but there is plenty to learn from Earthbound architectural theories as we extend our reach among the stars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/in02_ep08.mp3" length="28579965" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-08-form-and-function</guid>
+ <pubDate>Thu, 21 Nov 2019 07:30 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>07. Hunter-Gatherer | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-07-hunter-gatherer</link>
+ <description>In recent years, NASA has renewed its focus on the Moon. Soon, we will look up at the Moon and rediscover a magic first experienced in 1969. It’s a magic that will flow through networks more sophisticated than ever before — an appreciation for the technological wonders that lay ahead, just above and all around us.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/in02_ep07.mp3" length="21338822" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-episode-07-hunter-gatherer</guid>
+ <pubDate>Thu, 14 Nov 2019 10:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>2019 Interns | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-2019-interns</link>
+ <description>Every summer, fresh faces flood NASA’s Goddard Space Flight Center. They are the interns. Each new face comes with an idea to share — a contribution to make to the agency. Space Communications and Navigation interns contribute across many diverse disciplines, from cybersecurity to public outreach.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/internepd2.mp3" length="18565141" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2019/the-invisible-network-podcast-2019-interns</guid>
+ <pubDate>Thu, 10 Oct 2019 07:35 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>06. Next-Gen | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-06-next-gen</link>
+ <description>CubeSats are small satellites, some weighing as little as 3 pounds. They provide opportunities for small-scale research in space, and an avenue for young scientists — some as young as middle school-aged — to see their curiosity take literal flight.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode_06_-_next-gen.mp3" length="14425255" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-06-next-gen</guid>
+ <pubDate>Tue, 16 Oct 2018 10:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>05: Marrow | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-05-marrow</link>
+ <description>The technologies that fuel NASA&#039;s exploration don&#039;t just stay in space. They benefit humanity in everyday life — sometimes in surprising ways, like how a NASA communications engineer helped create a system that freezes bone marrow.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode_05_-_marrow.mp3" length="17565173" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-05-marrow</guid>
+ <pubDate>Tue, 16 Oct 2018 09:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>04. Automation | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-04-automation</link>
+ <description>In the telephone switchboard’s earliest days, the late 1800s, operators served a limited number of customers within their own communities. As telephone use expanded, automation helped switchboards keep up. NASA is working on a similar approach, infusing its satellite networks with a sort of artificial intelligence.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode_04_-_automation_-_update.mp3" length="20333630" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-04-automation</guid>
+ <pubDate>Tue, 16 Oct 2018 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>03. Time | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-03-time</link>
+ <description>Whether you&#039;re relying on the careful observations of 1950s amateur astronomers and backyard telescopes or state-of-the-art GPS tracking and navigation technology: knowing where you are in space means needing to know what time it is.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode_03_-_time.mp3" length="18965859" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-03-time</guid>
+ <pubDate>Tue, 16 Oct 2018 08:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>02. Lemnos | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-02-lemnos</link>
+ <description>The mythic hunter Orion, son of the sea-god Poseidon, was himself mortal, but his godly lineage enabled impossible heroic feats, earning him a place in the night sky as a constellation. NASA has developed its own Orion, a hunter for knowledge not of this Earth: a spacecraft designed for humanity’s return to the Moon and exploration of deep space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode02lemnos_-_update.mp3" length="23205532" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-02-lemnos</guid>
+ <pubDate>Tue, 16 Oct 2018 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>01. Ascension | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-01-ascension</link>
+ <description>Just south of the equator lies a tiny plot of volcanic soil, a thousand miles from the nearest continent. This bizarre, remote island had mammoth importance to America’s first efforts in space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode_01_-_ascension.mp3" length="20776145" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-01-ascension</guid>
+ <pubDate>Tue, 16 Oct 2018 07:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+ <item> <title>Show Trailer | NASA&#039;s The Invisible Network Podcast</title>
+ <link>http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-00-preview</link>
+ <description>NASA presents The Invisible Network, a podcast giving you a behind-the-scenes glimpse into the feats of engineering that make possible humanity&#039;s ambitions among the stars. Join us October 16, as we reveal these invisible networks.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode_00_-_promo_short.mp3" length="1222969" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/goddard/2018/the-invisible-network-podcast-episode-00-preview</guid>
+ <pubDate>Fri, 12 Oct 2018 13:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Invisible-Network.rss">The Invisible Network</source>
+</item>
+</channel>
+</rss>

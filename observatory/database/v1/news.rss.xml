@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Breaking News</title>
+ <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA to Provide Update on Artemis I Moon Mission</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission</link>
+ <description>NASA will host a media teleconference at 12 p.m. EDT Thursday, Nov. 3, to discuss the status of its Artemis I flight test that will launch the Space Launch System (SLS) rocket from NASA’s Kennedy Space Center in Florida. The uncrewed mission will send the Orion spacecraft beyond the Moon and back to Earth before future missions with crew.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/artemis_i_update_advisory_photo.jpg?itok=_1imthH4" length="386067" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission</guid>
+ <pubDate>Fri, 28 Oct 2022 11:16 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>483668</dc:identifier>
+</item>
+ <item> <title>NASA Sets TV Coverage for Cargo Launch to International Space Station</title>
+ <link>http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station</link>
+ <description>NASA and commercial cargo provider Northrop Grumman are targeting 5:50 a.m. EST, Sunday, Nov. 6, for launch of the company’s 18th resupply mission to the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/ng_17_lauch_for_advisory_on_ng_18.jpg?itok=zeAaDSiS" length="420480" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station</guid>
+ <pubDate>Fri, 28 Oct 2022 10:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>483664</dc:identifier>
+</item>
+ <item> <title>NASA’s Economic Benefit Reaches All 50 States</title>
+ <link>http://www.nasa.gov/press-release/nasa-s-economic-benefit-reaches-all-50-states</link>
+ <description>NASA released the results of its second agencywide economic impact report on Thursday, demonstrating how its Moon to Mars activities, climate change research and technology, as well as other work generated more than $71.2 billion in total economic output during fiscal year 2021.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/fy21_eir_cover.png?itok=Be-gunVb" length="1513744" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-economic-benefit-reaches-all-50-states</guid>
+ <pubDate>Thu, 27 Oct 2022 10:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>483637</dc:identifier>
+</item>
+ <item> <title>NASA Invites Media to SpaceX’s 26th Resupply Launch to Space Station</title>
+ <link>http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-26th-resupply-launch-to-space-station</link>
+ <description>Media accreditation is open for SpaceX’s 26th commercial resupply mission for NASA to the International Space Station. Liftoff of the SpaceX Dragon cargo spacecraft on a Falcon 9 rocket is targeted no earlier than Friday, Nov. 18, from Launch Complex 39A at NASA’s Kennedy Space Center in Florida.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/space_x_resupply_for_advisory_oct_25.jpg?itok=gPFwlX-R" length="145361" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-26th-resupply-launch-to-space-station</guid>
+ <pubDate>Tue, 25 Oct 2022 11:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>483533</dc:identifier>
+</item>
+ <item> <title>Maryland Students, Navy Pilots to Hear from NASA Astronauts in Space</title>
+ <link>http://www.nasa.gov/press-release/maryland-students-navy-pilots-to-hear-from-nasa-astronauts-in-space</link>
+ <description>Pilots from the U.S. Naval Test Pilot School in Patuxent River, Maryland, and students across southern Maryland will have an opportunity this week to hear from NASA astronauts aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jsc2022e076176.jpeg?itok=wEDM4qDn" length="515422" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/maryland-students-navy-pilots-to-hear-from-nasa-astronauts-in-space</guid>
+ <pubDate>Mon, 24 Oct 2022 11:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>483502</dc:identifier>
+</item>
+ <item> <title>NASA to Provide Live Coverage of Space Station Cargo Launch, Docking</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking-0</link>
+ <description>NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the multi-national Expedition 68 crew aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/progress_82.jpg?itok=Mn1kOFox" length="572212" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking-0</guid>
+ <pubDate>Mon, 24 Oct 2022 11:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>483501</dc:identifier>
+</item>
+ <item> <title>NASA Coverage Set for NOAA’s Joint Polar Satellite System-2 Launch</title>
+ <link>http://www.nasa.gov/press-release/nasa-coverage-set-for-noaa-s-joint-polar-satellite-system-2-launch</link>
+ <description>NASA will provide coverage of the upcoming prelaunch and launch activities for the National Oceanic and Atmospheric Administration’s (NOAA) Joint Polar Satellite System-2 (JPSS-2) mission. JPSS-2 is the third satellite in the polar satellite series and is expected to capture data to improve weather forecasts, helping scientists predict and prepare</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/2022-09_jpss2-beauty-hires.png?itok=cIerLZFZ" length="2192322" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-coverage-set-for-noaa-s-joint-polar-satellite-system-2-launch</guid>
+ <pubDate>Fri, 21 Oct 2022 17:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>483489</dc:identifier>
+</item>
+ <item> <title>NASA to Host Briefing on InSight, Mars Reconnaissance Orbiter Findings</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-host-briefing-on-insight-mars-reconnaissance-orbiter-findings</link>
+ <description>NASA will host a virtual media briefing at 2 p.m. EDT on Thursday, Oct. 27, to share new scientific findings based on observations from the agency’s InSight Mars lander and Mars Reconnaissance Orbiter (MRO).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/insight_photo.jpg?itok=dW1qe-rq" length="9687622" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-host-briefing-on-insight-mars-reconnaissance-orbiter-findings</guid>
+ <pubDate>Fri, 21 Oct 2022 17:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>483487</dc:identifier>
+</item>
+ <item> <title>NASA to Discuss Latest EMIT Findings, Helps Address Climate Change</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-discuss-latest-emit-findings-helps-address-climate-change</link>
+ <description>NASA will host a media teleconference at 3 p.m. EDT Tuesday, Oct. 25, to discuss the latest findings of the agency’s Earth Surface Mineral Dust Source Investigation (EMIT), including a new, unanticipated capability which will help better understand impacts of climate change.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/emit_update_telecon.jpeg?itok=TTLyUxNk" length="2217143" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-discuss-latest-emit-findings-helps-address-climate-change</guid>
+ <pubDate>Fri, 21 Oct 2022 14:17 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>483479</dc:identifier>
+</item>
+ <item> <title>NASA to Participate in ASCEND Conference, Brief Media on Tech Demo</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-participate-in-ascend-conference-brief-media-on-tech-demo</link>
+ <description>NASA leaders, including Deputy Administrator Pam Melroy, will participate in the 2022 ASCEND conference, hosted by the American Institute of Aeronautics and Astronautics (AIAA) in Las Vegas from Monday, Oct. 24, through Wednesday, Oct. 26.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/flight_load_test-4737.jpeg?itok=960LZaFJ" length="3216837" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-participate-in-ascend-conference-brief-media-on-tech-demo</guid>
+ <pubDate>Thu, 20 Oct 2022 15:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>483451</dc:identifier>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>
+NASA RSS Feed
+</title>
+<link rel="stylesheet" href="style.css"/>
+<link rel="icon" href="favicon.png"/>
+</head>
+<body>
+<div id="container">
+
+</div>
+<script>
+function renderNews(title,description,pubDate,enclosure,link,tag) {
+document.getElementById(tag).innerHTML += "<div><img src='"+enclosure+"'/><h1><a href='"+link+"'>"+title+"</a></h1><h6>"+pubDate+"</h6><p>"+description+"</p>";
+}
+function renderIOTD(title,description,pubDate,enclosure,link,tag) {
+document.getElementById(tag).innerHTML += "<div><img class='iotd' src='"+enclosure+"'/><h1><a href='"+link+"'>"+title+"</a></h1><h6>"+pubDate+"</h6><p>"+description+"</p>";
+}
+function readIOTD(json,id,tag) {
+for(var i in json.data) {
+var z = json.data[i]
+renderIOTD(z.title,z.desc,z.pubDate,z.img,z.link,tag)
+}
+}
+
+function readJSON(json,id,tag) {
+for(var i in json.data) {
+var z = json.data[i]
+renderNews(z.title,z.desc,z.pubDate,z.img,z.link,tag)
+}
+}
+var json;
+document.getElementById("container").innerHTML += "<button id='collapse_hst' onclick=\"collapse('hst')\">Hubble Space Telescope</button><div id='hst' style='display:none'></div>"
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+readJSON(JSON.parse(this.responseText),1,"hst");
+json = JSON.parse(this.responseText);
+}
+};
+xhttp.open("GET", "../v1/hubble.json", true);
+xhttp.send(); 
+document.getElementById("container").innerHTML += "<button id='collapse_iotd' onclick=\"collapse('iotd')\">Image of the Day</button><div id='iotd' style='display:none'></div>"
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+readIOTD(JSON.parse(this.responseText),1,"iotd");
+json = JSON.parse(this.responseText);
+}
+};
+xhttp.open("GET", "../v1/iotd.json", true);
+xhttp.send(); 
+function readData(id,title,path){
+document.getElementById("container").innerHTML += ("<button id='collapse_"+id+"' onclick=\"collapse('"+id+"')\">"+title+"</button><div id='"+id+"' style='display:none'></div>");
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+readJSON(JSON.parse(this.responseText),1,id);
+json = JSON.parse(this.responseText);
+}
+};
+xhttp.open("GET", "../v1/"+path, true);
+xhttp.send(); 
+}
+readData("news","Breaking News","news.json");
+readData("chandra","Chandra X-Ray Observatory","chandra.json");
+readData("ed_news","Education News","educationnews.json");
+//readData("iotd","Image of the Day","iotd.json");
+readData("kepler","Kepler Space Telescope","kepler.json");
+readData("solar","Solar System","solar.json");
+
+function collapse(divID) {
+if (document.getElementById(divID).style.display == "none") {
+document.getElementById(divID).style.display = "block"
+} else {
+document.getElementById(divID).style.display = "none"
+}
+}
+
+
+</script>
+</body>
+</html>

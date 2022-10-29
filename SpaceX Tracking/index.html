@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+SpaceX Tracker
+</title>
+<script src="getData.js"></script>
+<script>
+var info = getData();
+</script>
+<link rel="stylesheet" href='style.css' src='style.css'></link>
+<link rel="icon" href='favicon.png' src='favicon.png'></link>
+</head>
+<body>
+<h1>SpaceX Tracker</h1>
+<div id="nav">
+<button id="collapse_search">Search</button>
+</div>
+<div id="search">
+<div class="search">
+<h1>Search Parameters</h1>
+<h3>Object Type</h3>
+<select id="obj_type"><br/>
+<option value="capsule">Capsule</option>
+<option value="core">Core</option>
+<option value="launch">Launch</option>
+<option value="ship">Ship</option>
+<option value="landing_pad">Landing Pad</option>
+<option value="launch_pad">Launch Pad</option>
+</select>
+<h3>Search By</h3>
+<select id="searchby">
+</select>
+<h3>Search</h3>
+<input type="text" placeholder="Search"/>
+<button id="submit">Submit</button>
+</div>
+<div id="results"></div>
+</div>
+<script src="search.js"></script>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<script>
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+function add(parent,html) {
+document.getElementById(parent).appendChild((new DOMParser()).parseFromString(html,"text/xml").documentElement);
+}
+
+function collapse(id) {
+if(document.getElementById(id).style.display == "none") {
+document.getElementById(id).style.display = "block";
+} else {
+document.getElementById(id).style.display = "none";
+}
+topFunction();
+for(id_name in names) {
+if(id_name!=id) {
+document.getElementById(id_name).style.display = "none";
+}
+}
+}
+
+var names = {
+capsules: "Capsules",
+cores: "Cores",
+dragons: "Dragons",
+history: "History",
+info: "Company & API Information",
+landing_pads: "Landing Pads",
+launches: "Launches",
+launch_pads: "Launch Pads",
+missions: "Missions",
+payloads: "Payloads",
+rockets: "Rockets",
+roadster: "Elon Musk's Tesla Roadster",
+ships: "Drone Ships",
+search: "Search"
+};
+
+for(x in info) {
+var d = document.createElement("DIV");
+d.setAttribute("id",x);
+d.style.display = "none";
+document.body.appendChild(d);
+var b = document.createElement("button");
+b.innerHTML = names[x];
+b.addEventListener("click",Function("collapse('"+x+"');"));
+document.getElementById("nav").appendChild(b);
+}
+document.getElementById("collapse_search").addEventListener("click",Function("collapse('search');"));
+function readCapsules() {
+for(x in info.capsules) {
+// Create capsule container
+var d = document.createElement("DIV");
+d.setAttribute("id",info.capsules[x].capsule_serial);
+document.getElementById("capsules").appendChild(d);
+// Create capsule title
+var h = document.createElement("h1");
+h.innerHTML = info.capsules[x].capsule_serial+" - "+info.capsules[x].type;
+document.getElementById(info.capsules[x].capsule_serial).appendChild(h);
+// Create status indicator
+var status = document.createElement("p");
+status.setAttribute("class","status");
+status.innerHTML = "Status: "+info.capsules[x].status;
+document.getElementById(info.capsules[x].capsule_serial).appendChild(status);
+// Create stats
+var stats = document.createElement("p");
+status.setAttribute("class","stats");
+status.innerHTML = "Landings: "+info.capsules[x].landings+" Times Reused: "+info.capsules[x].reuse_count;
+if(info.capsules[x].original_launch != null) {
+status.innerHTML += " Original Launch Date: "+info.capsules[x].original_launch;
+}
+document.getElementById(info.capsules[x].capsule_serial).appendChild(stats);
+if(info.capsules[x].details != null) {
+// Create details
+var det = document.createElement("p");
+det.setAttribute("class","det");
+det.innerHTML = "Details: "+info.capsules[x].details;
+document.getElementById(info.capsules[x].capsule_serial).appendChild(det);
+}
+// Create missions container
+var m = document.createElement("DIV");
+m.setAttribute("id",info.capsules[x].capsule_serial+"_missions");
+document.getElementById(info.capsules[x].capsule_serial).appendChild(m);
+// Create missions header
+var mh = document.createElement("h3");
+mh.innerHTML = "Missions Used";
+document.getElementById(info.capsules[x].capsule_serial+"_missions").appendChild(mh);
+// Render Mission Data
+for(y in info.capsules[x].missions) {
+renderMissionData(info.capsules[x].missions[y].flight-1,info.capsules[x].capsule_serial+"_missions","h4");
+}
+}
+}
+
+function renderMissionData(index,parent,hnum) {
+if(info.launches.all[index]) {
+var mission = info.launches.all[index];
+// Create mission header
+var mh = document.createElement(hnum);
+mh.innerHTML = mission.mission_name+"(Flight "+(index+1)+")";
+document.getElementById(parent).appendChild(mh);
+// Create details
+if(mission.details != null) {
+var det = document.createElement("p");
+det.setAttribute("class","det");
+det.innerHTML = "Details: "+mission.details;
+document.getElementById(parent).appendChild(det);
+}
+// Create launch date
+var ld = document.createElement("p");
+ld.setAttribute("class","ld");
+ld.innerHTML = "Launch Date: "+mission.launch_date_local+", "+mission.launch_date_utc+" UTC";
+document.getElementById(parent).appendChild(ld);
+// Check success and create reasons if not successful
+if(!mission.launch_success) {
+if(mission.upcoming) {
+add(parent,"<p>Upcoming Launch</p>")
+} else {
+add(parent,"<p>Launch Failed: Time: "+mission.launch_failure_details.time+" Altitude: "+mission.launch_failure_details.altitude+" Reason: "+mission.launch_failure_details.reason+"</p>");
+}
+} else {
+add(parent,"<p>Launch Successful</p>");
+}
+
+document.getElementById(parent).appendChild(document.createElement("BR"));
+// Create rocket name
+add(parent,"<p> Rocket: "+mission.rocket.rocket_name+"</p>");
+
+document.getElementById(parent).appendChild(document.createElement("BR"));
+// Create site name
+add(parent,"<p> Launch Site: "+mission.launch_site.site_name_long+"</p>");
+
+document.getElementById(parent).appendChild(document.createElement("BR"));
+// Render Ships
+add(parent,"<p>Ships Used: "+mission.ships.join(", ")+"</p>");
+
+
+document.getElementById(parent).appendChild(document.createElement("BR"));
+// Render mission media/links
+if(mission.links.article_link!=null) {
+var article = document.createElement("A");
+article.href = mission.links.article_link;
+article.innerHTML = "Article Link";
+document.getElementById(parent).appendChild(article);
+
+document.getElementById(parent).appendChild(document.createElement("BR"));
+}
+
+if(mission.links.mission_patch!=null) {
+var patch = document.createElement("IMG");
+patch.src = mission.links.mission_patch_small;
+document.getElementById(parent).appendChild(patch);
+document.getElementById(parent).appendChild(document.createElement("BR"));
+}
+
+if(mission.links.presskit!=null) {
+var pk = document.createElement("A");
+pk.href = mission.links.presskit;
+pk.innerHTML = "Press Kit";
+document.getElementById(parent).appendChild(pk);
+
+document.getElementById(parent).appendChild(document.createElement("BR"));
+}
+
+if(mission.links.wikipedia!=null) {
+var w = document.createElement("A");
+w.href = mission.links.wikipedia;
+w.innerHTML = "Wikipedia";
+document.getElementById(parent).appendChild(w);
+
+document.getElementById(parent).appendChild(document.createElement("BR"));
+}
+
+if(mission.links.video_link!=null) {
+var vl = document.createElement("A");
+vl.href = mission.links.video_link;
+vl.innerHTML = "Video Link";
+document.getElementById(parent).appendChild(vl);
+
+document.getElementById(parent).appendChild(document.createElement("BR"));
+}
+
+if(mission.links.youtube_id!=null) {
+// iFrame Method
+var ytc = document.createElement("div");
+ytc.setAttribute("id",mission.links.youtube_id);
+
+var yt = document.createElement("iframe");
+yt.src = "https://www.youtube.com/embed/"+mission.links.youtube_id;
+yt.setAttribute("width",screen.width-50);yt.setAttribute("height",screen.height-50);
+document.getElementById(parent).appendChild(yt);
+
+document.getElementById(parent).appendChild(document.createElement("BR"));
+
+// Embed Method
+/*
+var yt = document.createElement("embed");
+yt.src = "https://www.youtube.com/embed/"+mission.links.youtube_id;
+yt.setAttribute("width",screen.width-50);yt.setAttribute("height",screen.height-50);
+document.getElementById(parent).appendChild(yt);
+
+document.getElementById(parent).appendChild(document.createElement("BR"));
+*/
+// Object Method
+/*
+var yt = document.createElement("object");
+yt.data = "https://www.youtube.com/embed/"+mission.links.youtube_id;
+yt.setAttribute("width",screen.width-50);yt.setAttribute("height",screen.height-50);
+document.getElementById(parent).appendChild(yt);
+add(parent,"<br></br>");
+*/
+ytc.appendChild(yt);
+document.getElementById(parent).appendChild(ytc);
+
+}
+
+
+}
+}
+
+function readLaunches() {
+// Next Launch
+var next_h = document.createElement("h1");
+next_h.innerHTML = "Next";
+document.getElementById("launches").appendChild(next_h);
+renderMissionData(info.launches.next.flight_number-1,"launches","h2");
+
+// Latest Launch
+var ltst_h = document.createElement("h1");
+ltst_h.innerHTML = "Latest";
+document.getElementById("launches").appendChild(ltst_h);
+renderMissionData(info.launches.latest.flight_number-1,"launches","h2");
+
+
+// Upcoming Launches
+var uc_h = document.createElement("h1");
+uc_h.innerHTML = "Upcoming";
+document.getElementById("launches").appendChild(uc_h);
+for(i in info.launches.upcoming) {
+renderMissionData(info.launches.upcoming[i].flight_number-1,"launches","h2");
+}
+
+// All Launches
+var all_h = document.createElement("h1");
+all_h.innerHTML = "All";
+document.getElementById("launches").appendChild(all_h);
+i=0;
+a = setInterval(function(){
+renderMissionData(info.launches.all[i].flight_number-1,"launches","h2");
+i++;
+if(i>=info.launches.all.length) {
+clearInterval(a);
+}
+},1000);
+
+}
+var i;
+var a;
+
+function readInfo() {
+var apiInfoH = document.createElement("h1");
+apiInfoH.innerHTML = "API Info";
+document.getElementById("info").appendChild(apiInfoH);
+var infohtwo = document.createElement("h2");
+var infoA = document.createElement("A");
+infoA.setAttribute("href",info.info.api.organization_link);
+infoA.innerHTML = info.info.api.organization;
+infohtwo.appendChild(infoA);
+document.getElementById("info").appendChild(infohtwo);
+var infoAtwo = document.createElement("A");
+infoAtwo.setAttribute("href",info.info.api.project_link);
+infoAtwo.innerHTML = info.info.api.project_name+" - "+info.info.api.version;
+document.getElementById("info").appendChild(infoAtwo);
+var apiDesc = document.createElement("p");
+apiDesc.innerHTML = info.info.api.description
+document.getElementById('info').appendChild(apiDesc);
+
+var infoH = document.createElement("h1");
+infoH.innerHTML = "Company Info";
+document.getElementById("info").appendChild(infoH);
+var p = document.createElement("h2");
+p.innerHTML = "Space Exploration Technologies Incorporated (SpaceX)";
+document.getElementById('info').appendChild(p);
+p = document.createElement("p");
+p.innerHTML = "Founded in "+info.info.info.founded+" by "+info.info.info.founder;
+document.getElementById('info').appendChild(p);
+p = document.createElement("p");p.innerHTML = "Valuation: $"+info.info.info.valuation;
+document.getElementById('info').appendChild(p);
+p = document.createElement("p");p.innerHTML = "CEO: "+info.info.info.ceo;
+document.getElementById('info').appendChild(p);
+p = document.createElement("p");p.innerHTML = "COO: "+info.info.info.coo;
+document.getElementById('info').appendChild(p);
+p = document.createElement("p");p.innerHTML = "CTO: "+info.info.info.cto;
+document.getElementById('info').appendChild(p);
+p = document.createElement("p");p.innerHTML = "Propulsion CTO: "+info.info.info.cto_propulsion;
+document.getElementById('info').appendChild(p);
+p = document.createElement("p");p.innerHTML = "Employees: "+info.info.info.employees;
+document.getElementById('info').appendChild(p);
+p = document.createElement("p");p.innerHTML = info.info.info.summary;
+document.getElementById('info').appendChild(p);
+p = document.createElement("p");p.innerHTML = "Located on "+info.info.info.headquarters.address+" in "+info.info.info.headquarters.city+", "+info.info.info.headquarters.state;
+document.getElementById('info').appendChild(p);
+}
+
+function get(url) {
+var data;
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+data = this.responseText;
+
+}
+};
+xhttp.open("GET", url, false);
+xhttp.send(); 
+return data;
+}
+
+function readCores() {
+var cores = info.cores;
+for(j in cores) {
+var core_container = document.createElement("DIV");
+core_container.innerHTML = get("core_format.xml").replace(/{{j}}/gi,j);
+document.getElementById("cores").appendChild(core_container);
+document.getElementById("core_name"+j).innerHTML = cores[j].core_serial;
+
+document.getElementById("core_details"+j).innerHTML = cores[j].details;
+document.getElementById("core_original"+j).innerHTML = cores[j].original_launch;
+document.getElementById("core_status"+j).innerHTML = cores[j].status;
+document.getElementById("core_rtls_a"+j).innerHTML = cores[j].rtls_attempts;
+document.getElementById("core_rtls"+j).innerHTML = cores[j].rtls_landings;
+
+document.getElementById("core_asds_a"+j).innerHTML = cores[j].asds_attempts;
+document.getElementById("core_asds"+j).innerHTML = cores[j].asds_landings;
+var cmc = document.createElement("DIV");
+cmc.setAttribute("id",j+"_missions");
+document.getElementById("cores").appendChild(cmc);
+for(y in cores[j].missions) {
+renderMissionData(cores[j].missions[y].flight-1,j+"_missions","h4");
+}
+
+}
+
+}
+
+function readDragon() {
+var drag = info.dragons;
+for(j in drag) {
+var d_container = document.createElement("DIV");
+d_container.innerHTML = (get("dragon_format.xml").replace(/{{j}}/gi,j)).replace("{{wikipedia}}",drag[j].wikipedia);
+document.getElementById("dragons").appendChild(d_container);
+document.getElementById("dragon"+j).innerHTML = drag[j].name;
+document.getElementById("desc"+j).innerHTML = drag[j].description;
+document.getElementById("ff"+j).innerHTML = drag[j].first_flight;
+if(drag[j].active) {
+document.getElementById("active"+j).innerHTML = "Active";
+} else {
+document.getElementById("active"+j).innerHTML = "Inactive";
+}
+document.getElementById("masskg"+j).innerHTML = drag[j].dry_mass_kg;
+document.getElementById("masslbs"+j).innerHTML = drag[j].dry_mass_lb;
+document.getElementById("payloadkg"+j).innerHTML = drag[j].launch_payload_mass.kg;
+document.getElementById("payloadlbs"+j).innerHTML = drag[j].launch_payload_mass.lb;
+document.getElementById("payloadvolm"+j).innerHTML = drag[j].launch_payload_vol.cubic_meters;
+document.getElementById("payloadvolft"+j).innerHTML = drag[j].launch_payload_vol.cubic_feet;
+document.getElementById("presspayloadvolm"+j).innerHTML = drag[j].pressurized_capsule.payload_volume.cubic_meters;
+document.getElementById("presspayloadvolft"+j).innerHTML = drag[j].pressurized_capsule.payload_volume.cubic_feet;
+document.getElementById("rtrnpayloadkg"+j).innerHTML = drag[j].return_payload_mass.kg;
+document.getElementById("rtrnpayloadlbs"+j).innerHTML = drag[j].return_payload_mass.lb;
+document.getElementById("rtrnpayloadvolm"+j).innerHTML = drag[j].return_payload_vol.cubic_meters;
+document.getElementById("rtrnpayloadvolft"+j).innerHTML = drag[j].return_payload_vol.cubic_feet;
+document.getElementById("od"+j).innerHTML = drag[j].orbit_duration_yr;
+document.getElementById("cc"+j).innerHTML = drag[j].crew_capacity;
+document.getElementById("dia_m"+j).innerHTML = drag[j].diameter.meters;
+document.getElementById("dia_ft"+j).innerHTML = drag[j].diameter.feet;
+document.getElementById("incline"+j).innerHTML = drag[j].sidewall_angle_deg;
+document.getElementById("trunkm"+j).innerHTML = drag[j].trunk.trunk_volume.cubic_meters;
+document.getElementById("trunkft"+j).innerHTML = drag[j].trunk.trunk_volume.cubic_feet;
+document.getElementById("solar"+j).innerHTML = drag[j].trunk.cargo.solar_array;
+document.getElementById("hssize"+j).innerHTML = drag[j].heat_shield.size_meters;
+document.getElementById("mat"+j).innerHTML = drag[j].heat_shield.material;
+document.getElementById("temp"+j).innerHTML = drag[j].heat_shield.temp_degrees;
+for(k in drag[j].thrusters) {
+var p = document.createElement("h4");
+p.innerHTML = drag[j].thrusters[k].type;
+document.getElementById("thrust"+j).appendChild(p);
+p = document.createElement("p");
+p.innerHTML = "Amount: "+drag[j].thrusters[k].amount;
+document.getElementById("thrust"+j).appendChild(p);
+p = document.createElement("p");
+p.innerHTML = "Pods: "+drag[j].thrusters[k].pods;
+document.getElementById("thrust"+j).appendChild(p);
+p = document.createElement("p");
+p.innerHTML = "Thrust: "+(drag[j].thrusters[k].thrust.kN*1000)+" Newtons ("+drag[j].thrusters[k].thrust.lbf+" Pounds of Force)";
+document.getElementById("thrust"+j).appendChild(p);
+p = document.createElement("p");
+p.innerHTML = "Fueled by "+drag[j].thrusters[k]['fuel_1']+" and "+drag[j].thrusters[k]['fuel_2'];
+document.getElementById("thrust"+j).appendChild(p);
+
+}
+for(k in drag[j].flickr_images) {
+var img = document.createElement("IMG");
+img.src = drag[j].flickr_images[k];
+document.getElementById("img"+j).appendChild(img);
+}
+}
+}
+
+function readHist() {
+var hist = info.history;
+for(j in hist) {
+var article_container = document.createElement("DIV");
+var title = document.createElement("H1");
+var event_date = document.createElement("P");
+var det = document.createElement("P");
+var flight = document.createElement("P");
+var article_link = document.createElement("A");
+var wikipedia = document.createElement("A");
+event_date.innerHTML = "Event Date: "+hist[j].event_date_utc;
+det.innerHTML = hist[j].details;
+flight.innerHTML = "Flight #: "+hist[j].flight_number;
+article_link.innerHTML = hist[j].title;
+article_link.setAttribute("href",hist[j].links.article);
+title.appendChild(article_link);
+document.getElementById("history").append(title,det,event_date,flight);
+}
+}
+
+function readFormatFile(url) {
+var vars = {};
+var starts = [];
+var ends = [];
+vars = {};
+var file = get(url);
+starts = [];
+ends = [];
+for(var z=0; z<file.length; z++) {
+if(file[z]=="{"&&file[z+1]=="{") {
+starts.push(z);
+}
+if(file[z-1]=="}"&&file[z]=="}") {
+ends.push(z);
+}
+}
+
+for(z in starts) {
+vars[file.slice(starts[z],ends[z]+1)]=(file.slice(starts[z]+2,ends[z]-1));
+}
+for(z in vars) {
+file = file.replace(z,eval(vars[z]));
+}
+return file;
+}
+
+function readLandP() {
+for(j in info.landing_pads) {
+document.getElementById("landing_pads").innerHTML+=readFormatFile("landing_pad_format.xml");
+}
+}
+
+function readLaunchP() {
+for(j in info.launch_pads) {
+document.getElementById("launch_pads").innerHTML+=readFormatFile("launch_pad_format.xml");
+}
+}
+
+function readMissions() {
+for(j in info.missions) {
+document.getElementById("missions").innerHTML+=readFormatFile("missions_format.xml").replace(/href="null"/gi,"href='404.html'");
+}
+}
+
+function returnIf(data,d) {
+if(data) {
+return data;
+} else {
+return d;
+}
+}
+
+function readPayloads() {
+for(j in info.payloads) {
+document.getElementById("payloads").innerHTML+=readFormatFile("payload_format.xml");
+}
+}
+
+function readRoadster() {
+document.getElementById("roadster").innerHTML+=readFormatFile("roadster_format.xml");
+}
+
+function flickr(arr) {
+var img_data = "";
+for(abc in arr) {
+var img_el = document.createElement("IMG");
+img_el.width = window.innerWidth - 100;
+img_el.src = arr[abc];
+img_data+=img_el.outerHTML;
+}
+return img_data;
+}
+
+function payloadWeights(data) {
+var p_data = "";
+for(abc in data) {
+var p_el = document.createElement("P");
+p_el.innerHTML = data[abc].name+" - "+data[abc].kg+" kg";
+p_data+=p_el.outerHTML;
+}
+return p_data;
+
+}
+
+function readRockets() {
+for(j in info.rockets) {
+document.getElementById("rockets").innerHTML+=readFormatFile("rocket_format.xml");
+}
+}
+
+function readMissionsUsed(arr,id) {
+for(abc in arr) {
+renderMissionData(arr[abc].flight-1,id,"h4");
+}
+}
+
+function readShips() {
+for(j in info.ships) {
+document.getElementById("ships").innerHTML+=readFormatFile("ships_format.xml");
+//readMissionsUsed(info.ships[j].missions,"ship"+j);
+}
+}
+</script>
+<script>
+readCapsules();
+readLaunches();
+readInfo();
+readCores();
+readDragon();
+readHist();
+readLandP();
+readLaunchP();
+readMissions();
+readPayloads();
+readRoadster();
+readRockets();
+readShips();
+</script>
+</body>
+</html>

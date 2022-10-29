@@ -1,0 +1,7 @@
+<h1>{{info.missions[j].mission_name}} ({{info.missions[j].mission_id}})</h1>
+<h3>Manufactured by {{info.missions[j].manufacturers.join(", ")}}</h3>
+<p>{{info.missions[j].description}}</p>
+<p>Payloads: {{info.missions[j].payload_ids.join(", ")}}</p>
+<a href="{{info.missions[j].twitter}}">Twitter</a>
+<a href="{{info.missions[j].wikipedia}}">Wikipedia</a>
+<a href="{{info.missions[j].website}}">Website</a>

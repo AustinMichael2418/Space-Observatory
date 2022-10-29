@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASACast: This Week @ NASA Video</title>
+ <description>A weekly video summary of the latest news, events and mission activities at NASA.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss" />
+ <language>en-us</language>
+ <image> <url>http://www.nasa.gov/images/content/175183main_twan_itunes_1400.jpg</url>
+ <title>NASACast: This Week @ NASA Video</title>
+ <link>http://www.nasa.gov/</link>
+</image>
+ <copyright>no copyright</copyright>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>jim.wilson@nasa.gov</webMaster>
+ <itunes:subtitle>This Week @NASA: A weekly summary of the latest news, events and mission activities at NASA.</itunes:subtitle>
+ <itunes:category text="Science &amp; Medicine" />
+ <itunes:keywords>NASA, Portal, audio, video, MP4s, NASATV, space station, This Week at NASA, news, space, Mars, Earth, Moon, station, space</itunes:keywords>
+ <itunes:image href="https://www.nasa.gov/sites/default/files/thumbnails/image/twan-logo.png" />
+ <itunes:author>National Aeronautics and Space Administration (NASA)</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>jim.wilson@nasa.gov</itunes:email>
+ <itunes:name>Brian Dunbar</itunes:name>
+</itunes:owner>
+ <item> <title>This Week @NASA, Oct. 28, 2022</title>
+ <link>http://www.nasa.gov/mediacast/this-week-nasa-oct-28-2022</link>
+ <description>InSight Lander Detects Stunning Meteoroid Impact on Mars and more ...</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/twn_102822_social.mp4" length="121090334" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/this-week-nasa-oct-28-2022</guid>
+ <pubDate>Fri, 28 Oct 2022 14:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss">NASACast: This Week @ NASA Video</source>
+</item>
+ <item> <title>This Week @NASA, Oct. 21, 2022</title>
+ <link>http://www.nasa.gov/mediacast/this-week-nasa-oct-21-2022</link>
+ <description>Webb’s New Star-Filled “Pillars of Creation” Image and more ...</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nhq_2022_1021_twn_social.mp4" length="130520342" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/this-week-nasa-oct-21-2022</guid>
+ <pubDate>Fri, 21 Oct 2022 14:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss">NASACast: This Week @ NASA Video</source>
+</item>
+ <item> <title>This Week @NASA, Oct. 14, 2022</title>
+ <link>http://www.nasa.gov/mediacast/this-week-nasa-oct-14-2022</link>
+ <description>Data Confirms DART Impact Changed Asteroid’s Motion and more ...</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nhq_2022_1014_twn_social.mp4" length="125727517" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/this-week-nasa-oct-14-2022</guid>
+ <pubDate>Fri, 14 Oct 2022 17:50 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss">NASACast: This Week @ NASA Video</source>
+</item>
+ <item> <title>This Week @NASA, Oct. 7, 2022</title>
+ <link>http://www.nasa.gov/mediacast/this-week-nasa-oct-7-2022</link>
+ <description>NASA’s SpaceX Crew-5 Launches to the Space Station and more ...</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nhq_2022_1007_twn_social.mp4" length="121751284" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/this-week-nasa-oct-7-2022</guid>
+ <pubDate>Fri, 07 Oct 2022 17:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss">NASACast: This Week @ NASA Video</source>
+</item>
+ <item> <title>This Week @NASA, Sept. 30, 2022</title>
+ <link>http://www.nasa.gov/mediacast/this-week-nasa-sept-30-2022</link>
+ <description>Successful Impact for First-Ever Planetary Defense Test and more ...</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/twan_093022_site.mp4" length="295091852" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/this-week-nasa-sept-30-2022</guid>
+ <pubDate>Fri, 30 Sep 2022 15:53 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss">NASACast: This Week @ NASA Video</source>
+</item>
+ <item> <title>This Week @NASA, Sept. 23, 2022</title>
+ <link>http://www.nasa.gov/mediacast/this-week-nasa-sept-23-2022</link>
+ <description>A Critical Preflight Artemis I Demonstration Test and more ...</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nhq_2022_0923_twn_social.mp4" length="297790989" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/this-week-nasa-sept-23-2022</guid>
+ <pubDate>Fri, 23 Sep 2022 13:44 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss">NASACast: This Week @ NASA Video</source>
+</item>
+ <item> <title>This Week @NASA, Sept. 16, 2022</title>
+ <link>http://www.nasa.gov/mediacast/this-week-nasa-sept-16-2022</link>
+ <description>The 60th Anniversary of JFK’s Speech at Rice University and more ...</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nhq_2022_0916_twn_social.mp4" length="326591895" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/this-week-nasa-sept-16-2022</guid>
+ <pubDate>Fri, 16 Sep 2022 14:05 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss">NASACast: This Week @ NASA Video</source>
+</item>
+ <item> <title>This Week @NASA, Sept. 9, 2022</title>
+ <link>http://www.nasa.gov/mediacast/this-week-nasa-sept-9-2022</link>
+ <description>Teams Review Options for Next Artemis I Launch Attempt and more ...</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nhq_2022_0909_twn_social.mp4" length="496497178" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/this-week-nasa-sept-9-2022</guid>
+ <pubDate>Fri, 09 Sep 2022 16:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss">NASACast: This Week @ NASA Video</source>
+</item>
+ <item> <title>This Week @NASA, Sept. 2, 2022</title>
+ <link>http://www.nasa.gov/mediacast/this-week-nasa-sept-2-2022</link>
+ <description>An Update on Our Artemis I Moon Mission and more ...</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nhq_2022_0902_twn_social.mp4" length="270394321" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/this-week-nasa-sept-2-2022</guid>
+ <pubDate>Fri, 02 Sep 2022 16:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss">NASACast: This Week @ NASA Video</source>
+</item>
+ <item> <title>This Week @NASA, Aug. 26, 2022</title>
+ <link>http://www.nasa.gov/mediacast/this-week-nasa-aug-26-2022</link>
+ <description>Artemis I is Flight Ready and “Go for Launch!” and more ...</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/twn_082622_social.mp4" length="274190526" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/this-week-nasa-aug-26-2022</guid>
+ <pubDate>Fri, 26 Aug 2022 14:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/TWAN_vodcast.rss">NASACast: This Week @ NASA Video</source>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href='https://fonts.googleapis.com/css?family=Roboto Mono' rel='stylesheet'>
+<script src="voyager_telem.js"></script>
+<title>NASA Live</title>
+<style>
+.nav {
+width: 10%;
+float:left;
+}
+.body {
+width: 80%;
+float:left;
+margin-left: 50px;
+}
+.iss_tracker {
+width: 100%;
+height: 500px;
+}
+
+</style>
+<script src="../lib/get.js"></script>
+<link src="../lib/collapsible/collapsible.css" href="../lib/collapsible/collapsible.css" rel="stylesheet"></link>
+<link src="style.css" href="style.css" rel="stylesheet"></link>
+
+</head>
+<body>
+
+
+
+
+
+
+<div class="nav">
+<button class="collapsible">Home</button>
+<div class="content">
+<p link='home'>Home</p>
+<p link='about'>About</p>
+</div>
+<button class="collapsible">NASA TV</button>
+<div class="content">
+<p link='tv_public'>Public</p>
+<p link='tv_media'>Media</p>
+<p link='tv_iss'>ISS Views</p>
+</div>
+<button class="collapsible">Telemetry</button>
+<div class="content">
+<p link='iss_track'>ISS</p>
+<p link='voyager_track'>Voyager</p>
+</div>
+
+</div>
+
+
+
+<div class="body">
+
+
+
+
+
+<div class="page" id="home">
+<h1>NASA Live - Home</h1>
+<p>Welcome to the NASA Live Homepage! Here, you can find everything you need to track live events from NASA!</p>
+</div>
+
+
+
+<div class="page" id="tv_public" select_page="pub_select">
+<h1>NASA Live - NASA TV Public Channel</h1>
+
+
+<div id="pub_select" class="select_parent">
+<button class="select" onclick="document.getElementById('pub_ustream').style.display='block';document.getElementById('pub_select').style.display='none';">UStream</button>
+<button class="select" onclick="document.getElementById('pub_yt').style.display='block';document.getElementById('pub_select').style.display='none';">YouTube</button>
+</div>
+
+
+<div id="pub_ustream">
+<iframe width="480" height="270" src="http://www.ustream.tv/embed/6540154" scrolling="no" allowfullscreen webkitallowfullscreen frameborder="0" style="border: 0 none transparent;"></iframe>
+</div>
+
+
+<div id="pub_yt">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/21X5lGlDOfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+</div>
+
+<div class="page" id="tv_media" select_page="m_select">
+<h1>NASA Live - NASA TV Media Channel</h1>
+
+
+<div id="m_select" class="select_parent">
+<button class="select" onclick="document.getElementById('m_ustream').style.display='block';document.getElementById('m_select').style.display='none';">UStream</button>
+<button class="select" onclick="document.getElementById('m_yt').style.display='block';document.getElementById('m_select').style.display='none';">YouTube</button>
+</div>
+
+
+<div id="m_ustream">
+<iframe width="480" height="270" src="http://www.ustream.tv/embed/10414700" scrolling="no" allowfullscreen webkitallowfullscreen frameborder="0" style="border: 0 none transparent;"></iframe>
+</div>
+
+
+<div id="m_yt">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nA9UZF-SZoQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+</div>
+
+<div class="page" id="tv_iss" select_page="iss_select">
+<h1>NASA Live - NASA TV ISS Views</h1>
+
+
+<div id="iss_select" class="select_parent">
+<button class="select" onclick="document.getElementById('iss_ustream').style.display='block';document.getElementById('iss_select').style.display='none';">UStream</button>
+<button class="select" onclick="document.getElementById('iss_yt').style.display='block';document.getElementById('iss_select').style.display='none';">YouTube</button>
+</div>
+
+
+<div id="iss_ustream">
+<iframe width="480" height="270" src="http://www.ustream.tv/embed/17074538" scrolling="no" allowfullscreen webkitallowfullscreen frameborder="0" style="border: 0 none transparent;"></iframe>
+</div>
+
+
+<div id="iss_yt">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uj3FqkflC7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+</div>
+
+
+
+<div id="iss_track">
+<h1>NASA Live - ISS Tracker</h1>
+<iframe allowfullscreen class="iss_tracker" src="https://isstracker.spaceflight.esa.int/"></iframe>
+</div>
+
+<div id="voyager_track">
+<h1>NASA Live - ISS Tracker</h1>
+<p>Distance From Sun: Voyager 1: <span id="v1s"></span> Voyager 2: <span id="v2s"></span></p>
+<p>Distance From Earth: Voyager 1: <span id="v1"></span> Voyager 2: <span id="v2"></span></p>
+<p>One-Way Light Time: Voyager 1: <span id="v1lt"></span> Voyager 2: <span id="v2lt"></span></p>
+
+<script>
+function track_voyager() {
+document.getElementById("v1s").innerText = VoyagerTelem.getPos().voyager1.distances.sun.au + " AU ("+ VoyagerTelem.getPos().voyager1.distances.sun.km+" km)";
+document.getElementById("v2s").innerText = VoyagerTelem.getPos().voyager2.distances.sun.au + " AU ("+ VoyagerTelem.getPos().voyager2.distances.sun.km+" km)";
+document.getElementById("v1").innerText = VoyagerTelem.getPos().voyager1.distances.earth.au + " AU ("+ VoyagerTelem.getPos().voyager1.distances.earth.km+" km)";
+document.getElementById("v2").innerText = VoyagerTelem.getPos().voyager1.distances.earth.au + " AU ("+ VoyagerTelem.getPos().voyager1.distances.earth.km+" km)";
+
+
+var v1lt = VoyagerTelem.getPos().voyager1.distances.earth.km*2/299792.458/2;
+var v2lt = VoyagerTelem.getPos().voyager2.distances.earth.km*2/299792.458/2;
+v1lthr = Math.floor(v1lt / 60 / 60);
+v1ltmin = Math.floor(v1lt / 60 % 60);
+v1ltsec = Math.floor(v1lt % 60 % 60);
+v2lthr = Math.floor(v2lt / 60 / 60);
+v2ltmin = Math.floor(v2lt / 60 % 60);
+v2ltsec = Math.floor(v2lt % 60 % 60);
+
+
+document.getElementById("v1lt").innerText = [v1lthr,v1ltmin,v1ltsec].join(":");
+document.getElementById("v2lt").innerText = [v2lthr,v2ltmin,v2ltsec].join(":");
+
+requestAnimationFrame(track_voyager);
+
+}
+
+track_voyager();
+
+</script>
+</div>
+
+
+
+
+
+<div id="about">
+<h1>NASA Live - About</h1>
+<p word-wrap>This website allows you to stay up-to-date with NASA live events such as rocket launches, webcasts, and more on NASA TV. The website also gives the opportunity to track telemetry of spacecraft including the ISS!</p>
+
+</div>
+
+
+
+
+
+
+</div>
+<script src="../lib/collapsible/collapsible.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+var pages = ["home","tv_public","pub_ustream","iss_track","pub_yt","tv_media","m_ustream","m_yt","tv_iss","iss_ustream","iss_yt",'about','voyager_track'];
+function changePages(pageID) {
+for(i in pages) {
+document.getElementById(pages[i]).style.display = 'none';
+}
+document.getElementById(pageID).style.display = 'block';
+if(document.getElementById(pageID).hasAttribute('select_page')) {
+document.getElementById(document.getElementById(pageID).getAttribute('select_page')).style.display = 'block';
+
+}
+}
+
+changePages('home');
+
+for(i in document.getElementsByClassName('nav')[0].getElementsByTagName('p')) {
+if(document.getElementsByClassName('nav')[0].getElementsByTagName('p')[i].hasAttribute('link')) {
+document.getElementsByClassName('nav')[0].getElementsByTagName('p')[i].addEventListener('click',Function('changePages("'+document.getElementsByClassName('nav')[0].getElementsByTagName('p')[i].getAttribute('link')+'");'));
+}
+}
+</script>
+</body>
+</html>

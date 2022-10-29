@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Space Telescope Live</title>
+    <link>https://spacetelescopelive.org/feed</link>
+    <description>What is Hubble looking at now?</description>
+    <copyright>Space Telescope Science Institute (copyright@stsci.edu)</copyright>
+    <language>en</language>
+    <item>
+      <title>ULLYSES LMC O7-O8 Dwarfs - COS</title>
+      <description>This proposal includes a subset of the massive ULLYSES stars being observed in the Magellanic clouds. 
+
+Depending on target brightness, the main FUV spectral range will generally use either the STIS E140M setting or the combination of the COS c1291 + c1611 settings. Sufficiently bright stars without good FUSE data in the archive will also be observed with the COS c1096 setting to provide coverage at shorter wavelengths. Where time permits, stars of type O9 or later will also be observed with STIS E230M/1978, while for supergiants of spectral type B5 or later E230M/2707 may also be included. Where possible, targets of a given spectral type were selected to span both a range in extinction and in rotation rates to support a variety of stellar and ISM studies. 
+
+Signal-to-noise requirements used to determine the desired exposures times were defined as follows:
+COS/G130M/c1096:  20 / nine-pixel resel at 1080 A
+COS/G130M/c1291:  30 / six-pixel resel at 1150 A
+COS/G160M/c1611:  30 / six-pixel resel at 1590 A
+COS/G185M/c1953:  30 / three-pixel resel at 1860 A
+COS/G185M/c1986:  30 / three-pixel resel at 1980 A
+STIS/E140M/c1425: 20 / two-pixel resel at 1200 A
+STIS/E230M/c1978: 20 / two-pixel resel at 1800 A
+STIS/E230M/c2707: 20 / two-pixel resel at 2800 A
+The actual implemented exposure times may be adjusted to efficiently use HST orbits, but should always provide at least 80% of the desired time as defined by the above requirements.
+
+Additional details about the scientific motivation and technical implementation strategy of the ULLYSES observations can be found at http://www.stsci.edu/stsci-research/research-topics-and-programs/ullyses. The ULLYSES program is based on the recommendations of a working group led by Sally Oey; the full text of that group's report can be found at http://www.stsci.edu/files/live/sites/www/files/home/stsci-research/research-topics-and-programs/ullyses/_documents/HSTUV-report-ULLYSES.pdf.</description>
+      <pubDate>Sat, 29 Oct 2022 22:00:27 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16818&amp;mission=hst</link>
+      <enclosure url="https://archive.stsci.edu/cgi-bin/dss_search?v=poss2ukstu_red&amp;r=82.73999999999999&amp;d=-70.941&amp;e=J2000&amp;h=10&amp;w=10&amp;f=gif&amp;c=none&amp;fov=NONE&amp;v3=" type="image/gif"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T22:00:27Z</guid>
+    </item>
+    <item>
+      <title>ULLYSES LMC O7-O8 Dwarfs - COS</title>
+      <description>This proposal includes a subset of the massive ULLYSES stars being observed in the Magellanic clouds. 
+
+Depending on target brightness, the main FUV spectral range will generally use either the STIS E140M setting or the combination of the COS c1291 + c1611 settings. Sufficiently bright stars without good FUSE data in the archive will also be observed with the COS c1096 setting to provide coverage at shorter wavelengths. Where time permits, stars of type O9 or later will also be observed with STIS E230M/1978, while for supergiants of spectral type B5 or later E230M/2707 may also be included. Where possible, targets of a given spectral type were selected to span both a range in extinction and in rotation rates to support a variety of stellar and ISM studies. 
+
+Signal-to-noise requirements used to determine the desired exposures times were defined as follows:
+COS/G130M/c1096:  20 / nine-pixel resel at 1080 A
+COS/G130M/c1291:  30 / six-pixel resel at 1150 A
+COS/G160M/c1611:  30 / six-pixel resel at 1590 A
+COS/G185M/c1953:  30 / three-pixel resel at 1860 A
+COS/G185M/c1986:  30 / three-pixel resel at 1980 A
+STIS/E140M/c1425: 20 / two-pixel resel at 1200 A
+STIS/E230M/c1978: 20 / two-pixel resel at 1800 A
+STIS/E230M/c2707: 20 / two-pixel resel at 2800 A
+The actual implemented exposure times may be adjusted to efficiently use HST orbits, but should always provide at least 80% of the desired time as defined by the above requirements.
+
+Additional details about the scientific motivation and technical implementation strategy of the ULLYSES observations can be found at http://www.stsci.edu/stsci-research/research-topics-and-programs/ullyses. The ULLYSES program is based on the recommendations of a working group led by Sally Oey; the full text of that group's report can be found at http://www.stsci.edu/files/live/sites/www/files/home/stsci-research/research-topics-and-programs/ullyses/_documents/HSTUV-report-ULLYSES.pdf.</description>
+      <pubDate>Sat, 29 Oct 2022 21:47:17 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16818&amp;mission=hst</link>
+      <enclosure url="https://archive.stsci.edu/cgi-bin/dss_search?v=poss2ukstu_red&amp;r=82.73999999999999&amp;d=-70.941&amp;e=J2000&amp;h=10&amp;w=10&amp;f=gif&amp;c=none&amp;fov=NONE&amp;v3=" type="image/gif"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T21:47:17Z</guid>
+    </item>
+    <item>
+      <title>ULLYSES LMC O7-O8 Dwarfs - COS</title>
+      <description>This proposal includes a subset of the massive ULLYSES stars being observed in the Magellanic clouds. 
+
+Depending on target brightness, the main FUV spectral range will generally use either the STIS E140M setting or the combination of the COS c1291 + c1611 settings. Sufficiently bright stars without good FUSE data in the archive will also be observed with the COS c1096 setting to provide coverage at shorter wavelengths. Where time permits, stars of type O9 or later will also be observed with STIS E230M/1978, while for supergiants of spectral type B5 or later E230M/2707 may also be included. Where possible, targets of a given spectral type were selected to span both a range in extinction and in rotation rates to support a variety of stellar and ISM studies. 
+
+Signal-to-noise requirements used to determine the desired exposures times were defined as follows:
+COS/G130M/c1096:  20 / nine-pixel resel at 1080 A
+COS/G130M/c1291:  30 / six-pixel resel at 1150 A
+COS/G160M/c1611:  30 / six-pixel resel at 1590 A
+COS/G185M/c1953:  30 / three-pixel resel at 1860 A
+COS/G185M/c1986:  30 / three-pixel resel at 1980 A
+STIS/E140M/c1425: 20 / two-pixel resel at 1200 A
+STIS/E230M/c1978: 20 / two-pixel resel at 1800 A
+STIS/E230M/c2707: 20 / two-pixel resel at 2800 A
+The actual implemented exposure times may be adjusted to efficiently use HST orbits, but should always provide at least 80% of the desired time as defined by the above requirements.
+
+Additional details about the scientific motivation and technical implementation strategy of the ULLYSES observations can be found at http://www.stsci.edu/stsci-research/research-topics-and-programs/ullyses. The ULLYSES program is based on the recommendations of a working group led by Sally Oey; the full text of that group's report can be found at http://www.stsci.edu/files/live/sites/www/files/home/stsci-research/research-topics-and-programs/ullyses/_documents/HSTUV-report-ULLYSES.pdf.</description>
+      <pubDate>Sat, 29 Oct 2022 20:57:48 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16818&amp;mission=hst</link>
+      <enclosure url="https://archive.stsci.edu/cgi-bin/dss_search?v=poss2ukstu_red&amp;r=82.73999999999999&amp;d=-70.941&amp;e=J2000&amp;h=10&amp;w=10&amp;f=gif&amp;c=none&amp;fov=NONE&amp;v3=" type="image/gif"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T20:57:48Z</guid>
+    </item>
+    <item>
+      <title>ULLYSES LMC O7-O8 Dwarfs - COS</title>
+      <description>This proposal includes a subset of the massive ULLYSES stars being observed in the Magellanic clouds. 
+
+Depending on target brightness, the main FUV spectral range will generally use either the STIS E140M setting or the combination of the COS c1291 + c1611 settings. Sufficiently bright stars without good FUSE data in the archive will also be observed with the COS c1096 setting to provide coverage at shorter wavelengths. Where time permits, stars of type O9 or later will also be observed with STIS E230M/1978, while for supergiants of spectral type B5 or later E230M/2707 may also be included. Where possible, targets of a given spectral type were selected to span both a range in extinction and in rotation rates to support a variety of stellar and ISM studies. 
+
+Signal-to-noise requirements used to determine the desired exposures times were defined as follows:
+COS/G130M/c1096:  20 / nine-pixel resel at 1080 A
+COS/G130M/c1291:  30 / six-pixel resel at 1150 A
+COS/G160M/c1611:  30 / six-pixel resel at 1590 A
+COS/G185M/c1953:  30 / three-pixel resel at 1860 A
+COS/G185M/c1986:  30 / three-pixel resel at 1980 A
+STIS/E140M/c1425: 20 / two-pixel resel at 1200 A
+STIS/E230M/c1978: 20 / two-pixel resel at 1800 A
+STIS/E230M/c2707: 20 / two-pixel resel at 2800 A
+The actual implemented exposure times may be adjusted to efficiently use HST orbits, but should always provide at least 80% of the desired time as defined by the above requirements.
+
+Additional details about the scientific motivation and technical implementation strategy of the ULLYSES observations can be found at http://www.stsci.edu/stsci-research/research-topics-and-programs/ullyses. The ULLYSES program is based on the recommendations of a working group led by Sally Oey; the full text of that group's report can be found at http://www.stsci.edu/files/live/sites/www/files/home/stsci-research/research-topics-and-programs/ullyses/_documents/HSTUV-report-ULLYSES.pdf.</description>
+      <pubDate>Sat, 29 Oct 2022 20:18:29 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16818&amp;mission=hst</link>
+      <enclosure url="https://archive.stsci.edu/cgi-bin/dss_search?v=poss2ukstu_red&amp;r=82.73999999999999&amp;d=-70.941&amp;e=J2000&amp;h=10&amp;w=10&amp;f=gif&amp;c=none&amp;fov=NONE&amp;v3=" type="image/gif"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T20:18:29Z</guid>
+    </item>
+    <item>
+      <title>ULLYSES LMC O7-O8 Dwarfs - COS</title>
+      <description>This proposal includes a subset of the massive ULLYSES stars being observed in the Magellanic clouds. 
+
+Depending on target brightness, the main FUV spectral range will generally use either the STIS E140M setting or the combination of the COS c1291 + c1611 settings. Sufficiently bright stars without good FUSE data in the archive will also be observed with the COS c1096 setting to provide coverage at shorter wavelengths. Where time permits, stars of type O9 or later will also be observed with STIS E230M/1978, while for supergiants of spectral type B5 or later E230M/2707 may also be included. Where possible, targets of a given spectral type were selected to span both a range in extinction and in rotation rates to support a variety of stellar and ISM studies. 
+
+Signal-to-noise requirements used to determine the desired exposures times were defined as follows:
+COS/G130M/c1096:  20 / nine-pixel resel at 1080 A
+COS/G130M/c1291:  30 / six-pixel resel at 1150 A
+COS/G160M/c1611:  30 / six-pixel resel at 1590 A
+COS/G185M/c1953:  30 / three-pixel resel at 1860 A
+COS/G185M/c1986:  30 / three-pixel resel at 1980 A
+STIS/E140M/c1425: 20 / two-pixel resel at 1200 A
+STIS/E230M/c1978: 20 / two-pixel resel at 1800 A
+STIS/E230M/c2707: 20 / two-pixel resel at 2800 A
+The actual implemented exposure times may be adjusted to efficiently use HST orbits, but should always provide at least 80% of the desired time as defined by the above requirements.
+
+Additional details about the scientific motivation and technical implementation strategy of the ULLYSES observations can be found at http://www.stsci.edu/stsci-research/research-topics-and-programs/ullyses. The ULLYSES program is based on the recommendations of a working group led by Sally Oey; the full text of that group's report can be found at http://www.stsci.edu/files/live/sites/www/files/home/stsci-research/research-topics-and-programs/ullyses/_documents/HSTUV-report-ULLYSES.pdf.</description>
+      <pubDate>Sat, 29 Oct 2022 20:15:03 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16818&amp;mission=hst</link>
+      <enclosure url="https://archive.stsci.edu/cgi-bin/dss_search?v=poss2ukstu_red&amp;r=82.73999999999999&amp;d=-70.941&amp;e=J2000&amp;h=10&amp;w=10&amp;f=gif&amp;c=none&amp;fov=NONE&amp;v3=" type="image/gif"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T20:15:03Z</guid>
+    </item>
+    <item>
+      <title>ULLYSES LMC O7-O8 Dwarfs - COS</title>
+      <description>This proposal includes a subset of the massive ULLYSES stars being observed in the Magellanic clouds. 
+
+Depending on target brightness, the main FUV spectral range will generally use either the STIS E140M setting or the combination of the COS c1291 + c1611 settings. Sufficiently bright stars without good FUSE data in the archive will also be observed with the COS c1096 setting to provide coverage at shorter wavelengths. Where time permits, stars of type O9 or later will also be observed with STIS E230M/1978, while for supergiants of spectral type B5 or later E230M/2707 may also be included. Where possible, targets of a given spectral type were selected to span both a range in extinction and in rotation rates to support a variety of stellar and ISM studies. 
+
+Signal-to-noise requirements used to determine the desired exposures times were defined as follows:
+COS/G130M/c1096:  20 / nine-pixel resel at 1080 A
+COS/G130M/c1291:  30 / six-pixel resel at 1150 A
+COS/G160M/c1611:  30 / six-pixel resel at 1590 A
+COS/G185M/c1953:  30 / three-pixel resel at 1860 A
+COS/G185M/c1986:  30 / three-pixel resel at 1980 A
+STIS/E140M/c1425: 20 / two-pixel resel at 1200 A
+STIS/E230M/c1978: 20 / two-pixel resel at 1800 A
+STIS/E230M/c2707: 20 / two-pixel resel at 2800 A
+The actual implemented exposure times may be adjusted to efficiently use HST orbits, but should always provide at least 80% of the desired time as defined by the above requirements.
+
+Additional details about the scientific motivation and technical implementation strategy of the ULLYSES observations can be found at http://www.stsci.edu/stsci-research/research-topics-and-programs/ullyses. The ULLYSES program is based on the recommendations of a working group led by Sally Oey; the full text of that group's report can be found at http://www.stsci.edu/files/live/sites/www/files/home/stsci-research/research-topics-and-programs/ullyses/_documents/HSTUV-report-ULLYSES.pdf.</description>
+      <pubDate>Sat, 29 Oct 2022 20:13:06 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16818&amp;mission=hst</link>
+      <enclosure url="https://archive.stsci.edu/cgi-bin/dss_search?v=poss2ukstu_red&amp;r=82.73999999999999&amp;d=-70.941&amp;e=J2000&amp;h=10&amp;w=10&amp;f=gif&amp;c=none&amp;fov=NONE&amp;v3=" type="image/gif"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T20:13:06Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 19:24:06 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=235.209&amp;dec=57.412&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T19:24:06Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 19:15:37 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=235.209&amp;dec=57.412&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T19:15:37Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 19:07:38 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=235.209&amp;dec=57.412&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T19:07:38Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 18:59:22 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=235.209&amp;dec=57.412&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T18:59:22Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 18:51:23 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=235.209&amp;dec=57.412&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T18:51:23Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 18:45:50 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=235.209&amp;dec=57.412&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T18:45:50Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 16:10:32 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=110.857&amp;dec=41.769&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T16:10:32Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 16:02:03 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=110.857&amp;dec=41.769&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T16:02:03Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 15:54:04 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=110.857&amp;dec=41.769&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T15:54:04Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 15:45:48 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=110.857&amp;dec=41.769&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T15:45:48Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 15:37:49 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=110.857&amp;dec=41.769&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T15:37:49Z</guid>
+    </item>
+    <item>
+      <title>The Lyman-alpha and Continuum Origins Survey (LaCOS)</title>
+      <description>This program will obtain imaging data of a sample of 40 starburst galaxies.  
+Targets are all blue, compact (few arcsec across) and lie at redshift of z=0.23-0.32. 
+
+Imaging will be obtained in 5 filters between the far UV and red end of the optical.  The filters are: 
+ACS/SBC/F150LP
+ACS/SBC/F165LP
+WFC3/UVIS/F438W
+WFC3/UVIS/F547M
+WFC3/UVIS/F850LP
+
+For each target we execute two visits: 
+- one for ACS/SBC, which is 2 orbits in every case except for one (Visit 35 for Target 18)
+- one for WFC3/UVIS, which is 1 orbit in every case.
+
+SBC Visits
+--------------
+The goal is to obtain images in F150LP and F165LP over a 4-step dithering pattern.  
+
+We use the standard 'SBC' aperture, and dither the object away from the dead pixel rows.
+
+This is implemented using POS-TARGs, specifically designed to do sub-pixel dithering (integer pixel + 1/4 pixel steps in x,y) over an extended larger pattern; this will both recover the core of the point-spread function and average over low frequency uncertainties in the flat-fielding and improve sensitivity to low surface brightness light.  The approach goes:
+{F150LP, F165LP} -- dither -- {F165LP, F150LP} -- dither -- {F150LP, F165LP} -- dither -- {F165LP, F150LP}
+placing each pair of images in the two filters on exactly the same position, and giving us 4 images per filter.   Typical frame exposure times are 550 sec in F150LP and 730 sec in F165LP.
+
+Our *Special Requirement*, as specified in the phase 1 application applies to these visits: 
+
+To minimize the dark current, SBC visits should be executed only when the SBC has not
+been used in the last 24 hours, and the MAMA detector has been allowed to cool.  This will require attention at the point of scheduling.  This requirement is also mentioned as a Comment in each SBC visit.  
+
+ETC calculations are done for the FUV magnitude of each source computed from GALEX observations at a wavelengh of 1527 AA.  This is effectively equivalent to the wavelength of observations in F150LP and F165LP.  We always assume a flat continuum in f_nu (accurate for these blue galaxies) and that the sources are point-like (which they are not, but the assumption is conservative from a safety perspective).   
+
+UVIS Visits
+--------------
+The goal is to obtain images in F438W, F547M, and F850LP.   These orbits are tight, and 6 full-frame readouts of UVIS are obtained per orbit, giving two images in each filter.  The observations are dithered to improve hot/bad pixel rejection and recover the point-spread function.  The approach goes: 
+{F438W} -- dither -- {F438W} -- dither-back -- {F547M} -- dither -- {F547M} -- dither-back -- {F850LP} -- dither -- {F850LP}
+
+In order not to incur additional overhead from buffer dump between exposures, we keep all integration times above 348 seconds, except for the first image in the orbit which is allowed to be shorter.  F850LP images at the end of the orbit are typically somewhat longer. 
+
+Each observation is post-flashed using a number of electrons calculated by the Exposure Time Calculator.</description>
+      <pubDate>Sat, 29 Oct 2022 15:32:16 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=17069&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=110.857&amp;dec=41.769&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T15:32:16Z</guid>
+    </item>
+    <item>
+      <title>Monitoring Earendel, the Lensed z~6 Star</title>
+      <description>We will obtain 4 orbits of WFC3/IR F110W imaging of WHL0137-08, aligned with the previous HST imaging of that galaxy cluster core. We request 4 separate visits, each 1 orbit long, separated by 3 or more months. 
+*** Longer time baselines are preferable: Visit #1 as early as possible in Cycle 29 and Visit #4 as late as needed to accommodate scheduling other programs.
+
+Within each orbit, we will obtain 4 images in a single filter, using small dithers to optimally sample the PSF and ultimately improve the spatial resolution of the stacked drizzled images. Between orbits / epochs, we will perform a larger dither (and/or different roll angle) to cover the WFC3/IR "death star" and other artifacts (IR blobs), as well as the ACS chip gap in parallel.
+
+Special Requirements:
+1) 4 epochs (1 orbit per epoch), each 3 or more months apart (e.g., Oct, Feb, Jun, Sept.)
+2) Low backgrounds when possible
+3) Position Angle to overlap parallel imaging with existing HST imaging when possible
+
+We do not request mitigation of helium Earthshine, which is rare and not expected to impact a significant fraction of our data. We prefer to perform all dithers in the same orbit for optimal pixel sampling rather than splitting orbits to avoid helium.</description>
+      <pubDate>Sat, 29 Oct 2022 14:10:30 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16668&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=24.354&amp;dec=-7.543&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T14:10:30Z</guid>
+    </item>
+    <item>
+      <title>Monitoring Earendel, the Lensed z~6 Star</title>
+      <description>We will obtain 4 orbits of WFC3/IR F110W imaging of WHL0137-08, aligned with the previous HST imaging of that galaxy cluster core. We request 4 separate visits, each 1 orbit long, separated by 3 or more months. 
+*** Longer time baselines are preferable: Visit #1 as early as possible in Cycle 29 and Visit #4 as late as needed to accommodate scheduling other programs.
+
+Within each orbit, we will obtain 4 images in a single filter, using small dithers to optimally sample the PSF and ultimately improve the spatial resolution of the stacked drizzled images. Between orbits / epochs, we will perform a larger dither (and/or different roll angle) to cover the WFC3/IR "death star" and other artifacts (IR blobs), as well as the ACS chip gap in parallel.
+
+Special Requirements:
+1) 4 epochs (1 orbit per epoch), each 3 or more months apart (e.g., Oct, Feb, Jun, Sept.)
+2) Low backgrounds when possible
+3) Position Angle to overlap parallel imaging with existing HST imaging when possible
+
+We do not request mitigation of helium Earthshine, which is rare and not expected to impact a significant fraction of our data. We prefer to perform all dithers in the same orbit for optimal pixel sampling rather than splitting orbits to avoid helium.</description>
+      <pubDate>Sat, 29 Oct 2022 13:58:35 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16668&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=24.354&amp;dec=-7.543&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T13:58:35Z</guid>
+    </item>
+    <item>
+      <title>Monitoring Earendel, the Lensed z~6 Star</title>
+      <description>We will obtain 4 orbits of WFC3/IR F110W imaging of WHL0137-08, aligned with the previous HST imaging of that galaxy cluster core. We request 4 separate visits, each 1 orbit long, separated by 3 or more months. 
+*** Longer time baselines are preferable: Visit #1 as early as possible in Cycle 29 and Visit #4 as late as needed to accommodate scheduling other programs.
+
+Within each orbit, we will obtain 4 images in a single filter, using small dithers to optimally sample the PSF and ultimately improve the spatial resolution of the stacked drizzled images. Between orbits / epochs, we will perform a larger dither (and/or different roll angle) to cover the WFC3/IR "death star" and other artifacts (IR blobs), as well as the ACS chip gap in parallel.
+
+Special Requirements:
+1) 4 epochs (1 orbit per epoch), each 3 or more months apart (e.g., Oct, Feb, Jun, Sept.)
+2) Low backgrounds when possible
+3) Position Angle to overlap parallel imaging with existing HST imaging when possible
+
+We do not request mitigation of helium Earthshine, which is rare and not expected to impact a significant fraction of our data. We prefer to perform all dithers in the same orbit for optimal pixel sampling rather than splitting orbits to avoid helium.</description>
+      <pubDate>Sat, 29 Oct 2022 13:46:40 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16668&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=24.354&amp;dec=-7.543&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T13:46:40Z</guid>
+    </item>
+    <item>
+      <title>Monitoring Earendel, the Lensed z~6 Star</title>
+      <description>We will obtain 4 orbits of WFC3/IR F110W imaging of WHL0137-08, aligned with the previous HST imaging of that galaxy cluster core. We request 4 separate visits, each 1 orbit long, separated by 3 or more months. 
+*** Longer time baselines are preferable: Visit #1 as early as possible in Cycle 29 and Visit #4 as late as needed to accommodate scheduling other programs.
+
+Within each orbit, we will obtain 4 images in a single filter, using small dithers to optimally sample the PSF and ultimately improve the spatial resolution of the stacked drizzled images. Between orbits / epochs, we will perform a larger dither (and/or different roll angle) to cover the WFC3/IR "death star" and other artifacts (IR blobs), as well as the ACS chip gap in parallel.
+
+Special Requirements:
+1) 4 epochs (1 orbit per epoch), each 3 or more months apart (e.g., Oct, Feb, Jun, Sept.)
+2) Low backgrounds when possible
+3) Position Angle to overlap parallel imaging with existing HST imaging when possible
+
+We do not request mitigation of helium Earthshine, which is rare and not expected to impact a significant fraction of our data. We prefer to perform all dithers in the same orbit for optimal pixel sampling rather than splitting orbits to avoid helium.</description>
+      <pubDate>Sat, 29 Oct 2022 13:36:25 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16668&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=24.354&amp;dec=-7.543&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T13:36:25Z</guid>
+    </item>
+    <item>
+      <title>In the Belly of the Beast: Star Cluster Formation and Evolution in the Centers of local LIRGs</title>
+      <description>HST images will be obtained using the WFC3/UVIS in imaging mode with the broad-band F336W filter as well as the broad-band F438W and F814W filters for two galaxies (NGC 5135 and ESO 420-G013). For the remaining 6 galaxies the new F336W observations will be paired with our pre-existing ACS/WFC F435W and F814W observations. The ACS/WFC and WFC3/UVIS cameras have comparable fields of view (202"x202" and 162"x162", respectively), and cover sufficient area to enable observations of these LIRGs in a single pointing.
+
+The clusters observed in this sample of LIRGs have M_V= -8 to -16 mag and apparent F435W (B) magnitudes typically in the range B ~ 21-25.5 mag. We have made use of instantaneous starburst models from Bruzual &amp; Charlot (2003) to estimate the observed magnitudes in the F336W filter. For a 100 Myr starburst (F336W - F435W = -0.53 mag) and a conservative apparent magnitude of B=25.5 mag, we find that we can reach a signal-to-noise ratio, SNR, of approximately 10 with F336W, F438W, and F814W in roughly 2600, 1300, and 1300 seconds respectively. Note that if the clusters are younger, their spectral energy distributions peak even higher in bluer filters, and are therefore 1-2 magnitudes brighter than described above. Thus, in the absence of dust, the achieved SNR will be significantly higher. 
+
+We model our observing strategy based on other studies of star clusters in luminous infrared galaxies (GO 14066 and GO 15472) and use a custom 4-pt dither pattern for each source designed to (1) remove the gap between the chips (1.2 arcsec) (2) sub-sample the PSF (half pixel or a third of a pixel shift have been included if the pattern is a multiple of 2 or 3, respectively), and (3) to remove droplets (shift of 4 arcsec required). The 4-pointing pattern has the following coordinates in arcsec: (0,0), (-3.69,1.31), (-2.5, -2.44), (1.19,-3.75). For the F438W we modify the WFC3-UVIS-GAP-LINE patten to include a third pointing at (0,0). For the F814W we adopt the standard WFC3-UVIS-GAP-LINE pattern. Thus the patterns are  (0,0), (-0.092, -1.203), (0.092, 1.203) and (-0.089, -1.203), (0.089, 1.203) respectively.
+
+Further, the main body of the galaxy has been placed at the UVIS2-FIX location (which is more sensitive in the UV, and therefore, optimal to detect clusters), or at the UVIS-FIX location in order to fully map the galaxy if it has very extended tidal features. We use the latter aperture for VV340A, UGC5101, NGC5135, and Mrk 273. Finally, we observe in the ACCUM mode, and include a FLASH of 10 seconds with the CR_SPLIT=NO parameter to mitigate CTE losses. 
+
+The data reduction and calibration of new and archival data will be done using the standard HST pipeline. IRAF, IDL and python will be used for additional data reduction and photometry within metric apertures. The cluster analysis will be done by using Source Extractor to identify clusters and IDL routines to extract aperture measurements of clusters and calculate luminosities. Similar analysis has been done on other F336W, F435W, and F814W datasets (Linden et al. 2017, 2021).  Folding in the analysis data at other wavelengths from the Great Observatories All-Sky LIRG Survey (GOALS) will complete the interpretation of the HST dataset.</description>
+      <pubDate>Sat, 29 Oct 2022 12:37:09 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16914&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=24.721&amp;dec=-9.547000000000001&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T12:37:09Z</guid>
+    </item>
+    <item>
+      <title>In the Belly of the Beast: Star Cluster Formation and Evolution in the Centers of local LIRGs</title>
+      <description>HST images will be obtained using the WFC3/UVIS in imaging mode with the broad-band F336W filter as well as the broad-band F438W and F814W filters for two galaxies (NGC 5135 and ESO 420-G013). For the remaining 6 galaxies the new F336W observations will be paired with our pre-existing ACS/WFC F435W and F814W observations. The ACS/WFC and WFC3/UVIS cameras have comparable fields of view (202"x202" and 162"x162", respectively), and cover sufficient area to enable observations of these LIRGs in a single pointing.
+
+The clusters observed in this sample of LIRGs have M_V= -8 to -16 mag and apparent F435W (B) magnitudes typically in the range B ~ 21-25.5 mag. We have made use of instantaneous starburst models from Bruzual &amp; Charlot (2003) to estimate the observed magnitudes in the F336W filter. For a 100 Myr starburst (F336W - F435W = -0.53 mag) and a conservative apparent magnitude of B=25.5 mag, we find that we can reach a signal-to-noise ratio, SNR, of approximately 10 with F336W, F438W, and F814W in roughly 2600, 1300, and 1300 seconds respectively. Note that if the clusters are younger, their spectral energy distributions peak even higher in bluer filters, and are therefore 1-2 magnitudes brighter than described above. Thus, in the absence of dust, the achieved SNR will be significantly higher. 
+
+We model our observing strategy based on other studies of star clusters in luminous infrared galaxies (GO 14066 and GO 15472) and use a custom 4-pt dither pattern for each source designed to (1) remove the gap between the chips (1.2 arcsec) (2) sub-sample the PSF (half pixel or a third of a pixel shift have been included if the pattern is a multiple of 2 or 3, respectively), and (3) to remove droplets (shift of 4 arcsec required). The 4-pointing pattern has the following coordinates in arcsec: (0,0), (-3.69,1.31), (-2.5, -2.44), (1.19,-3.75). For the F438W we modify the WFC3-UVIS-GAP-LINE patten to include a third pointing at (0,0). For the F814W we adopt the standard WFC3-UVIS-GAP-LINE pattern. Thus the patterns are  (0,0), (-0.092, -1.203), (0.092, 1.203) and (-0.089, -1.203), (0.089, 1.203) respectively.
+
+Further, the main body of the galaxy has been placed at the UVIS2-FIX location (which is more sensitive in the UV, and therefore, optimal to detect clusters), or at the UVIS-FIX location in order to fully map the galaxy if it has very extended tidal features. We use the latter aperture for VV340A, UGC5101, NGC5135, and Mrk 273. Finally, we observe in the ACCUM mode, and include a FLASH of 10 seconds with the CR_SPLIT=NO parameter to mitigate CTE losses. 
+
+The data reduction and calibration of new and archival data will be done using the standard HST pipeline. IRAF, IDL and python will be used for additional data reduction and photometry within metric apertures. The cluster analysis will be done by using Source Extractor to identify clusters and IDL routines to extract aperture measurements of clusters and calculate luminosities. Similar analysis has been done on other F336W, F435W, and F814W datasets (Linden et al. 2017, 2021).  Folding in the analysis data at other wavelengths from the Great Observatories All-Sky LIRG Survey (GOALS) will complete the interpretation of the HST dataset.</description>
+      <pubDate>Sat, 29 Oct 2022 12:25:05 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16914&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=24.721&amp;dec=-9.547000000000001&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T12:25:05Z</guid>
+    </item>
+    <item>
+      <title>In the Belly of the Beast: Star Cluster Formation and Evolution in the Centers of local LIRGs</title>
+      <description>HST images will be obtained using the WFC3/UVIS in imaging mode with the broad-band F336W filter as well as the broad-band F438W and F814W filters for two galaxies (NGC 5135 and ESO 420-G013). For the remaining 6 galaxies the new F336W observations will be paired with our pre-existing ACS/WFC F435W and F814W observations. The ACS/WFC and WFC3/UVIS cameras have comparable fields of view (202"x202" and 162"x162", respectively), and cover sufficient area to enable observations of these LIRGs in a single pointing.
+
+The clusters observed in this sample of LIRGs have M_V= -8 to -16 mag and apparent F435W (B) magnitudes typically in the range B ~ 21-25.5 mag. We have made use of instantaneous starburst models from Bruzual &amp; Charlot (2003) to estimate the observed magnitudes in the F336W filter. For a 100 Myr starburst (F336W - F435W = -0.53 mag) and a conservative apparent magnitude of B=25.5 mag, we find that we can reach a signal-to-noise ratio, SNR, of approximately 10 with F336W, F438W, and F814W in roughly 2600, 1300, and 1300 seconds respectively. Note that if the clusters are younger, their spectral energy distributions peak even higher in bluer filters, and are therefore 1-2 magnitudes brighter than described above. Thus, in the absence of dust, the achieved SNR will be significantly higher. 
+
+We model our observing strategy based on other studies of star clusters in luminous infrared galaxies (GO 14066 and GO 15472) and use a custom 4-pt dither pattern for each source designed to (1) remove the gap between the chips (1.2 arcsec) (2) sub-sample the PSF (half pixel or a third of a pixel shift have been included if the pattern is a multiple of 2 or 3, respectively), and (3) to remove droplets (shift of 4 arcsec required). The 4-pointing pattern has the following coordinates in arcsec: (0,0), (-3.69,1.31), (-2.5, -2.44), (1.19,-3.75). For the F438W we modify the WFC3-UVIS-GAP-LINE patten to include a third pointing at (0,0). For the F814W we adopt the standard WFC3-UVIS-GAP-LINE pattern. Thus the patterns are  (0,0), (-0.092, -1.203), (0.092, 1.203) and (-0.089, -1.203), (0.089, 1.203) respectively.
+
+Further, the main body of the galaxy has been placed at the UVIS2-FIX location (which is more sensitive in the UV, and therefore, optimal to detect clusters), or at the UVIS-FIX location in order to fully map the galaxy if it has very extended tidal features. We use the latter aperture for VV340A, UGC5101, NGC5135, and Mrk 273. Finally, we observe in the ACCUM mode, and include a FLASH of 10 seconds with the CR_SPLIT=NO parameter to mitigate CTE losses. 
+
+The data reduction and calibration of new and archival data will be done using the standard HST pipeline. IRAF, IDL and python will be used for additional data reduction and photometry within metric apertures. The cluster analysis will be done by using Source Extractor to identify clusters and IDL routines to extract aperture measurements of clusters and calculate luminosities. Similar analysis has been done on other F336W, F435W, and F814W datasets (Linden et al. 2017, 2021).  Folding in the analysis data at other wavelengths from the Great Observatories All-Sky LIRG Survey (GOALS) will complete the interpretation of the HST dataset.</description>
+      <pubDate>Sat, 29 Oct 2022 12:13:01 +0000</pubDate>
+      <link>https://archive.stsci.edu/proposal_search.php?id=16914&amp;mission=hst</link>
+      <enclosure url="https://skyserver.sdss.org/dr15/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&amp;ra=24.721&amp;dec=-9.547000000000001&amp;scale=0.79224&amp;width=600&amp;height=600&amp;opt=LG" type="image/jpeg"/>
+      <guid>https://spacetelescopelive.org/2022-10-29T12:13:01Z</guid>
+    </item>
+  </channel>
+</rss>

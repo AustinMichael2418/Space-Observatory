@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+NASA RSS Feed
+</title>
+<link rel="stylesheet" href="style.css"/>
+<link rel="icon" href="favicon.png"/>
+</head>
+<body>
+<div id="container">
+
+</div>
+<script>
+function renderNews(title,description,pubDate,enclosure,link,tag) {
+document.getElementById(tag).innerHTML += "<div><img src='"+enclosure+"'/><h1><a href='"+link+"'>"+title+"</a></h1><h6>"+pubDate+"</h6><p>"+description+"</p>";
+}
+
+
+function readRSS(rss,id,tag) {
+var xml = (new DOMParser).parseFromString(rss,"text/xml");
+if(id==1) {
+var items = xml.getElementsByTagName("item");
+for(var i=0; i<items.length; i++) {
+
+renderNews(items[i].getElementsByTagName("title")[0].innerHTML,items[i].getElementsByTagName("description")[0].innerHTML,items[i].getElementsByTagName("pubDate")[0].innerHTML,items[i].getElementsByTagName("enclosure")[0].getAttribute("url"),items[i].getElementsByTagName("link")[0].innerHTML,tag);
+
+}
+}
+}
+
+document.getElementById("container").innerHTML += "<button id='collapse_hst' onclick=\"collapse('hst')\">Hubble Space Telescope</button><div id='hst'></div>"
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+readRSS(this.responseText,1,"hst");
+
+}
+};
+xhttp.open("GET", "hubble.rss", true);
+xhttp.send(); 
+
+
+function collapse(divID) {
+if (document.getElementById(divID).style.display == "none") {
+document.getElementById(divID).style.display = "block"
+} else {
+document.getElementById(divID).style.display = "none"
+}
+}
+
+
+</script>
+</body>
+</html>

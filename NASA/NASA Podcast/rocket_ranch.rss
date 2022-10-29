@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>The Rocket Ranch</title>
+ <description>Welcome to the Rocket Ranch, the official podcast of NASA’s Kennedy Space Center. Take a listen for a behind-the-scenes sneak peek into the inner workings of the world’s premiere spaceport.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss" />
+ <language>en-us</language>
+ <image> <url>https://www.nasa.gov/sites/default/files/thumbnails/image/newrocketranch.png</url>
+ <title>The Rocket Ranch</title>
+ <link>http://www.nasa.gov/</link>
+</image>
+ <copyright>094665</copyright>
+ <managingEditor>amanda.griffin@nasa.gov</managingEditor>
+ <webMaster>amanda.griffin@nasa.gov</webMaster>
+ <itunes:subtitle>Rocket Ranch audio podcast</itunes:subtitle>
+ <itunes:summary>Welcome to the Rocket Ranch, the official podcast of NASA’s Kennedy Space Center. Take a listen for a behind-the-scenes sneak peek into the inner workings of the world’s premiere spaceport.</itunes:summary>
+ <itunes:category text="Science &amp; Medicine" />
+ <itunes:keywords>NASA, podcast, nasa podcast, kennedy space center, nasa kennedy, rocket launches</itunes:keywords>
+ <itunes:image href="https://www.nasa.gov/sites/default/files/thumbnails/image/newrocketranch.png" />
+ <itunes:author>National Aeronautics and Space Administration (NASA)</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>amanda.griffin@nasa.gov</itunes:email>
+ <itunes:name>Amanda Griffin</itunes:name>
+</itunes:owner>
+ <item> <title>Episode 30: Commercial Crew Reaches Milestone</title>
+ <link>http://www.nasa.gov/mediacast/episode-30-commercial-crew-reaches-milestone</link>
+ <description>The Rocket Ranch welcomes Dana Hutcherson, deputy manager for the Commercial Crew program. She&#039;ll talk about the mission ahead, reflect on the program&#039;s 10-year anniversary and share her personal journey with NASA.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20210331-vp-fjm02-0001-rocketranch_hutcherson_3270495_mp3.mp3" length="3994540" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-30-commercial-crew-reaches-milestone</guid>
+ <pubDate>Fri, 16 Apr 2021 15:34 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 29: First Space Shuttle Flight: Astronaut Bob Crippen on the Legacy of STS-1 &amp; Columbia</title>
+ <link>http://www.nasa.gov/mediacast/episode-29-first-space-shuttle-flight-astronaut-bob-crippen-on-the-legacy-of-sts-1</link>
+ <description>The spotlights came on in the predawn hours of April 12th 1981, illuminating a spacecraft like no other, the space shuttle. Just before liftoff, Columbia&#039;s crew climbed inside for the very first test flight into space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/bob_crippen_rocketranchpodcast_rev5_mp3.mp3" length="27923162" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-29-first-space-shuttle-flight-astronaut-bob-crippen-on-the-legacy-of-sts-1</guid>
+ <pubDate>Wed, 07 Apr 2021 08:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 28: Women in STEM - Stories of Challenge and Success</title>
+ <link>http://www.nasa.gov/mediacast/episode-28-women-in-stem-stories-of-challenge-and-success</link>
+ <description>When instrumentation controller JoAnn Morgan was in Firing Room number One for the historic moonshot in 1969, she was the only woman. NASA has come a long way since. Today, the very same firing room is led by a woman, and 30% of the engineers supporting NASA&#039;s Artemis Moon program are women, too.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20210317-vp-mwc01-001-rocketranch-womeninstem-3259139.mp3" length="22585898" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-28-women-in-stem-stories-of-challenge-and-success</guid>
+ <pubDate>Thu, 18 Mar 2021 11:16 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 27: Being Black in the NASA Family, Finding Inspiration, and Becoming More Inclusive</title>
+ <link>http://www.nasa.gov/mediacast/episode-27-being-black-in-the-nasa-family-finding-inspiration-and-becoming-more-inclusive</link>
+ <description>The Rocket Ranch welcomes Sheldon Lauderdale, Program Analyst for NASA&#039;s Commercial Crew Program, to share where he draws inspiration and talk about his role supporting NASA’s efforts to expand diversity and inclusion to empower the next generation of explorers.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20210219-vp-mwc01-001-rocketranch-lauderdale-3268708_2.mp3" length="27519657" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-27-being-black-in-the-nasa-family-finding-inspiration-and-becoming-more-inclusive</guid>
+ <pubDate>Fri, 19 Feb 2021 10:26 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 26: Perseverance Rover: Rapid Disassembly, Martian Mission, and Beyond</title>
+ <link>http://www.nasa.gov/mediacast/episode-26-perseverance-rover-rapid-disassembly-martian-mission-and-beyond</link>
+ <description>After a 300 million mile journey through space, the Mars Perseverance Rover is ready to begin the most challenging part of the trip, landing on the red planet. If successful, it will embark on the most advanced mission ever sent here, to discover if life ever existed on Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20210201-vp-fjm03_0001-rocketranch-moo-3255897.mp3" length="14479527" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-26-perseverance-rover-rapid-disassembly-martian-mission-and-beyond</guid>
+ <pubDate>Thu, 04 Feb 2021 15:13 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 25: Lessons of Loss</title>
+ <link>http://www.nasa.gov/mediacast/episode-25-lessons-of-loss</link>
+ <description>On this episode of the Rocket Ranch Podcast, we remember Challenger, her crew and their survivors, and how we carry forward the lessons NASA learned with the director of the Apollo Challenger Columbia Lessons Learned Program.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20210125-pc-mms01-0002-rocket_ranch_mike_cianilli-3267011_mp3.mp3" length="24180610" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-25-lessons-of-loss</guid>
+ <pubDate>Tue, 26 Jan 2021 12:29 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 24: Space Lullaby</title>
+ <link>http://www.nasa.gov/mediacast/episode-24-space-lullaby</link>
+ <description>Astronaut Chris Hadfield flew to space three times, and was the first Canadian to walk in space. His cover of David Bowie&#039;s Space Oddity that he recorded on the International Space Station has over 47 million views, and as you&#039;re about to hear, he&#039;s given a lot of thought to the future of space exploration, and what it can mean for all of us.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-202001001-mw01-001-rocketranch-ep24-3244988.mp3" length="31345013" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-24-space-lullaby</guid>
+ <pubDate>Mon, 05 Oct 2020 10:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 23: Mars 2020: In the Midst of a Pandemic</title>
+ <link>http://www.nasa.gov/mediacast/episode-23-mars-2020-in-the-midst-of-a-pandemic</link>
+ <description>The NASA Kennedy Launch team has persevered through a global pandemic to get a Mars Rover named Perseverance to the launch pad on time. The cloud of doubt the virus cast over the Mars mission and how NASA overcame it, next on the Rocket Ranch.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20200724-vp-mwc01-001-rocketranch-23-3254592.mp3" length="19883102" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-23-mars-2020-in-the-midst-of-a-pandemic</guid>
+ <pubDate>Tue, 28 Jul 2020 13:17 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 22: NASA Astronauts&#039; Friendship Key to History Making SpaceX Flight</title>
+ <link>http://www.nasa.gov/mediacast/episode-22-nasa-astronauts-friendship-key-to-history-making-spacex-flight</link>
+ <description>Bob Behnken and Doug Hurley will make history when they break the bond from Earth in a SpaceX Crew Dragon capsule that&#039;s never been flown by humans before. But find out how the strong bond of friendship they share gives them the edge in space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20200508-pc-mms01-0002-rocket_ranch_22_bob_and_doug_3249577.mp3" length="9046093" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-22-nasa-astronauts-friendship-key-to-history-making-spacex-flight</guid>
+ <pubDate>Fri, 15 May 2020 15:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 21: NFL Quarterback: Rocket Arm AND Mind</title>
+ <link>http://www.nasa.gov/mediacast/episode-21-nfl-quarterback-rocket-arm-and-mind</link>
+ <description>And with the number one overall pick in the Kennedy Space Center NFL Draft, NASA selects Jacksonville, Jaguar quarterback and aerospace engineer Josh Dobbs. Next on the Rocket Ranch.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20200403-pc-mms01-0005-rocket_ranch_episode_21_3243921.mp3" length="16944363" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-21-nfl-quarterback-rocket-arm-and-mind</guid>
+ <pubDate>Tue, 21 Apr 2020 09:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 20: Space Explorer</title>
+ <link>http://www.nasa.gov/mediacast/episode-20-space-explorer</link>
+ <description>Pluto is not a planet...or is it? Next on the &quot;Rocket Ranch.”</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20191023-pc-fjm001-0001_rocket_rach_podcast_alan_stern_3235178.mp3" length="37881660" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-20-space-explorer</guid>
+ <pubDate>Thu, 27 Feb 2020 13:27 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 19: Launching Artemis</title>
+ <link>http://www.nasa.gov/mediacast/episode-19-launching-artemis</link>
+ <description>Sometimes history inspires us. Sometimes we find ourselves in the middle of history being made. Now we are in the middle of the most aggressive push for the Moon since we landed there the first time 50 years ago.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20200127-pc-mms01_0003_rocket_ranch_charlie_blackwell_thompson_3218509.mp3" length="34039653" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-19-launching-artemis</guid>
+ <pubDate>Wed, 05 Feb 2020 10:21 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 18: To Launch a Starliner</title>
+ <link>http://www.nasa.gov/mediacast/episode-18-to-launch-a-starliner</link>
+ <description>Commercial and government partnerships and contracts might not sound that fascinating, but when we&#039;re talking about certifying Boeing Starliner to carry humans to space, the challenges and complexities become a whole lot more interesting.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/rocketranch_e18_rev3.mp3" length="42714757" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-18-to-launch-a-starliner</guid>
+ <pubDate>Mon, 16 Dec 2019 13:57 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 17: Abort!</title>
+ <link>http://www.nasa.gov/mediacast/episode-17-abort</link>
+ <description>Rockets are dangerous. And before we strap our star sailors in, we need to know there is a proven escape plan.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode_17_abort_3220774_rev_4.mp3" length="39898896" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-17-abort</guid>
+ <pubDate>Fri, 01 Nov 2019 10:27 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 16: An ICONic Launch</title>
+ <link>http://www.nasa.gov/mediacast/episode-16-an-iconic-launch</link>
+ <description>The air-launched Northrop Grumman Pegasus XL is the vehicle selected to launch NASA&#039;s Ionospheric Connection Explorer, or ICON.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20191016-vp-mwc01-rocketranch-icon.mp3" length="29205001" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-16-an-iconic-launch</guid>
+ <pubDate>Wed, 16 Oct 2019 14:12 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 15: Jedi Masters of Launchery</title>
+ <link>http://www.nasa.gov/mediacast/episode-15-jedi-masters-of-launchery</link>
+ <description>For over 20 years, NASA&#039;s Launch Services Program (LSP) has been the workhorse of uncrewed spaceflight, enabling exploration of Pluto, the Sun, the Earth and other worlds. In this episode, we hear from Amanda Mitskevich and Chuck Dovale - two leaders within LSP.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/rocket_ranch_episode_15_lsp_3227786_rev_2.mp3" length="32347306" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-15-jedi-masters-of-launchery</guid>
+ <pubDate>Fri, 04 Oct 2019 11:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 14: The Kids of Summer</title>
+ <link>http://www.nasa.gov/mediacast/episode-14-the-kids-of-summer</link>
+ <description>Every member of the NASA team is critical to our success, even if they&#039;re still finishing school. In this episode, we hear from two of our summer interns, Amber George and Peter Henson, during their first week here and their first impressions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episod_14_interns_3220847_rev_2.mp3" length="28280228" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-14-the-kids-of-summer</guid>
+ <pubDate>Wed, 11 Sep 2019 14:44 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 13: When Rockets Need Rescue</title>
+ <link>http://www.nasa.gov/mediacast/episode-13-when-rockets-need-rescue</link>
+ <description>In this episode,we unpack the need and value of test flights with Jon Cowart, as well as dig into the recent, successful, second test of Orion’s Launch Abort System with Carlos Garcia.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/rocket_ranch_episode_13_32200773_final_cut_3.mp3" length="28243774" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-13-when-rockets-need-rescue</guid>
+ <pubDate>Mon, 12 Aug 2019 14:19 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 12: From Apollo to Artemis</title>
+ <link>http://www.nasa.gov/mediacast/episode-12-from-apollo-to-artemis</link>
+ <description>NASA looks back at the Apollo era and ahead at the Artemis missions to come.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/3220776-ksc-20190621-pc-mms01-005-rocketranchepisode12.mp3" length="55699315" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-12-from-apollo-to-artemis</guid>
+ <pubDate>Mon, 08 Jul 2019 16:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 11: The Place that Sends Stuff to Space</title>
+ <link>http://www.nasa.gov/mediacast/episode-11-the-place-that-sends-stuff-to-space</link>
+ <description>We&#039;re looking back at the Space Station Processing Facility, or SSPF, as it turns 25 years old.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/3220717-ksc-20190610-pc-mms01-002-rocketranchepisode11full.mp3" length="23817035" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-11-the-place-that-sends-stuff-to-space</guid>
+ <pubDate>Thu, 20 Jun 2019 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 10: Gateway</title>
+ <link>http://www.nasa.gov/mediacast/episode-10-gateway</link>
+ <description>NASA’s latest exploration goals center on returning humans to the Moon – not just for a visit, but to stay. At the center of that plan is Gateway. It’s a small lunar outpost that will have living quarters, laboratories for science and research, docking ports for visiting spacecraft, and more.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/rocket_ranch_episode_10_full_episode_rev_f.mp3" length="25412994" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-10-gateway</guid>
+ <pubDate>Thu, 16 May 2019 14:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 9: Developing Technology</title>
+ <link>http://www.nasa.gov/mediacast/episode-9-developing-technology</link>
+ <description>NASA has a reputation for creating history changing technology, and much of that technology is available to you right now. One of our secrets to success is that we aren’t developing all of this by ourselves. We’re leveraging industry and students to make innovative leaps.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/rocketranch_episode9_fullcut_rev1.mp3" length="39598927" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-9-developing-technology</guid>
+ <pubDate>Fri, 05 Apr 2019 12:56 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 8: Commercial Crew - Space Flight&#039;s Next Chapter</title>
+ <link>http://www.nasa.gov/mediacast/episode-8-commercial-crew-space-flights-next-chapter</link>
+ <description>On this episode of Rocket Ranch we catch up with several members of Commercial Crew to talk about the past, present and future of the program.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/rocket_ranch_episode_8_ccp.mp3" length="49257123" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-8-commercial-crew-space-flights-next-chapter</guid>
+ <pubDate>Fri, 08 Mar 2019 16:59 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 7: Turning Space Trash into Gas</title>
+ <link>http://www.nasa.gov/mediacast/episode-7-turning-space-trash-into-gas</link>
+ <description>As we plan to send humans farther into our solar system than ever before, we must overcome a myriad of challenges. And at the top of the heap… is trash. Just like here on Earth, humans in space create trash—but we don’t have interstellar landfills. What we do have are super smart scientists and engineers working on converting trash to gas.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/rocket_ranch_podcast_episode_7.mp3" length="30600007" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-7-turning-space-trash-into-gas</guid>
+ <pubDate>Fri, 21 Dec 2018 11:38 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 6: Starting Up the Space Station</title>
+ <link>http://www.nasa.gov/mediacast/episode-6-starting-up-the-space-station</link>
+ <description>In this episode, we sit down with the Space Shuttle commander who officially began construction of the ISS in space. Former astronaut Bob Cabana recounts his experiences in being the first American on station and turning on the lights.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/rocket_ranch_episode6_revb.mp3" length="42111711" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-6-starting-up-the-space-station</guid>
+ <pubDate>Tue, 20 Nov 2018 09:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 5: Odd Jobs Around the Ranch</title>
+ <link>http://www.nasa.gov/mediacast/episode-5-odd-jobs-around-the-ranch</link>
+ <description>When people think of the Kennedy Space Center, rockets are what likely come to mind. But we have more than rocket scientists here on the Space Coast. In this episode, we meet a few Ranch hands with odd jobs you may not expect to find around these parts.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20180919-pc-mms01_0001_rocket_ranch_episode5_fullcut_revf.mp3" length="42351886" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-5-odd-jobs-around-the-ranch</guid>
+ <pubDate>Thu, 25 Oct 2018 08:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 4: Rocket Roundup</title>
+ <link>http://www.nasa.gov/mediacast/episode-4-rocket-roundup</link>
+ <description>In this episode, hear from two powerhouses in NASA’s Launch Services Program: Mic Woltman, chief of Fleet Systems and Integration, and Launch Director Tim Dunn.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20180919-pc-mms01_0002_rocket_ranch_episode_4.mp3" length="39618245" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-4-rocket-roundup</guid>
+ <pubDate>Tue, 25 Sep 2018 08:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 3: Failure is Not an Option</title>
+ <link>http://www.nasa.gov/mediacast/episode-3-failure-is-not-an-option</link>
+ <description>As we prepare to launch humans into space on new American-made rockets and spacecraft, it&#039;s more important than ever that we revisit what led to two of the most tragic days in NASA&#039;s human space flight history.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20180822-pc-mms01_002-rocketranchpodcast3.mp3" length="47318579" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-3-failure-is-not-an-option</guid>
+ <pubDate>Tue, 28 Aug 2018 09:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 2: Some Like it Hot</title>
+ <link>http://www.nasa.gov/mediacast/episode-2-some-like-it-hot</link>
+ <description>Even though our Sun shines bright in the sky, it is shrouded in mystery. In this episode, we&#039;ll sit down with scientists working to get us closer to the Sun than ever before.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20180723-pc-mms01_001-rocketranchepisode2.mp3" length="48440056" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-2-some-like-it-hot</guid>
+ <pubDate>Wed, 25 Jul 2018 11:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Episode 1: Mars</title>
+ <link>http://www.nasa.gov/mediacast/episode-1-mars</link>
+ <description>The soil beneath your feet, the food on your table, the roof over your head... these are luxuries on Mars. Getting there isn’t a problem, it’s surviving once you land. In this episode we’ll sit down with scientists and engineers exploring our planetary neighbor and preparing for the survival of those who brave the journey.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20180622-pc-fjm01-001_rocketranchpodcastepisode_one.mp3" length="92472623" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-1-mars</guid>
+ <pubDate>Tue, 26 Jun 2018 15:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+ <item> <title>Welcome to the Rocket Ranch</title>
+ <link>http://www.nasa.gov/mediacast/welcome-to-the-rocket-ranch</link>
+ <description>Introducing the official podcast from NASA’s Kennedy Space Center - or, as we call it, the Rocket Ranch. What makes rockets fly? It’s people - regular men and women doing extraordinary things. During this podcast series, we’re going to introduce you to some of them.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ksc-20180614-pc-fjm01-002-rocketranchpodcastseriesintro.mp3" length="3903128" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/welcome-to-the-rocket-ranch</guid>
+ <pubDate>Wed, 20 Jun 2018 10:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/Rocket-Ranch.rss">The Rocket Ranch</source>
+</item>
+</channel>
+</rss>

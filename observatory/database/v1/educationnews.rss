@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Education News</title>
+ <description>A RSS feed containing the latest education related news from NASA.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/educationnews.rss" />
+ <language>en-us</language>
+ <managingEditor>sandra.b.may@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>Interns Express Themselves Through NASA Projects</title>
+ <link>http://www.nasa.gov/feature/stem/interns-express-themselves-through-nasa-projects.html</link>
+ <description>Interns Express Themselves Through NASA Projects</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/edu_international_ibrahim_ahmad_tile2.jpg?itok=IO3sGwN4" length="1049273" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/stem/interns-express-themselves-through-nasa-projects.html</guid>
+ <pubDate>Wed, 20 Nov 2019 08:58 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA, University of Alabama to Collaborate on Advanced, In-space Manufacturing</title>
+ <link>http://www.nasa.gov/centers/marshall/news/news/releases/2019/19-032.html</link>
+ <description>NASA’s Marshall Space Flight Center in Huntsville, Alabama, is expanding its partnership with the University of Alabama in Tuscaloosa, to collaborate on advanced and in-space manufacturing.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/1911014_zr_001_mou_signing.jpg?itok=suxo7NJM" length="15801931" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/marshall/news/news/releases/2019/19-032.html</guid>
+ <pubDate>Fri, 08 Nov 2019 11:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Selects Minority-Serving Institutions to Advance Aerospace Manufacturing</title>
+ <link>http://www.nasa.gov/press-release/nasa-selects-minority-serving-institutions-to-advance-aerospace-manufacturing</link>
+ <description>The Minority University Research and Education Project (MUREP) of NASA’s Office of STEM Engagement is partnering with the agency’s Aeronautics Research Mission Directorate to provide students at minority-serving institutions the education and experience needed to help address manufacturing needs in the U.S. aerospace sector.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/explore-flight-no-text-meatball.jpg?itok=adWZF7t5" length="4351473" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-selects-minority-serving-institutions-to-advance-aerospace-manufacturing</guid>
+ <pubDate>Wed, 30 Oct 2019 16:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Deputy Administrator, Astronaut Candidate to Visit University of North Carolina</title>
+ <link>http://www.nasa.gov/press-release/nasa-deputy-administrator-astronaut-candidate-to-visit-university-of-north-carolina</link>
+ <description>NASA Deputy Administrator Jim Morhard and astronaut candidate Zena Cardman will visit the University of North Carolina at Chapel Hill (UNC-Chapel Hill) Wednesday to Thursday, Nov. 6-7, to discuss the agency’s Artemis program.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jsc2017e067124_large.jpg?itok=foaDupcf" length="195957" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-deputy-administrator-astronaut-candidate-to-visit-university-of-north-carolina</guid>
+ <pubDate>Tue, 29 Oct 2019 15:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>Maine Students to Speak with NASA Astronaut Aboard Space Station</title>
+ <link>http://www.nasa.gov/press-release/maine-students-to-speak-with-nasa-astronaut-aboard-space-station</link>
+ <description>Students from Maine will have an opportunity next week to talk live with a NASA astronaut aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jessicameir.jpg?itok=sSbYE-jS" length="3030477" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/maine-students-to-speak-with-nasa-astronaut-aboard-space-station</guid>
+ <pubDate>Fri, 25 Oct 2019 11:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Administrator Invites Public to Update on Agency’s Return to Moon</title>
+ <link>http://www.nasa.gov/press-release/nasa-administrator-invites-public-to-update-on-agency-s-return-to-moon</link>
+ <description>The public is invited to join NASA Administrator Jim Bridenstine at 9:40 a.m. EDT Friday, Oct. 25, for an update on the agency’s Artemis program and the critical role international partnerships have in returning astronauts to the Moon and going on to Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/48936981953_86c24681b4_k.jpg?itok=1sGc1UNE" length="395654" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-administrator-invites-public-to-update-on-agency-s-return-to-moon</guid>
+ <pubDate>Tue, 22 Oct 2019 13:17 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>Maryland, Washington Students to Speak with NASA Astronaut Aboard Space Station</title>
+ <link>http://www.nasa.gov/press-release/maryland-washington-students-to-speak-with-nasa-astronaut-aboard-space-station</link>
+ <description>Students from Maryland and Washington, D.C., will have an opportunity this week to talk with a NASA astronaut currently living and working aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/drew_morgan.jpg?itok=-x5APV_u" length="2369993" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/maryland-washington-students-to-speak-with-nasa-astronaut-aboard-space-station</guid>
+ <pubDate>Tue, 22 Oct 2019 12:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>IAC 2019: Where NASA STEM, Young Professionals, Students and YOU Fit In</title>
+ <link>http://www.nasa.gov/feature/iac-2019-where-nasa-stem-young-professionals-students-and-you-fit-in</link>
+ <description>The International Astronautical Congree welcomes students from all over the world, granting them opportunities to present research, gain new insight and ideas, and network with space policy professionals from around the globe.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/48938643328_cdd475e33d_o.jpg?itok=kDSP-v2f" length="7528709" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/iac-2019-where-nasa-stem-young-professionals-students-and-you-fit-in</guid>
+ <pubDate>Tue, 22 Oct 2019 09:10 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA to Provide Coverage of Key Events at 70th International Astronautical Congress</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-key-events-at-70th-international-astronautical-congress</link>
+ <description>NASA will provide live coverage on NASA Television of key events at the 70th International Astronautical Congress (IAC), which takes place Oct. 21-25 at the Walter E. Washington Convention Center in Washington.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/48936140123_2aac1d35bb_o.jpg?itok=_6ATiVep" length="11412322" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-key-events-at-70th-international-astronautical-congress</guid>
+ <pubDate>Fri, 18 Oct 2019 17:48 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>In-Space News Conference to Review First All-Woman Spacewalk</title>
+ <link>http://www.nasa.gov/press-release/in-space-news-conference-to-review-first-all-woman-spacewalk</link>
+ <description>NASA astronauts Christina Koch and Jessica Meir will participate in a news conference from orbit at noon EDT, Monday, Oct. 21, following their Friday spacewalk – the first to be conducted by two women.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/screen_shot_2019-10-18_at_11.36.50_am.png?itok=7IIiAmi5" length="5435913" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/in-space-news-conference-to-review-first-all-woman-spacewalk</guid>
+ <pubDate>Fri, 18 Oct 2019 15:19 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+</channel>
+</rss>

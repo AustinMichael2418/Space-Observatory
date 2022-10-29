@@ -1,0 +1,11 @@
+<h1>{{launchP_results[j].site_id}}</h1>
+<h2>{{launchP_results[j].site_name_long}}</h2>
+<p>{{launchP_results[j].details}}</p>
+<p>Vehicles Launched: {{launchP_results[j].vehicles_launched.join(", ")}}</p>
+<p>Status: {{launchP_results[j].status}}</p>
+<p>Successful Launches: {{launchP_results[j].successful_launches}}</p>
+<p>Attempted Launches: {{launchP_results[j].attempted_launches}}</p>
+<h4>Location</h4>
+<p>{{launchP_results[j].location.name}}, {{launchP_results[j].location.region}}</p>
+<p>Longitude: {{launchP_results[j].location.longitude}}</p>
+<p>Latitude: {{launchP_results[j].location.latitude}}</p>

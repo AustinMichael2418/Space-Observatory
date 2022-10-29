@@ -1,0 +1,6 @@
+<h1 id="res_core_name{{j}}"></h1>
+<p>Details: <span id="res_core_details{{j}}"></span></p>
+<p>Original Launch Date: <span id="res_core_original{{j}}"></span></p>
+<p>RTLS (Return to Launch Site): Attempts: <span id="res_core_rtls_a{{j}}"></span> Landings: <span id="res_core_rtls{{j}}"></span></p>
+<p>Droneship Landing: Attempts: <span id="res_core_asds_a{{j}}"></span> Landings: <span id="res_core_asds{{j}}"></span></p>
+<p>Status: <span id="res_core_status{{j}}"></span></p>

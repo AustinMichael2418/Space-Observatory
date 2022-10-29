@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Small Steps, Giant Leaps</title>
+ <description> NASA’s technical workforce put boots on the Moon, tire tracks on Mars, and the first reusable spacecraft in orbit around the Earth. Learn what’s next as they build missions that redefine the future with amazing discoveries and remarkable innovations.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss" />
+ <language>en-us</language>
+ <image> <url>https://www.nasa.gov/sites/default/files/thumbnails/image/newsmallstepsgiantleaps.png</url>
+ <title>Small Steps, Giant Leaps</title>
+ <link>http://www.nasa.gov/</link>
+</image>
+ <copyright>094665</copyright>
+ <managingEditor>Daniel Connell</managingEditor>
+ <webMaster>daniel.b.connell@nasa.gov</webMaster>
+ <itunes:subtitle>A podcast by NASA&#039;s Academy of Program/Project &amp; Engineering Leadership (APPEL).</itunes:subtitle>
+ <itunes:summary> NASA’s technical workforce put boots on the Moon, tire tracks on Mars, and the first reusable spacecraft in orbit around the Earth. Learn what’s next as they build missions that redefine the future with amazing discoveries and remarkable innovations.</itunes:summary>
+ <itunes:category text="Science &amp; Medicine" />
+ <itunes:keywords>APPEL, NASA, project management, systems engineering, knowledge management</itunes:keywords>
+ <itunes:image href="https://www.nasa.gov/sites/default/files/thumbnails/image/newsmallstepsgiantleaps.png" />
+ <itunes:author>National Aeronautics and Space Administration (NASA)</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>daniel.b.connell@nasa.gov</itunes:email>
+ <itunes:name>Daniel Connell</itunes:name>
+</itunes:owner>
+ <item> <title>Small Steps, Giant Leaps: Episode 95: Developmental Assignments</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-95-developmental-assignments</link>
+ <description>NASA&#039;s Nick Jedrich and Andrew Maynard discuss the benefits of developmental assignments.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-95-developmental-assignments.mp3" length="32861521" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-95-developmental-assignments</guid>
+ <pubDate>Wed, 19 Oct 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 94: Mars Sample Return</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-94-mars-sample-return</link>
+ <description>Mars Sample Return Scientists Lindsay Hays and Meenakshi Wadhwa discuss the mission to return samples from the surface of Mars to Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-94-mars-sample-return.mp3" length="39379528" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-94-mars-sample-return</guid>
+ <pubDate>Wed, 05 Oct 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 93: Circuit Theory Application to Animal Movement</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-93-circuit-theory-application-to-animal-movement</link>
+ <description>The Nature Conservancy&#039;s Kim Hall discusses the use of NASA Earth observation data to map animal movement and patterns.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-93-circuit-theory-application-to-animal-movement_0.mp3" length="42605357" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-93-circuit-theory-application-to-animal-movement</guid>
+ <pubDate>Wed, 21 Sep 2022 12:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 92: Evolved Structures</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-92-evolved-structures</link>
+ <description>NASA Research Engineer Ryan McClelland discusses digital engineering technologies that are transforming classical engineering tasks and processes.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-92-evolved-structures.mp3" length="40286484" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-92-evolved-structures</guid>
+ <pubDate>Wed, 07 Sep 2022 05:54 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 91: OSAM-1</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-91-osam-1</link>
+ <description>OSAM-1 Lead Systems Engineer Wendy Morgenstern discusses NASA&#039;s On-orbit Servicing, Assembly, and Manufacturing 1 mission to robotically refuel a satellite that wasn&#039;t designed to be serviced.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-91-osam-1.mp3" length="45830625" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-91-osam-1</guid>
+ <pubDate>Wed, 24 Aug 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 90, Effects of Space Radiation</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-90-effects-of-space-radiation</link>
+ <description>NASA Space Radiation Element Scientist Robin Elgart discusses research aimed at reducing radiation health risks.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-90-effects-of-space-radiation.mp3" length="46512777" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-90-effects-of-space-radiation</guid>
+ <pubDate>Wed, 10 Aug 2022 07:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 89, The Big Dig</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-89-the-big-dig</link>
+ <description>Boston University Assistant Professor Virginia Greiman discusses enduring lessons from the largest, most technically challenging highway project in U.S. history.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-89-the-big-dig.mp3" length="53168171" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-89-the-big-dig</guid>
+ <pubDate>Wed, 27 Jul 2022 07:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 88, Ingenuity Mars Helicopter Flights</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-88-ingenuity-mars-helicopter-flights</link>
+ <description>Ingenuity Mars Helicopter Chief Pilot Håvard Grip discusses the rotorcraft&#039;s history-making flights on the Red Planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-88-ingenuity-mars-helicopter-flights.mp3" length="29581705" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-88-ingenuity-mars-helicopter-flights</guid>
+ <pubDate>Wed, 13 Jul 2022 08:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 87, NuSTAR</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-87-nustar</link>
+ <description>NuSTAR Principal Investigator Fiona Harrison discusses NASA&#039;s Nuclear Spectroscopic Telescope Array.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-87-nustar.mp3" length="27546110" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-87-nustar</guid>
+ <pubDate>Wed, 29 Jun 2022 08:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 86, Astrobiology Research Coordination Networks</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-86-astrobiology-research-coordination-networks</link>
+ <description>NASA Astrobiology Program Senior Scientist Mary Voytek discusses Research Coordination Networks.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-86-astrobiology-research-coordination-networks.mp3" length="42130720" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-86-astrobiology-research-coordination-networks</guid>
+ <pubDate>Wed, 15 Jun 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 85, Moon to Mars Habitation</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-85-moon-to-mars-habitation</link>
+ <description>NASA&#039;s Tiffany Nickens discusses habitats being developed for living on the lunar surface and traveling to Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-85-moon-to-mars-habitation.mp3" length="27894138" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-85-moon-to-mars-habitation</guid>
+ <pubDate>Wed, 01 Jun 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 84, NASA’s Role in Weather Research</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-84-nasa-s-role-in-weather-research</link>
+ <description>NASA&#039;s Edward Kim and NOAA&#039;s Pam Sullivan discuss NASA&#039;s role in weather research.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-84-nasas-role-in-weather-research.mp3" length="51115591" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-84-nasa-s-role-in-weather-research</guid>
+ <pubDate>Wed, 18 May 2022 06:39 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 83, NASA’s Role in Climate Research</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-83-nasa-s-role-in-climate-research</link>
+ <description>NASA Chief Scientist and Senior Climate Advisor Kate Calvin discusses the agency&#039;s role in climate research.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-83-nasas-role-in-climate-research.mp3" length="21273300" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-83-nasa-s-role-in-climate-research</guid>
+ <pubDate>Wed, 04 May 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 82, NASA’s Role in Agriculture</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-82-nasa-s-role-in-agriculture</link>
+ <description>NASA Water Resources and Agriculture Program Manager Brad Doorn discusses how NASA tools and data help solve big problems on Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-82-nasas-role-in-agriculture.mp3" length="39191341" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-82-nasa-s-role-in-agriculture</guid>
+ <pubDate>Wed, 20 Apr 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 81, Engineering Best Practices – Part 4</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-81-engineering-best-practices-part-4</link>
+ <description>NASA Johnson Space Center Engineering Director Julie Kramer White discusses the skills required to be a top-notch engineer.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-81-engineering-best-practices-part-4.mp3" length="40508674" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-81-engineering-best-practices-part-4</guid>
+ <pubDate>Wed, 06 Apr 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 80, Engineering Best Practices – Part 3</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-80-engineering-best-practices-part-3</link>
+ <description>NASA Space Launch System Chief Engineer John Blevins discusses the rigorous engineering of the world&#039;s most powerful rocket.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-80-engineering-best-practices-part-3.mp3" length="37768352" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-80-engineering-best-practices-part-3</guid>
+ <pubDate>Tue, 22 Mar 2022 11:05 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 79, Engineering Best Practices – Part 2</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-79-engineering-best-practices-part-2</link>
+ <description>NASA Aeronautics Research Mission Directorate Chief Engineer Steve Hirshorn discusses what it takes to be a successful chief engineer.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-79-engineering-best-practices-part-2.mp3" length="49643140" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-79-engineering-best-practices-part-2</guid>
+ <pubDate>Wed, 09 Mar 2022 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 78, Engineering Best Practices – Part 1</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-78-engineering-best-practices-part-1</link>
+ <description>NASA Chief Engineer Ralph Roe discusses engineering best practices.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-78-engineering-best-practices-part-1.mp3" length="28181669" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-78-engineering-best-practices-part-1</guid>
+ <pubDate>Wed, 23 Feb 2022 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 77, VERITAS</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-77-veritas</link>
+ <description>NASA&#039;s John Brophy discusses the VERITAS mission to Venus.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-77-veritas.mp3" length="39537124" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-77-veritas</guid>
+ <pubDate>Wed, 09 Feb 2022 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 76, DAVINCI</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-76-davinci</link>
+ <description>NASA&#039;s Mike Sekerak discusses the DAVINCI mission to Venus.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-76-davinci.mp3" length="31195014" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-76-davinci</guid>
+ <pubDate>Wed, 26 Jan 2022 10:04 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 75, Artemis Progress</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-75-artemis-progress</link>
+ <description>NASA&#039;s Kristin Morgan discusses 2021 progress and what&#039;s ahead for the Artemis Program in 2022.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-75-artemis-progress.mp3" length="33007025" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-75-artemis-progress</guid>
+ <pubDate>Wed, 15 Dec 2021 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 74, Solar Sails</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-74-solar-sails</link>
+ <description>NASA&#039;s Les Johnson discusses solar sail propulsion and the upcoming Near-Earth Asteroid Scout and Solar Cruiser missions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-74-solar-sails.mp3" length="40334598" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-74-solar-sails</guid>
+ <pubDate>Wed, 01 Dec 2021 08:30 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 73, James Webb Space Telescope</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-73-james-webb-space-telescope</link>
+ <description>James Webb Space Telescope Program Director Greg Robinson discusses NASA&#039;s largest and most powerful space science telescope ever constructed.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-73-james-webb-space-telescope.mp3" length="28753359" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-73-james-webb-space-telescope</guid>
+ <pubDate>Wed, 17 Nov 2021 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 72, Dawn Mission</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-72-dawn-mission</link>
+ <description>NASA&#039;s Marc Rayman discusses the legacy of the Dawn mission to the two most massive bodies in the main asteroid belt.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-72-dawn-mission-1.mp3" length="44775597" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-72-dawn-mission</guid>
+ <pubDate>Wed, 03 Nov 2021 09:03 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 71, Mars Oxygen In-Situ Resource Utilization Experiment</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-71-mars-oxygen-in-situ-resource-utilization-experiment</link>
+ <description>Mars Oxygen In-Situ Resource Utilization Experiment Principal Investigator Mike Hecht discusses the MOXIE technology demonstration that&#039;s generating oxygen on the Red Planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-71-mars-oxygen-in-situ-resource-utilization-experiment.mp3" length="18117292" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-71-mars-oxygen-in-situ-resource-utilization-experiment</guid>
+ <pubDate>Wed, 20 Oct 2021 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 70, Lucy Mission</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-70-lucy-mission</link>
+ <description>Lucy Deputy Project Systems Engineer Mike Sekerak discusses the first space mission to study Jupiter&#039;s Trojan asteroid swarms.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-70-lucy-mission.mp3" length="17556670" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-70-lucy-mission</guid>
+ <pubDate>Wed, 06 Oct 2021 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 69, Parker Solar Probe</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-69-parker-solar-probe</link>
+ <description>Parker Solar Probe Mission Scientist Adam Szabo discusses NASA&#039;s journey to the Sun.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-69-parker-solar-probe.mp3" length="28315361" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-69-parker-solar-probe</guid>
+ <pubDate>Wed, 22 Sep 2021 09:08 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 68, Lessons Learned Information System</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-68-lessons-learned-information-system</link>
+ <description>NASA Lessons Learned Program Manager Michael Bell discusses the agency&#039;s Lessons Learned Information System.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-68-lessons-learned-information-system.mp3" length="10769370" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-68-lessons-learned-information-system</guid>
+ <pubDate>Wed, 08 Sep 2021 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 67, Quiet Supersonic Mission</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-67-quiet-supersonic-mission</link>
+ <description>NASA Low Boom Flight Demonstrator Deputy Project Manager Cathy Bahm discusses the X-59 quiet supersonic research mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-67-quiet-supersonic-mission.mp3" length="14709882" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-67-quiet-supersonic-mission</guid>
+ <pubDate>Wed, 25 Aug 2021 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 66, Convergent Aeronautics Solutions</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-66-convergent-aeronautics-solutions</link>
+ <description>NASA Convergent Aeronautics Solutions Project Manager Keith Wichman discusses mapping problems and solutions to transform aviation.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-66-convergent-aeronautics-solutions.mp3" length="20281913" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-66-convergent-aeronautics-solutions</guid>
+ <pubDate>Tue, 10 Aug 2021 18:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 65, NASA Intern Experiences</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-65-nasa-intern-experiences</link>
+ <description>NASA Intern Nick Syracuse discusses his virtual internship experiences.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-65-nasa-intern-experiences.mp3" length="13784107" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-65-nasa-intern-experiences</guid>
+ <pubDate>Wed, 28 Jul 2021 06:19 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 64, Space Communications and Navigation</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-64-space-communications-and-navigation</link>
+ <description>NASA Space Communications and Navigation Chief Engineer Neil Mallik discusses how SCaN keeps the universe connected.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-64-space-communications-and-navigation.mp3" length="14624065" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-64-space-communications-and-navigation</guid>
+ <pubDate>Wed, 14 Jul 2021 07:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 63, OSIRIS-REx Asteroid Mission</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-63-osiris-rex-asteroid-mission</link>
+ <description>OSIRIS-REx Principal Investigator Dante Lauretta discusses the NASA mission to near-Earth asteroid Bennu.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-63-osiris-rex.mp3" length="16752170" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-63-osiris-rex-asteroid-mission</guid>
+ <pubDate>Wed, 30 Jun 2021 07:17 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 62, Laser Communications Relay Demonstration</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-62-laser-communications-relay-demonstration</link>
+ <description>NASA&#039;s Laser Communications Relay Demonstration Principal Investigator Dave Israel discusses the dynamic power of laser communications technologies.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-62-laser-communications-relay-demonstration.mp3" length="13850842" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-62-laser-communications-relay-demonstration</guid>
+ <pubDate>Wed, 16 Jun 2021 06:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 61, Transforming Assessment of Unsteady Aerodynamics</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-61-transforming-assessment-of-unsteady-aerodynamics</link>
+ <description>NASA&#039;s Nettie Roozeboom discusses a new state-of-the-art technique to measure unsteady aerodynamics using pressure-sensitive paint.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-61-transforming-assessment-of-unsteady-aerodynamics.mp3" length="19732544" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-61-transforming-assessment-of-unsteady-aerodynamics</guid>
+ <pubDate>Wed, 02 Jun 2021 08:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 60, Dragonfly</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-60-dragonfly</link>
+ <description>Dragonfly Principal Investigator Zibi Turtle discusses NASA&#039;s planned rotorcraft-lander mission to Titan.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-60-dragonfly.mp3" length="13112032" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-60-dragonfly</guid>
+ <pubDate>Wed, 19 May 2021 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 59, Spacecraft Window Design</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-59-spacecraft-window-design</link>
+ <description>NASA Spacecraft Window Design Expert Lynda Estes discusses the evolution of windows that give humans a unique view into space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-59-spacecraft-window-design.mp3" length="22672350" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-59-spacecraft-window-design</guid>
+ <pubDate>Wed, 05 May 2021 00:50 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 58, SOFIA Airborne Observatory</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-58-sofia-airborne-observatory</link>
+ <description>SOFIA Project Scientist Naseem Rangwala discusses the Stratospheric Observatory for Infrared Astronomy.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-58-sofia-airborne-observatory.mp3" length="23275374" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-58-sofia-airborne-observatory</guid>
+ <pubDate>Tue, 20 Apr 2021 18:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 57, Shuttle Program Closeout Complexities</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-57-shuttle-program-closeout-complexities</link>
+ <description>NASA&#039;s Johnny Nguyen discusses insight gained through closeout of the Space Shuttle Program.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-57-shuttle-program-closeout-complexities.mp3" length="15940108" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-57-shuttle-program-closeout-complexities</guid>
+ <pubDate>Tue, 06 Apr 2021 22:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 56, Model-based Systems Engineering</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-56-model-based-systems-engineering</link>
+ <description>NASA&#039;s Terry Hill and Jessica Knizhnik discuss the agency&#039;s transition to model-based systems engineering.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-56-model-based-systems-engineering.mp3" length="31168692" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-56-model-based-systems-engineering</guid>
+ <pubDate>Tue, 23 Mar 2021 20:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 55, Psyche Mission</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-55-psyche-mission</link>
+ <description>Psyche Mission Co-investigator Ben Weiss discusses the mission to a unique metal asteroid orbiting the Sun between Mars and Jupiter.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-55-psyche-mission.mp3" length="14178429" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-55-psyche-mission</guid>
+ <pubDate>Tue, 09 Mar 2021 18:51 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 54, Astrophysics Pioneers Program</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-54-astrophysics-pioneers-program</link>
+ <description>NASA Astrophysicist and Pioneers Program Lead Scientist Michael Garcia discusses the new program’s first mission concepts selected for further development.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episoide-54-astrophysics-pioneers-program.mp3" length="12990519" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-54-astrophysics-pioneers-program</guid>
+ <pubDate>Wed, 24 Feb 2021 04:40 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 53, Ingenuity Mars Helicopter</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-53-ingenuity-mars-helicopter</link>
+ <description>Ingenuity Mars Helicopter Chief Engineer Bob Balaram discusses the first experimental aircraft flight on another planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-53-ingenuity-mars-helicopter.mp3" length="25439831" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-53-ingenuity-mars-helicopter</guid>
+ <pubDate>Tue, 09 Feb 2021 17:59 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 52, Mars Perseverance Rover Science</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-52-mars-perseverance-rover-science</link>
+ <description>Mars 2020 Perseverance Rover Deputy Project Scientist Katie Stack Morgan discusses science objectives of NASA’s first astrobiology-focused mission to the Red Planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-52-mars-perseverance-rover-science.mp3" length="26042634" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-52-mars-perseverance-rover-science</guid>
+ <pubDate>Mon, 25 Jan 2021 17:41 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 51, Advanced Air Mobility National Campaign</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-51-advanced-air-mobility-national-campaign</link>
+ <description>NASA Advanced Air Mobility National Campaign Deputy Lead Shivanjli Sharma discusses the &quot;third revolution&quot; in aviation.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-51-advanced-air-mobility-national-campaign.mp3" length="17698357" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-51-advanced-air-mobility-national-campaign</guid>
+ <pubDate>Tue, 12 Jan 2021 22:13 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 50, Futuristic Space Technologies</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-50-futuristic-space-technologies</link>
+ <description>NASA Innovative Advanced Concepts Program Executive Jason Derleth discusses visionary concepts that could transform future space missions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-50-futuristic-space-technologies.mp3" length="39951678" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-50-futuristic-space-technologies</guid>
+ <pubDate>Wed, 09 Dec 2020 00:38 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 49, NEEMO Case Study Deconstructed</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-49-neemo-case-study-deconstructed</link>
+ <description>NASA’s Bill Todd and Joyce Abbey and retired Astronaut Nicole Stott discuss NEEMO and a new case study they developed about the unique undersea analog.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-49-neemo-case-study-deconstructed.mp3" length="26562214" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-49-neemo-case-study-deconstructed</guid>
+ <pubDate>Tue, 24 Nov 2020 11:56 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 48, Mars Landing Retropropulsion Simulation</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-48-mars-landing-retropropulsion-simulation</link>
+ <description>NASA&#039;s Michelle Munk, Ashley Korzun and Eric Nielsen discuss the impact of state-of-the-art computing on future NASA missions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-48-mars-landing-retropropulsion-simulation.mp3" length="27655070" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-48-mars-landing-retropropulsion-simulation</guid>
+ <pubDate>Tue, 10 Nov 2020 18:51 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 47, ISS 20 – Space Station Complexity</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-47-iss-20-space-station-complexity</link>
+ <description>International Space Station Flight Director Royce Renfrew discusses the complexity of the orbiting laboratory as NASA counts up to 20 years of continuous human presence in space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-47-iss-20-space-station-complexity.mp3" length="28495862" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-47-iss-20-space-station-complexity</guid>
+ <pubDate>Tue, 27 Oct 2020 20:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 46, ISS 20 - Living in Space</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-46-iss-20-living-in-space</link>
+ <description>American Astronaut Tracy Caldwell Dyson discusses 20 years of continuous human presence on the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-46-iss-20-living-in-space.mp3" length="19625261" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-46-iss-20-living-in-space</guid>
+ <pubDate>Tue, 13 Oct 2020 12:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 45, Digital Transformation</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-45-digital-transformation</link>
+ <description>NASA Digital Transformation Officer Jill Marlowe discusses the agency’s digital transformation strategy and approach.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-45-digital-transformation.mp3" length="23206646" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-45-digital-transformation</guid>
+ <pubDate>Mon, 28 Sep 2020 13:06 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 44, Transiting Exoplanet Survey Satellite</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-44-transiting-exoplanet-survey-satellite</link>
+ <description>NASA Deputy Director of Astrophysics Jeff Volosin discusses the Transiting Exoplanet Survey Satellite (TESS) mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-44-transiting-exoplanet-survey-satellite.mp3" length="20482783" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-44-transiting-exoplanet-survey-satellite</guid>
+ <pubDate>Sat, 12 Sep 2020 20:22 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 43, White Sands Test Facility</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-43-white-sands-test-facility</link>
+ <description>White Sands Test Facility Manager Bob Cort discusses the history and capabilities of the NASA facility.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-43-white-sands-test-facility.mp3" length="15420231" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-43-white-sands-test-facility</guid>
+ <pubDate>Tue, 01 Sep 2020 23:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 42, Game Changing Development Program</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-42-game-changing-development-program</link>
+ <description>NASA Game Changing Development Program Executive Niki Werkheiser discusses advancement of space technologies that could lead to new approaches for future space missions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-42-game-changing-development-program.mp3" length="26248955" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-42-game-changing-development-program</guid>
+ <pubDate>Tue, 18 Aug 2020 21:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 41, Technical Storytelling, Part Two</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-41-technical-storytelling-part-two</link>
+ <description>NASA’s Jon Olansen, Jenny Devolites and Ben Asher share technical stories and discuss storytelling technique with Storytelling Strategist Johel Brown-Grant.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-41-technical-storytelling-part-two.mp3" length="40475110" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-41-technical-storytelling-part-two</guid>
+ <pubDate>Tue, 04 Aug 2020 21:54 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 40, Technical Storytelling, Part One</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-40-technical-storytelling-part-one</link>
+ <description>Storytelling Strategist Johel Brown-Grant with the U.S. State Department discusses organizational benefits of technical storytelling.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-40-technical-storytelling-part-one.mp3" length="16983887" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-40-technical-storytelling-part-one</guid>
+ <pubDate>Tue, 21 Jul 2020 23:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 39, Plum Brook Station</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-39-plum-brook-station</link>
+ <description>Plum Brook Station Director David Stringer discusses world-unique test facilities at the NASA station in Ohio.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-39-plum-brook-station.mp3" length="15100418" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-39-plum-brook-station</guid>
+ <pubDate>Tue, 07 Jul 2020 16:06 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 38, Human Factors</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-38-human-factors</link>
+ <description>NASA Armstrong Operations Engineering Branch Chief Kate McMurtry discusses the value of understanding the impact of human factors on mission performance.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-38-human-factors.mp3" length="12154031" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-38-human-factors</guid>
+ <pubDate>Wed, 24 Jun 2020 08:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 37, NASA Safety Center</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-37-nasa-safety-center</link>
+ <description>NASA Safety Center Director Harmony Myers discusses resources to help achieve technical excellence in safety and mission assurance.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-37-nasa-safety-center.mp3" length="15432103" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-37-nasa-safety-center</guid>
+ <pubDate>Tue, 09 Jun 2020 16:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 36, Crowdsourcing Innovation</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-36-crowdsourcing-innovation</link>
+ <description>NASA’s Center of Excellence for Collaborative Innovation Deputy Manager Steve Rader discusses driving innovation through crowdsourcing and the gig economy.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-36-crowdsourcing-innovation.mp3" length="30394723" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-36-crowdsourcing-innovation</guid>
+ <pubDate>Tue, 26 May 2020 21:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 35, Launch America</title>
+ <link>http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-35-launch-america</link>
+ <description>NASA Commercial Crew Program Chief Engineers Steve Sullivan, Chris Lupo and Deborah Crane discuss the new approach for launching American astronauts to space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-35-launch-america.mp3" length="21614890" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/small-steps-giant-leaps-episode-35-launch-america</guid>
+ <pubDate>Tue, 12 May 2020 18:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 34, Science in the 2020s</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-34-science-in-the-2020s</link>
+ <description>NASA Scientist Michelle Thaller discusses anticipated discoveries and exciting missions planned during this decade.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-34-science-in-the-2020s.mp3" length="24013265" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-34-science-in-the-2020s</guid>
+ <pubDate>Tue, 28 Apr 2020 23:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 33, Young Innovators</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-33-young-innovators</link>
+ <description>Kenny Harris, a NASA engineer named to Forbes&#039; 30 Under 30 Class of 2020, discusses his experiences as a young professional.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-33-young-innovators.mp3" length="20433598" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-33-young-innovators</guid>
+ <pubDate>Tue, 14 Apr 2020 18:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 32, Europa Clipper</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-32-europa-clipper</link>
+ <description>Europa Clipper Project System Engineer Jennifer Dooley discusses NASA’s outer planets flagship mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-32-europa-clipper_0.mp3" length="15116743" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-32-europa-clipper</guid>
+ <pubDate>Mon, 30 Mar 2020 13:34 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 31, Commercial Lunar Payload Services</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-31-commercial-lunar-payload-services</link>
+ <description>Steve Clarke, the Deputy Associate Administrator for Exploration in NASA’s Science Mission Directorate, discusses commercial payload delivery services to the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-31-commercial-lunar-payload-services.mp3" length="19020235" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-31-commercial-lunar-payload-services</guid>
+ <pubDate>Tue, 17 Mar 2020 21:58 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 30, VIPER Lunar Rover</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-30-viper-lunar-rover</link>
+ <description>VIPER Project Manager Dan Andrews discusses the lunar rover’s upcoming mission to look for water ice on the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-30-viper-lunar-rover.mp3" length="16748525" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-30-viper-lunar-rover</guid>
+ <pubDate>Tue, 03 Mar 2020 21:14 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 29, Centennial Challenges</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-29-centennial-challenges</link>
+ <description>Monsi Roman, NASA Centennial Challenges Program Manager, discusses the agency’s flagship prizes and competition program.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-29-centennial-challenges.mp3" length="21682989" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-29-centennial-challenges</guid>
+ <pubDate>Tue, 18 Feb 2020 15:22 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 28: Interdisciplinary Interactions</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-28-interdisciplinary-interactions</link>
+ <description>Anna McGowan, NASA’s Senior Engineer for Complex Systems Design, discusses the impact of interdisciplinary interactions on mission success.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-28-interdisciplinary-interactions.mp3" length="25782777" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-28-interdisciplinary-interactions</guid>
+ <pubDate>Tue, 04 Feb 2020 13:17 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 27, Megatrends for Engineering Systems</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-27-megatrends-for-engineering-systems</link>
+ <description>Anna McGowan, NASA’s Senior Engineer for Complex Systems Design, discusses engineering trends and the impact of rapid technology changes.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-27-megatrends-for-engineering-systems_1.mp3" length="25412969" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-27-megatrends-for-engineering-systems</guid>
+ <pubDate>Tue, 21 Jan 2020 15:09 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 26, NASA IV&amp;V</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-26-nasa-ivv</link>
+ <description>NASA Independent Verification and Validation Program Director Greg Blaney discusses the impact of IV&amp;V on high-profile NASA missions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-26-iv_v.mp3" length="20082397" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-26-nasa-ivv</guid>
+ <pubDate>Tue, 07 Jan 2020 20:08 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 25, NASA Technology Transfer</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-25-nasa-technology-transfer</link>
+ <description>NASA Technology Transfer Program Executive Dan Lockney discusses the transfer of innovative space and aeronautics technologies for practical, terrestrial applications.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-25-nasa-technology-transfer.mp3" length="18018848" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-25-nasa-technology-transfer</guid>
+ <pubDate>Tue, 10 Dec 2019 22:36 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 24, TechPort</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-24-techport</link>
+ <description>NASA TechPort’s Patrick Murphy and Ryan Miller discuss how technologists and innovators can use the tool to exchange ideas for groundbreaking solutions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-24-techport.mp3" length="16269823" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-24-techport</guid>
+ <pubDate>Tue, 26 Nov 2019 11:23 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 23, Swamp Works</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-23-swamp-works</link>
+ <description>NASA Swamp Works Senior Technologist Rob Mueller discusses technologies being developed for missions to the Moon and Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-23-swamp-works.mp3" length="19231061" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-23-swamp-works</guid>
+ <pubDate>Wed, 13 Nov 2019 11:12 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 22, Reflections on Columbia</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-22-reflections-on-columbia</link>
+ <description>NASA Goddard Space Flight Center Chief Knowledge Officer Ed Rogers discusses the complex human elements involved in disasters such as the Space Shuttle Columbia accident.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-22-reflections-on-columbia.mp3" length="26231043" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-22-reflections-on-columbia</guid>
+ <pubDate>Tue, 29 Oct 2019 15:51 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 21, NASA Human Research Program</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-21-nasa-human-research-program</link>
+ <description>NASA Human Research Program Director Bill Paloski discusses methods and technologies to support safe, productive human space travel to the Moon and Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-21-nasa-human-research-program.mp3" length="21666875" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-21-nasa-human-research-program</guid>
+ <pubDate>Tue, 15 Oct 2019 15:52 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 20, Exploration Spacesuit Design</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-20-exploration-spacesuit-design</link>
+ <description>NASA Exploration EVA System Development Lead Jesse Buffington discusses spacesuit design for spacewalks on the Moon and Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-20-exploration-spacesuit-design.mp3" length="24724815" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-20-exploration-spacesuit-design</guid>
+ <pubDate>Wed, 02 Oct 2019 09:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 19, Magic Inside the Orion Spacesuit</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-19-magic-inside-the-orion-spacesuit</link>
+ <description>Orion Spacesuit Engineer Kirstyn Johnson discusses the internal systems of the Orion spacesuit.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-19-magic-inside-the-orion-spacesuit.mp3" length="20460853" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-19-magic-inside-the-orion-spacesuit</guid>
+ <pubDate>Wed, 18 Sep 2019 09:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 18, Orion Spacesuit Design</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-18-orion-spacesuit-design</link>
+ <description>Orion Crew Survival Systems Project Manager Dustin Gohmert discusses Orion spacesuit design.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-18-orion-spacesuit-design_2.mp3" length="23772688" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-18-orion-spacesuit-design</guid>
+ <pubDate>Wed, 04 Sep 2019 09:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 17, Astronaut Training</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-17-astronaut-training</link>
+ <description>NASA Astronaut Candidate Woody Hoburg discusses his experiences as the 2017 NASA Astronaut Class approaches the two-year mark of extensive training for space travel.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-17-astronaut-training.mp3" length="16174969" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-17-astronaut-training</guid>
+ <pubDate>Tue, 20 Aug 2019 15:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 16, Ocean-Atmosphere Understanding</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-16-ocean-atmosphere-understanding</link>
+ <description>Kathleen McIntyre, PACE Deputy Project Manager, discusses NASA&#039;s Plankton, Aerosol, Cloud, ocean Ecosystem mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-16-ocean-atmosphere-understanding.mp3" length="18188689" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-16-ocean-atmosphere-understanding</guid>
+ <pubDate>Tue, 06 Aug 2019 20:39 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 15, 20 Years of Chandra Discoveries</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-15-20-years-of-chandra-discoveries</link>
+ <description>Chandra X-ray Observatory Project Manager Helen Cole and Project Scientist Martin Weisskopf discuss 20 years of exploring the extreme universe.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-15-20-years-of-chandra-discoveries.mp3" length="18228777" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-15-20-years-of-chandra-discoveries</guid>
+ <pubDate>Tue, 23 Jul 2019 21:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 14, Apollo Lunar Landing Training</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-14-apollo-lunar-landing-training</link>
+ <description>Lisa Jones, NASA Landing and Impact Research Facility Manager, discusses the facility where the Apollo astronauts trained for the lunar landing.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-14-apollo-lunar-landing-training.mp3" length="11017589" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-14-apollo-lunar-landing-training</guid>
+ <pubDate>Tue, 09 Jul 2019 21:03 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 13, Apollo Legacies and Lessons Learned</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-13-apollo-legacies-and-lessons-learned</link>
+ <description>Award-winning journalist, space historian and author Andrew Chaikin discusses the Apollo Program, almost 50 years after the Apollo 11 Moon landing.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-13-apollo-legacies-and-lessons-learned.mp3" length="20060360" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-13-apollo-legacies-and-lessons-learned</guid>
+ <pubDate>Tue, 25 Jun 2019 14:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 12, Flight Demonstrations and Capabilities</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-12-flight-demonstrations-and-capabilities</link>
+ <description>Brent Cobleigh, NASA Flight Demonstrations and Capabilities Project Manager, discusses new technologies that could transform air travel.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-12-flight-demonstrations-and-capabilities.mp3" length="25063852" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-12-flight-demonstrations-and-capabilities</guid>
+ <pubDate>Tue, 11 Jun 2019 21:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 11, Commercial Crew</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-11-commercial-crew</link>
+ <description>Jon Cowart, a veteran space engineer, discusses NASA’s Commercial Crew Program and progress toward launching astronauts from American soil.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-11-commercial-crew.mp3" length="16248690" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-11-commercial-crew</guid>
+ <pubDate>Tue, 28 May 2019 10:44 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 10, Concurrent Engineering</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-10-concurrent-engineering</link>
+ <description>The European Space Agency’s Torsten Bieler discusses how ESA uses concurrent engineering.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-10-concurrent-engineering.mp3" length="11582086" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-10-concurrent-engineering</guid>
+ <pubDate>Tue, 14 May 2019 21:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 9, Mars Opportunity Rover Mission</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-9-mars-opportunity-rover-mission</link>
+ <description>Abigail Fraeman, deputy project scientist on the Mars Exploration Rover mission, discusses the Opportunity rover mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-09-mars-opportunity-rover-mission.mp3" length="21707105" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-9-mars-opportunity-rover-mission</guid>
+ <pubDate>Tue, 30 Apr 2019 14:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 8, Engineering NASA’s Science Missions</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-8-engineering-nasas-science-missions</link>
+ <description>Joe Gasbarre, NASA Science Mission Directorate Chief Engineer, discusses the engineering side of science missions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-08-smd-engineering-nasa-science-missions.mp3" length="23929839" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-8-engineering-nasas-science-missions</guid>
+ <pubDate>Tue, 16 Apr 2019 10:54 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 7, Space Shuttle Columbia National Tour</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-7-space-shuttle-columbia-national-tour</link>
+ <description>Mike Ciannilli, the agency’s manager of the Apollo, Challenger, Columbia Lessons Learned Program, previews the Space Shuttle Columbia National Tour.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-07-space-shuttle-columbia-national-tour.mp3" length="28368712" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-7-space-shuttle-columbia-national-tour</guid>
+ <pubDate>Tue, 02 Apr 2019 19:12 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 6, Artificial Intelligence</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-6-artificial-intelligence</link>
+ <description>Brian Thomas, Agency Data Scientist at NASA Headquarters, discusses artificial intelligence.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-06-artificial-intelligence.mp3" length="29033430" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-6-artificial-intelligence</guid>
+ <pubDate>Tue, 19 Mar 2019 17:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 5, Big Data</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-5-big-data</link>
+ <description>John Sprague, Deputy Chief Information Officer for Technology, Data and Innovation at NASA Headquarters, discusses big data.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode05-big-data.mp3" length="32222480" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-5-big-data</guid>
+ <pubDate>Tue, 05 Mar 2019 18:20 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 4, APPEL Knowledge Services Overview</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-4-appel-knowledge-services-overview</link>
+ <description>Roger Forsgren, NASA Chief Knowledge Officer and APPEL Knowledge Services Director, discusses the integration of training and knowledge sharing activities.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode04-roger-forsgren.mp3" length="33042149" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-4-appel-knowledge-services-overview</guid>
+ <pubDate>Tue, 19 Feb 2019 22:10 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 3, Unleashing Innovation</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-3-unleashing-innovation</link>
+ <description>David Miranda, innovation point of contact for the Exploration Ground Systems Program’s Operations Division, offers tips for unleashing innovation.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-03-unleashing-innovation.mp3" length="33979292" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-3-unleashing-innovation</guid>
+ <pubDate>Wed, 06 Feb 2019 17:42 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 2, Decision Velocity</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-2-decision-velocity</link>
+ <description>An Exploration Ground Systems Program division chief, Jeremy Parsons, discusses practical ways to make quality decisions faster.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-02-decision-velocity.mp3" length="36275636" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-2-decision-velocity</guid>
+ <pubDate>Wed, 19 Dec 2018 09:07 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 1, Orion</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-1-orion</link>
+ <description>Orion Program Manager Mark Kirasich discusses the challenges and opportunities of managing America’s next-generation spacecraft.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-01-orion.mp3" length="45562121" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-1-orion</guid>
+ <pubDate>Mon, 10 Dec 2018 15:33 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+ <item> <title>Small Steps, Giant Leaps: Episode 0, Preview</title>
+ <link>http://www.nasa.gov/mediacast/giant-leaps/episode-0</link>
+ <description>APPEL Knowledge Services presents a preview of the new Small Steps, Giant Leaps podcast.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/episode-00-preview.mp3" length="5505868" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/giant-leaps/episode-0</guid>
+ <pubDate>Tue, 04 Dec 2018 14:24 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/APPEL-Giant-Leaps.rss">Small Steps, Giant Leaps</source>
+</item>
+</channel>
+</rss>

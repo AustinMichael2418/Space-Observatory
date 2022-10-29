@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Ames Research Center - News and Features</title>
+ <description>Ames News RSS</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/ames_news.rss" />
+ <language>en-us</language>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>NASA’s Lunar Flashlight Ready to Search for the Moon’s Water Ice</title>
+ <link>http://www.nasa.gov/feature/jpl/nasa-s-lunar-flashlight-ready-to-search-for-the-moon-s-water-ice</link>
+ <description>Set for a November launch, the small satellite mission will use lasers to search for water ice inside the darkest craters at the Moon’s South Pole.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/1_old-lunar-flashlight_0-cropped.jpg?itok=vP48CaBK" length="1808067" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/jpl/nasa-s-lunar-flashlight-ready-to-search-for-the-moon-s-water-ice</guid>
+ <pubDate>Fri, 28 Oct 2022 14:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/ames_news.rss">NASA Ames Research Center - News and Features</source>
+</item>
+ <item> <title>Equipping LOFTID’s Sensors for a Fiery Descent Back to Earth</title>
+ <link>http://www.nasa.gov/feature/ames/equipping-loftid-s-sensors-for-a-fiery-descent-back-to-earth</link>
+ <description>NASA’s Low-Earth Orbit Flight Test of an Inflatable Decelerator mission will test a new heat shield designed to inflate to protect heavier payloads on the journey through an atmosphere.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/inside_aeroshell_thermocouples_-_loftid.png?itok=PY2Y8q7N" length="7208705" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/ames/equipping-loftid-s-sensors-for-a-fiery-descent-back-to-earth</guid>
+ <pubDate>Thu, 27 Oct 2022 14:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/ames_news.rss">NASA Ames Research Center - News and Features</source>
+</item>
+ <item> <title>Smooth Rides Ahead for Advanced Air Mobility Aircraft</title>
+ <link>http://www.nasa.gov/feature/smooth-rides-ahead-for-advanced-air-mobility-aircraft</link>
+ <description>Airline passengers today expect a smooth ride with little turbulence. While turbulence can’t always be avoided, aircraft design considerations and designs limit what the passenger feels.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/ride_quality_c.png?itok=55Vab92H" length="3019053" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/smooth-rides-ahead-for-advanced-air-mobility-aircraft</guid>
+ <pubDate>Tue, 25 Oct 2022 18:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/ames_news.rss">NASA Ames Research Center - News and Features</source>
+</item>
+ <item> <title>NASA Inflatable Heat Shield Finds Strength in Flexibility</title>
+ <link>http://www.nasa.gov/feature/nasa-inflatable-heat-shield-finds-strength-in-flexibility</link>
+ <description>NASA Inflatable Heat Shield Finds Strength in Flexibility</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/loftid_cut_away-01.png?itok=EUMCMsak" length="1243536" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/nasa-inflatable-heat-shield-finds-strength-in-flexibility</guid>
+ <pubDate>Tue, 25 Oct 2022 14:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/ames_news.rss">NASA Ames Research Center - News and Features</source>
+</item>
+ <item> <title>NASA in Silicon Valley Lands at AIAA Ascend 2022</title>
+ <link>http://www.nasa.gov/ames/aiaa-ascend-2022</link>
+ <description>This week, experts, students, entrepreneurs, and enthusiasts from across the space exploration community will meet online and in Las Vegas, NV for the AIAA Ascend Conference.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa_meatball_1.jpg?itok=GPrBmBv4" length="85798" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/ames/aiaa-ascend-2022</guid>
+ <pubDate>Fri, 21 Oct 2022 15:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/ames_news.rss">NASA Ames Research Center - News and Features</source>
+</item>
+ <item> <title>What are Ames’ Contributions to LOFTID?</title>
+ <link>http://www.nasa.gov/ames/loftid</link>
+ <description>NASA’s Low-Earth Orbit Flight Test of an Inflatable Decelerator (LOFTID) mission tests a new inflatable heat shield that could enable large-scale missions to Mars, Venus, and Titan, as well as re-entering Earth&#039;s atmosphere.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/loftid-1_0.jpg?itok=5yCbnFUJ" length="11070264" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/ames/loftid</guid>
+ <pubDate>Thu, 20 Oct 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/ames_news.rss">NASA Ames Research Center - News and Features</source>
+</item>
+ <item> <title>NASA to Recover Lots of Data from Tiny Package During Tech Demo</title>
+ <link>http://www.nasa.gov/feature/nasa-to-recover-lots-of-data-from-tiny-package-during-tech-demo</link>
+ <description>NASA to Recover Lots of Data from Tiny Package During Tech Demo</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/screen_shot_2022-10-14_at_2.29.50_pm.png?itok=8VDGmCp3" length="3195686" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/nasa-to-recover-lots-of-data-from-tiny-package-during-tech-demo</guid>
+ <pubDate>Tue, 18 Oct 2022 09:58 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/ames_news.rss">NASA Ames Research Center - News and Features</source>
+</item>
+ <item> <title>Congresswoman Eshoo Tours SOFIA Flying Observatory Upon Its Retirement</title>
+ <link>http://www.nasa.gov/image-feature/ames/congresswoman-eshoo-tours-sofia-flying-observatory-upon-its-retirement</link>
+ <description>On Oct. 14, 2022, Rep. Anna G. Eshoo and Eugene Tu, center director at NASA’s Ames Research Center in California’s Silicon Valley, visited the now-retired Stratospheric Observatory for Infrared Astronomy.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/acd22-0072-014.jpg?itok=rgWkVy_-" length="5838620" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/ames/congresswoman-eshoo-tours-sofia-flying-observatory-upon-its-retirement</guid>
+ <pubDate>Fri, 14 Oct 2022 19:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/ames_news.rss">NASA Ames Research Center - News and Features</source>
+</item>
+ <item> <title>NASA’s S-MODE Field Campaign Deploys to the Pacific Ocean</title>
+ <link>http://www.nasa.gov/feature/jpl/nasa-s-s-mode-field-campaign-deploys-to-the-pacific-ocean</link>
+ <description>The mission’s fleet of ship, aircraft, and marine robotics will study ocean eddies and other elusive features near the surface that have a big influence on climate.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/1-pia25522-ship-at-sunset-1041.jpg?itok=Cj5bsbUO" length="211709" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/jpl/nasa-s-s-mode-field-campaign-deploys-to-the-pacific-ocean</guid>
+ <pubDate>Tue, 11 Oct 2022 10:23 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/ames_news.rss">NASA Ames Research Center - News and Features</source>
+</item>
+ <item> <title>Collision May Have Formed the Moon in Mere Hours, Simulations Reveal</title>
+ <link>http://www.nasa.gov/feature/ames/lunar-origins-simulations</link>
+ <description>Most theories claim the Moon formed out of the debris of this collision, coalescing in orbit over months or years. A new simulation puts forth a different theory – the Moon may have formed immediately, in a matter of hours, when material from the Earth and Theia were launched directly into orbit after the impact.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/lunar_formation.png?itok=qLptJw5s" length="2292019" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/ames/lunar-origins-simulations</guid>
+ <pubDate>Tue, 04 Oct 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/ames_news.rss">NASA Ames Research Center - News and Features</source>
+</item>
+</channel>
+</rss>

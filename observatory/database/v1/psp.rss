@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Parker Solar Probe</title>
+	<atom:link href="https://blogs.nasa.gov/parkersolarprobe/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blogs.nasa.gov/parkersolarprobe</link>
+	<description></description>
+	<lastBuildDate>Wed, 31 Aug 2022 20:44:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://blogs.nasa.gov?v=5.9.3</generator>
+	<item>
+		<title>Parker Solar Probe’s Upcoming Close Encounter with a Highly Active Sun</title>
+		<link>https://blogs.nasa.gov/parkersolarprobe/2022/08/31/parker-solar-probes-upcoming-close-encounter-with-a-highly-active-sun/</link>
+		
+		<dc:creator><![CDATA[Denise Hill]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2022 20:44:19 +0000</pubDate>
+				<category><![CDATA[Parker Solar Probe]]></category>
+		<guid isPermaLink="false">https://blogs.nasa.gov/parkersolarprobe/?p=686</guid>
+
+					<description><![CDATA[As NASA’s Parker Solar Probe approaches its 13th perihelion, or close encounter, with the Sun on Sept. 6, it is heading into a much different solar environment than ever before. NASA reported earlier this summer that Solar Cycle 25 is already exceeding predictions for solar activity, even with solar maximum not to come for another &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>As NASA’s Parker Solar Probe approaches its 13<sup>th</sup> perihelion, or close encounter, with the Sun on Sept. 6, it is heading into a much different solar environment than ever before.</p>
+<figure id="attachment_689" aria-describedby="caption-attachment-689" style="width: 600px" class="wp-caption alignnone"><img class="wp-image-689 size-full" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/08/ParkerPerihelion13_8.31.2022.gif" alt="An illustration of Parker Solar Probe's orbit shows the beginning of the spacecraft's thirteenth solar encounter on Sept. 1, 2022, at 22.8 million miles from the Sun. The space craft reaches its closest approach to the Sun on Sept. 6, 2022, at 5.3 million miles. The orbit ends on Sept. 11, 2022. " width="600" height="338" /><figcaption id="caption-attachment-689" class="wp-caption-text">Parker Solar Probe began its thirteenth solar encounter on Sept. 1, 2022. Credit: NASA/Johns Hopkins APL</figcaption></figure>
+<p>NASA reported earlier this summer that <a href="https://blogs.nasa.gov/solarcycle25/2022/07/27/solar-cycle-25-is-exceeding-predictions-and-showing-why-we-need-the-gdc-mission/">Solar Cycle 25 is already exceeding predictions for solar activity,</a> even with solar maximum not to come for another three years. In recent days, a sunspot the size of Earth has rapidly developed on the Sun, and the star has given off multiple solar flares and geomagnetic storms.</p>
+<p>“The Sun has changed completely since we launched Parker Solar Probe during solar minimum when it was very quiet,” said Nour Raouafi, Parker Solar Probe project scientist at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland. “When the Sun changes, it also changes the environment around it. The activity at this time is way higher than we expected.”</p>
+<p>Raouafi expects the high level of solar activity to continue as Parker approaches this perihelion, just 5.3 million miles from the Sun. The spacecraft has yet to fly through a solar event like a solar flare or a coronal mass ejection (CME) during one of its close encounters, but that may change this coming month. The resulting data would be groundbreaking.</p>
+<p>“Nobody has ever flown through a solar event so close to the Sun before,” Raouafi said. “The data would be totally new, and we would definitely learn a lot from it.”</p>
+<p>Though the spacecraft has not flown through a solar event, Parker’s Wide-field Imager for Solar Probe (WISPR) instrument has imaged a small number of CMEs from a distance, including five during the spacecraft’s <a href="https://sppgway.jhuapl.edu/encounters#enc10">10<sup>th</sup> encounter with the Sun</a> in November 2021. These observations have already led to unexpected discoveries about the structure of CMEs.</p>
+<figure id="attachment_691" aria-describedby="caption-attachment-691" style="width: 600px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-691" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/08/WISPR_dec21.gif" alt="Black and white gif image showing data taken with Parker Solar Probe's WISPR instrument. White particles shoot across a black and grayish background from left to right. " width="600" height="471" /><figcaption id="caption-attachment-691" class="wp-caption-text">During Parker Solar Probe’s eighth orbit around the Sun, the spacecraft flew through structures in the corona called streamers. This movie shows the data captured from the WISPR instrument on Parker Solar Probe. Credit: NASA/Johns Hopkins APL/Naval Research Laboratory</figcaption></figure>
+<p>All of Parker’s observations aid in the effort to understand the physics of the Sun, helping better predict space weather, which can affect electric grids, communications and navigation systems, astronauts and satellites in space, and more.</p>
+<p>Although the Sun is much more active than during previous close encounters, Parker’s mission operators are not concerned about adverse effects to the spacecraft.</p>
+<p>“Parker Solar Probe is built to withstand whatever the Sun can throw at it,” said Doug Rodgers, APL’s science operations center coordinator for the mission. “Every orbit is different, but the mission is a well-oiled machine at this point.”</p>
+<p>While they will have very little contact with the spacecraft during its 10-day encounter, they have conducted routine operations to prepare, including readying the instruments, freeing up onboard memory space for new observations, and testing and pre-loading commands to operate the spacecraft while it’s out of contact. They have also coordinated observation times with <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter">Solar Orbiter</a>, an ESA (European Space Agency)/NASA mission that will view the Sun from the same angle as Parker, but 58.5 million miles farther from the Sun’s surface.</p>
+<p>Parker’s observations do not always overlap with those of other observatories, such as Solar Orbiter or <a href="https://www.nasa.gov/mission_pages/stereo/main/index.html">Solar Terrestrial Relations Observatory-A</a> (STEREO-A), another NASA solar probe. But when they do, it offers significant advantages.</p>
+<p>“By combining the data from multiple space missions and even ground observatories, we can understand the bigger picture,” Raouafi said. “In this case, with both Parker and Solar Orbiter observing the Sun from different distances, we will be able to study the evolution of the solar wind, gathering data as it passes one spacecraft and then the other.”</p>
+<p>This is not the first time Parker and Solar Orbiter have been in alignment for one of Parker’s perihelions. Scientists have used data from previous alignments of the two spacecraft to produce multiple peer-reviewed papers on solar phenomena observed by both missions.</p>
+<p>While this perihelion promises to be exciting due to high solar activity, Raouafi is already looking ahead to future close encounters.</p>
+<p>“While the Sun was quiet, we did three years of great science,” he said. “But our view of the solar wind and the corona will be totally different now, and we’re very curious to see what we’ll learn next.”</p>
+<p>Parker Solar Probe is part of NASA’s Living with a Star program to explore aspects of the Sun-Earth system that directly affect life and society. The Living with a Star program is managed by the agency’s Goddard Space Flight Center in Greenbelt, Maryland, for NASA’s Science Mission Directorate in Washington. Johns Hopkins APL designed, built, and operates the spacecraft.</p>
+<p><strong><em>By Ashley Hume<br />
+Johns Hopkins University Applied Physics Lab</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Parker Solar Probe Thriving Four Years after Launch</title>
+		<link>https://blogs.nasa.gov/parkersolarprobe/2022/08/12/parker-solar-probe-thriving-four-years-after-launch/</link>
+		
+		<dc:creator><![CDATA[Abbey Interrante]]></dc:creator>
+		<pubDate>Fri, 12 Aug 2022 17:11:31 +0000</pubDate>
+				<category><![CDATA[Parker Solar Probe]]></category>
+		<guid isPermaLink="false">https://blogs.nasa.gov/parkersolarprobe/?p=677</guid>
+
+					<description><![CDATA[As it orbits the Sun, NASA’s Parker Solar Probe encounters some of the most challenging conditions ever faced by a spacecraft: temperatures up to nearly 1,500 degrees Fahrenheit (800 degrees Celsius), space dust that could easily degrade materials and instruments, and intense light and high-speed particles escaping from our closest star. But four years after &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>As it orbits the Sun, NASA’s Parker Solar Probe encounters some of the most challenging conditions ever faced by a spacecraft: temperatures up to nearly 1,500 degrees Fahrenheit (800 degrees Celsius), space dust that could easily degrade materials and instruments, and intense light and high-speed particles escaping from our closest star.</p>
+<p>But four years after launch, the spacecraft is operating exceptionally well and sending back more than twice the planned amount of science data.</p>
+<p>“Despite operating in such an extreme environment, Parker is performing well beyond our expectations,” said Helene Winters, Parker Solar Probe project manager at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland. “The spacecraft and its payload are making spectacular observations that will revolutionize our understanding of the Sun and the heliosphere, and that is a testament to the innovation and tireless dedication of the team.”</p>
+<figure id="attachment_678" aria-describedby="caption-attachment-678" style="width: 840px" class="wp-caption alignnone"><img loading="lazy" class="size-large wp-image-678" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/08/pspbynumbers4-1024x576.jpeg" alt="Parker Solar Probe By the Numbers: 2.76 billion miles traveled. 5 trips into the Sun's corona. 64 years since a solar probe mission was first proposed. 538 scientific papers citing Parker Solar Probe data. 2.8 terabytes of data returned to Earth. 62,047 images taken. 12 orbits of the Sun. 5.3 million miles from the Sun on Parker's closest approach to date (August 12, 2022)" width="840" height="473" srcset="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/08/pspbynumbers4-1024x576.jpeg 1024w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/08/pspbynumbers4-300x169.jpeg 300w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/08/pspbynumbers4-768x432.jpeg 768w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/08/pspbynumbers4-1536x864.jpeg 1536w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/08/pspbynumbers4-1200x675.jpeg 1200w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/08/pspbynumbers4.jpeg 1920w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption id="caption-attachment-678" class="wp-caption-text">As Parker Solar Probe continues its mission, it continues to break records and capture first-of-its-kind measurements of the Sun. Credit: NASA/Johns Hopkins APL/Magda Saina</figcaption></figure>
+<p>Building a spacecraft to withstand these conditions for years was a monumental challenge. The mission team at APL had to prepare the spacecraft to operate in an environment that had never been explored before. Parker has weathered it all while flying approximately 2.7 billion miles (4.4 billion kilometers) — roughly the distance from the Sun to Neptune — and doing it faster than any mission before. By comparison, NASA’s New Horizons — the APL-led mission that captured the first images of Pluto — took 8 1/2 years to fly the same distance.</p>
+<p>“We designed to worst-case assumptions for things like the thermal environment and the effects of solar radiation on the spacecraft,” said Jim Kinnison, the Parker Solar Probe mission systems engineer at APL. “We’re pleased that all the hard work during the design phase to define those worst-case assumptions has paid off.”</p>
+<p>The spacecraft’s stellar performance has opened the door for the team to optimize the amount of science returned from the mission.</p>
+<p>“Our telecommunications links are more robust than our worst-case predictions, allowing us to downlink at higher bit rates,” said Kinnison. “As a result, the scientists have been able to collect and downlink about three times more data than planned before launch. This means we’re able to study the Sun in more detail during each encounter but also greatly increase science return when we’re farther away. It also means we can collect data in special circumstances like Venus flybys, well beyond our basic science objectives.”</p>
+<p>Over the course of the mission, Parker has sent back roughly 2.8 terabytes of scientific data, approximately equivalent to the amount of data in 200 hours of 4K video. Scientists worldwide will use this data for years to come to develop a better understanding of the Sun’s effects on Earth and our solar system.</p>
+<p>“I couldn’t be happier with how the mission is going,” said John Wirzburger, the Parker spacecraft systems engineer at APL. “The spacecraft is operating normally, we&#8217;re well within all of our performance margins, and we have plenty of propellant to fly for a long time. Everything is working at least as well, if not better, than expected and modeled on the ground.”</p>
+<p>Next month, Parker will complete its 13<sup>th</sup> perihelion, its closest approach to the Sun in this orbit. During that encounter, it will fly through the Sun’s upper atmosphere, the corona, for the sixth time.</p>
+<p>That environment, though, is getting only more extreme. Parker makes its 13<sup>th</sup> approach as the Sun’s activity ramps up prior to solar maximum in 2025 — activity that NASA has reported is already exceeding predictions. This means there are more sunspots, solar flares, and solar eruptions than predicted. However, according to Wirzburger, the Parker team is not concerned about the spacecraft’s continued performance.</p>
+<p>“Parker was designed to handle things like radiation and solar flares,” he said. “As some of the bigger solar flares have been released, the spacecraft has weathered the storm each time without issue.”</p>
+<p>“Exploration is inherently risky, but the spacecraft has proven to be robust and able to autonomously keep itself safe,” added Kinnison. “We’re looking forward to the rest of the mission, and that closest perihelion at the end of the primary mission.”</p>
+<p><strong><em>By Ashley Hume<br />
+Johns Hopkins University Applied Physics Lab</em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Parker Solar Probe Completes 12th Perihelion</title>
+		<link>https://blogs.nasa.gov/parkersolarprobe/2022/06/02/parker-solar-probe-completes-12th-perihelion/</link>
+		
+		<dc:creator><![CDATA[Abbey Interrante]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2022 18:43:44 +0000</pubDate>
+				<category><![CDATA[Parker Solar Probe]]></category>
+		<guid isPermaLink="false">https://blogs.nasa.gov/parkersolarprobe/?p=668</guid>
+
+					<description><![CDATA[Matching its own records for speed and distance to the Sun, NASA&#8217;s Parker Solar Probe completed its 12th close approach to the Sun on June 1, coming within 5.3 million miles (8.5 million kilometers) of the solar surface. The close approach (known as perihelion) occurred at 6:50 p.m. EDT (10:50 p.m. UTC), with Parker Solar &#8230; ]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_671" aria-describedby="caption-attachment-671" style="width: 840px" class="wp-caption aligncenter"><img loading="lazy" class="size-large wp-image-671" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/06/522_00_1280-1024x576.jpeg" alt="An illustration of Parker Solar Probe flying through solar material." width="840" height="473" srcset="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/06/522_00_1280-1024x576.jpeg 1024w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/06/522_00_1280-300x169.jpeg 300w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/06/522_00_1280-768x432.jpeg 768w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/06/522_00_1280-1200x675.jpeg 1200w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/06/522_00_1280.jpeg 1280w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption id="caption-attachment-671" class="wp-caption-text">Artist’s concept of Parker Solar Probe. Credit: NASA&#8217;s Goddard Space Flight Center</figcaption></figure>
+<p>Matching its own records for speed and distance to the Sun, NASA&#8217;s Parker Solar Probe completed its 12th close approach to the Sun on June 1, coming within 5.3 million miles (8.5 million kilometers) of the solar surface.</p>
+<p>The close approach (known as perihelion) occurred at 6:50 p.m. EDT (10:50 p.m. UTC), with Parker Solar Probe moving about 364,660 miles per hour (586,860 kilometers per hour) – fast enough to cover the distance between Los Angeles and London in under a minute. The milestone also marked the midway point in the mission’s 12th solar encounter, which began May 27 and continues through June 7.</p>
+<p>The spacecraft entered the encounter in good health, with all systems operating normally. Parker Solar Probe is scheduled to check back in with mission operators at the Johns Hopkins University Applied Physics Laboratory in Laurel, Maryland – where it was also designed and built – on June 4.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Amazing Achievements From Parker Solar Probe</title>
+		<link>https://blogs.nasa.gov/parkersolarprobe/2022/04/29/amazing-achievements-from-parker-solar-probe/</link>
+		
+		<dc:creator><![CDATA[Miles Hatfield]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 15:51:14 +0000</pubDate>
+				<category><![CDATA[Parker Solar Probe]]></category>
+		<guid isPermaLink="false">https://blogs.nasa.gov/parkersolarprobe/?p=644</guid>
+
+					<description><![CDATA[In 2018, NASA launched Parker Solar Probe on an unprecedented mission to study the Sun up close. The mission was defined with three key scientific goals: To trace the flow of energy that heats the Sun’s outer atmosphere. To shed light on the sources of the solar wind, the constant flow of solar material escaping &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>In 2018, NASA launched Parker Solar Probe on an unprecedented mission to study the Sun up close. The mission was defined with three key scientific goals:</p>
+<ol>
+<li style="list-style-type: none">
+<ol>
+<li>To trace the flow of energy that heats the Sun’s outer atmosphere.</li>
+<li>To shed light on the sources of the solar wind, the constant flow of solar material escaping from the Sun.</li>
+<li>To explore how solar energetic particles – which can make the 93-million mile (150 million kilometer) journey to Earth in under an hour – are transported and accelerated.</li>
+</ol>
+</li>
+</ol>
+<figure class="wp-block-embed wp-block-embed-youtube is-type-video is-provider-youtube epyt-figure"><div class="wp-block-embed__wrapper"><iframe  id="_ytid_85422"  width="840" height="473"  data-origwidth="840" data-origheight="473" src="https://www.youtube.com/embed/i_z19KPvV1w?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&modestbranding=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__  no-lazyload" title="YouTube player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div></figure>
+<p>Now four years after launch, the <span class="searchHighlight">mission</span> has officially met its <span class="searchHighlight">Mission</span> <span class="searchHighlight">Success </span>criteria, making inroads towards achieving these key goals and more. As Parker Solar Probe continues its mission, it continues to break records and capture first-of-its-kind measurements of the Sun.</p>
+<p>Here are the need-to-know facts about NASA’s historic mission to touch the Sun.</p>
+<h3><strong>1.</strong> <strong>Parker Solar Probe was the first NASA mission named for a living person.</strong></h3>
+<p>In honor of Eugene Parker, eminent physicist who first predicted the solar wind, NASA announced in May 2017, that it would rename the Solar Probe Plus mission to Parker Solar Probe. Parker witnessed the spacecraft’s launch in person and the discoveries made in the mission’s few years. He passed away on March 15, 2022, at age 94.</p>
+<figure class="wp-block-embed wp-block-embed-youtube is-type-video is-provider-youtube epyt-figure"><div class="wp-block-embed__wrapper"><iframe  id="_ytid_93204"  width="840" height="473"  data-origwidth="840" data-origheight="473" src="https://www.youtube.com/embed/Qh63UBJsXrU?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&modestbranding=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__  no-lazyload" title="YouTube player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div></figure>
+<h3><strong>2. The spacecraft carries revolutionary technology.</strong></h3>
+<p>The mission was conceived in 1958, but it took 60 years to develop the technology to make it happen. Designed and built at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland, Parker Solar Probe carries a heat shield, autonomous onboard “smarts” to keep the spacecraft facing the Sun, and an efficient cooling system.</p>
+<figure class="wp-block-embed wp-block-embed-youtube is-type-video is-provider-youtube epyt-figure"><div class="wp-block-embed__wrapper"><iframe  id="_ytid_26873"  width="840" height="473"  data-origwidth="840" data-origheight="473" src="https://www.youtube.com/embed/TN6rZF5dSRg?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&modestbranding=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__  no-lazyload" title="YouTube player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div></figure>
+<h3><strong>3. It’s a repeated record-breaker.</strong></h3>
+<p>Just a few months after launch, Parker Solar Probe became the closest human-made object to the Sun, passing within 26.55 million miles (42.72 million kilometers) from the Sun&#8217;s surface, and became the fastest human-made object, reaching speeds of 153,454 miles per hour. Since then, it has repeatedly broken both of those records, and will reach a top speed of about 430,000 miles per hour (700,000 kilometers per hour) as it flies to within 3.9 million miles (6.2 million kilometers) of the Sun’s surface in 2024. See where Parker Solar Probe is in real time <a href="http://parkersolarprobe.jhuapl.edu/The-Mission/index.php#Where-Is-PSP">here</a>.</p>
+<p><a href="https://www.nasa.gov/feature/goddard/2018/parker-solar-probe-breaks-record-becomes-closest-spacecraft-to-sun/"><img loading="lazy" class="aligncenter wp-image-646" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/04/sunapproachshort2.gif" alt="" width="1042" height="586" /></a></p>
+<h3><strong>4. Parker Solar Probe has officially sampled the Sun.</strong></h3>
+<p>In December 2021, NASA announced that Parker Solar Probe had achieved its cornerstone objective: making the first measurements from within the atmosphere of a star.<a href="https://www.youtube.com/watch?v=LkaLfbuB_6E&amp;ab_channel=NASAGoddard"><br />
+</a></p>
+<figure class="wp-block-embed wp-block-embed-youtube is-type-video is-provider-youtube epyt-figure"><div class="wp-block-embed__wrapper"><iframe  id="_ytid_66179"  width="840" height="473"  data-origwidth="840" data-origheight="473" src="https://www.youtube.com/embed/LkaLfbuB_6E?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&modestbranding=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__  no-lazyload" title="YouTube player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe></div></figure>
+<h3><strong>5. It’s made game-changing discoveries.</strong></h3>
+<p>Parker Solar Probe carries four instrument suites, and each is now credited with several groundbreaking discoveries. A small sample of them is described below.</p>
+<p style="padding-left: 40px"><em><strong>The Solar Wind Electrons Alphas and Protons investigation (SWEAP)<br />
+</strong>Surveying where Sun becomes solar wind</em></p>
+<p style="padding-left: 40px">When Parker Solar Probe entered the solar atmosphere, it made the first-ever crossing of what’s known as the Alfvén critical surface – the boundary where solar material anchored to the Sun first escapes and becomes the solar wind.</p>
+<p style="padding-left: 40px">Until this crossing, no one knew what that boundary would look like. During its first pass close enough to cross the boundary, Parker Solar Probe passed into and out of the corona several times. This revealed key information about the boundary’s shape, revealing that the Alfvén critical surface wasn’t shaped like a smooth ball. Rather, it has spikes and valleys that wrinkle the surface.</p>
+<p style="padding-left: 40px">The SWEAP instrument established that the wrinkles were due to coronal streamers – giant plumes of solar material rising through the Sun’s atmosphere. Streamers have long been observed by Sun-watching spacecraft near Earth, but never before measured directly. The results are reshaping what we know about the Sun’s atmosphere and how it transforms into the solar wind.</p>
+<figure id="attachment_649" aria-describedby="caption-attachment-649" style="width: 800px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-649" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/04/AlfvenSurfacePSP.gif" alt="" width="800" height="450" /><figcaption id="caption-attachment-649" class="wp-caption-text">The boundary that marks the edge of the corona is the Alfvén critical surface. Inside that surface (circle at left), plasma is connected to the Sun by waves that travel back and forth to the surface. Beyond it (circle at right), the Sun’s magnetic fields and gravity are too weak to contain the plasma and it becomes the solar wind, racing across the solar system so fast that waves within the wind cannot ever travel fast enough to make it back to the Sun. The results suggest that the Alfvén critical surface has a wrinkled structure that is connected to giant plumes of solar material called coronal streamers. <strong>Credits: NASA/Johns Hopkins APL/Ben Smith</strong></figcaption></figure>
+<p style="text-align: left;padding-left: 40px"><strong>The Wide-Field Imager for Parker Solar Probe</strong><strong> (WISPR)<br />
+</strong><em>The first hints of a dust-free zone<br />
+</em><br />
+Dust is just about everywhere in our solar system — the remnants of collisions that formed planets, asteroids, comets and other celestial bodies billions of years ago. Almost a century ago, astronomer Henry Norris Russell predicted that there should be a region around the Sun where dust particles should get hot enough to sublimate and thus disappear, creating a dust-free zone. People looked for evidence of the sublimation zone for decades but there was no consistent evidence for its existence whatsoever.</p>
+<p style="text-align: left;padding-left: 40px">The WISPR instrument made the first detection of dust depleting close to the Sun, observing the light reflected from dust dimming at about 19 solar radii (8.2 million miles, or 13.2 million kilometers, away from the Sun). Models of the results suggest that a dust-free zone should exist starting at about 5 solar radii (2.2 million miles, or 3.5 million kilometers, from the Sun).</p>
+<figure id="attachment_648" aria-describedby="caption-attachment-648" style="width: 1121px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-648" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/04/DustFreeZone.png" alt="" width="1121" height="632" srcset="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/04/DustFreeZone.png 1121w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/04/DustFreeZone-300x169.png 300w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/04/DustFreeZone-1024x577.png 1024w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/04/DustFreeZone-768x433.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /><figcaption id="caption-attachment-648" class="wp-caption-text">Parker Solar Probe saw cosmic dust (illustrated here) — scattered throughout our solar system — begin to thin out close to the Sun, supporting the idea of a long-theorized dust-free zone near the Sun. <strong>Credits: NASA&#8217;s Goddard Space Flight Center/Scott Wiessinger</strong></figcaption></figure>
+<p style="padding-left: 40px"><strong>FIELDS<br />
+</strong><em>Tracking down the Sun’s magnetic reversals </em></p>
+<p style="padding-left: 40px">When Parker Solar Probe sent back the first observations from its voyage to the Sun, scientists found their magnetic field measurements spiked with what became known as switchbacks: rapid flips in the Sun’s magnetic field that reversed direction like a zig-zagging mountain road.</p>
+<p style="padding-left: 40px">FIELDS has since helped narrow down their origins.  During Parker Solar Probe’s 6th flyby of the Sun, FIELDS data revealed that the switchbacks aligned with magnetic “funnels” in the solar surface. These funnels emerge from between structures called supergranules – giant bubbles on the Sun in which hot plasma from the solar interior rises up, spreads out across the surface, cools and then sinks back down. The magnetic geometry of these regions suggests that magnetic reconnection powers the solar wind.</p>
+<p style="padding-left: 40px">While the new findings locate where switchbacks are made, the question of how they’re formed is still a matter of active research.</p>
+<figure id="attachment_653" aria-describedby="caption-attachment-653" style="width: 800px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-653 size-full" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/04/SwitchbacksOrigins.gif" alt="" width="800" height="450" /><figcaption id="caption-attachment-653" class="wp-caption-text">Data from Parker Solar Probe has traced the origin of switchbacks – magnetic zig-zag structures in the solar wind – back to the solar surface. At the surface, magnetic funnels emerge from the photosphere between convection cell structures called supergranules. Switchbacks form inside the funnels and rise into the corona and are pushed out on the solar wind. <strong>Credit: NASA GSFC/CIL/Jonathan North.</strong></figcaption></figure>
+<p style="padding-left: 40px"><strong>The Integrated Science Investigation of the Sun (ISʘIS)<br />
+</strong><em>Rewriting the book on solar energetic particles</em></p>
+<p style="padding-left: 40px">ISʘIS, pronounced “ee-sis” and including the symbol for the Sun in its acronym, measures solar energetic particles, the most energetic particles that escape the Sun. Measured near Earth, solar energetic particles events are relatively rare and hard to predict. But detecting SEPs close to the Sun, ISʘIS has changed just about everything we know about these speedy particles. ISʘIS has found that SEPs are much more common than expected, that they contain a wider range of types of particles than expected, and that their paths from the Sun are not as direct as previously thought – they can be disrupted by the switchbacks detected by fields and can at times follow a path twice as long as expected. By measuring these events so close to the Sun, ISʘIS is detecting events so small that all trace of them is lost before they reach Earth, helping scientists develop a fuller picture of where they come from and how they’re accelerated away from the Sun.</p>
+<figure id="attachment_651" aria-describedby="caption-attachment-651" style="width: 800px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-651" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/04/ISOIS-energetic-particles.gif" alt="" width="800" height="450" /><figcaption id="caption-attachment-651" class="wp-caption-text">Energetic particle detections during the first 10 orbits or Parker Solar Probe by the Integrated Science Investigation of the Sun (ISʘIS) instrument. <strong>Credits: NASA/Princeton/David McComas, Jamie Rankin, Mitchell Shen, Jamey Szalay</strong></figcaption></figure>
+<p><strong style="font-size: 23px">…And the results keep coming.</strong></p>
+<p>Each new dataset expands the limits of space science – and it’s not just about the Sun. Parker Solar Probe has also<a href="https://www.nasa.gov/feature/goddard/2020/nasa-s-parker-solar-probe-spies-newly-discovered-comet-neowise"> studied comets</a>, detected <a href="https://www.youtube.com/watch?v=z5vK6-wuoOE&amp;ab_channel=NASAGoddard">radio emissions from Venus’ atmosphere</a>, and even captured the first-ever images of<a href="https://www.nasa.gov/feature/goddard/2022/sun/parker-solar-probe-captures-its-first-images-of-venus-surface-in-visible-light-confirmed"> Venus’ surface in visible wavelengths</a>.</p>
+<p>With its closest pass of the Sun still ahead in 2024, only time will tell what new discoveries await.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Telescopes Trained on Parker Solar Probe&#8217;s Latest Pass Around the Sun</title>
+		<link>https://blogs.nasa.gov/parkersolarprobe/2022/03/03/telescopes-trained-on-parker-solar-probes-latest-pass-around-the-sun/</link>
+		
+		<dc:creator><![CDATA[Miles Hatfield]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2022 17:04:24 +0000</pubDate>
+				<category><![CDATA[Parker Solar Probe]]></category>
+		<guid isPermaLink="false">https://blogs.nasa.gov/parkersolarprobe/?p=639</guid>
+
+					<description><![CDATA[As NASA&#8217;s Parker Solar Probe completes its latest swing around the Sun, it&#8217;s doing so in full view of dozens of other spacecraft and ground-based telescopes. These powerful instruments can&#8217;t actually see Parker itself – the van-sized spacecraft is far too small for visible detection – but they offer from a distance what the probe &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>As NASA&#8217;s Parker Solar Probe completes its latest swing around the Sun, it&#8217;s doing so in full view of dozens of other spacecraft and ground-based telescopes.</p>
+<p>These powerful instruments can&#8217;t actually see Parker itself – the van-sized spacecraft is far too small for visible detection – but they offer from a distance what the probe is sensing close-up, as it samples and analyzes the solar wind and magnetic fields from as close as 5.3 million miles (8.5 million kilometers) from the Sun&#8217;s surface.</p>
+<figure id="attachment_640" aria-describedby="caption-attachment-640" style="width: 1031px" class="wp-caption aligncenter"><a href="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/03/pspacrosssun3.jpeg"><img loading="lazy" class="wp-image-640" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/03/pspacrosssun3.jpeg" alt="" width="1031" height="1080" srcset="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/03/pspacrosssun3.jpeg 1031w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/03/pspacrosssun3-286x300.jpeg 286w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/03/pspacrosssun3-978x1024.jpeg 978w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2022/03/pspacrosssun3-768x805.jpeg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a><figcaption id="caption-attachment-640" class="wp-caption-text">The view from Earth: The red line indicates path of NASA&#8217;s Parker Solar Probe across the face of the Sun, as seen from Earth, from Feb. 24-27, 2022. The red dots indicate an hour along the trajectory, and the appearance of the path heading into the Sun at right accounts for Earth&#8217;s own movement around our star. The image of the Sun was captured by NASA’s Solar Dynamics Observatory.<br />Credit: NASA/Johns Hopkins APL/Steve Gribben/SDO</figcaption></figure>
+<p>Occurring at 10:36 a.m. EST (15:36 UTC) on Feb. 25, this was the 11th close approach – or perihelion in the spacecraft&#8217;s orbit around the Sun – of 24 planned for Parker Solar Probe&#8217;s primary mission. Most of these passes occur while the Sun is between the spacecraft and Earth, blocking any direct lines of sight from home. But every few orbits, the dynamics work out to put the spacecraft in Earth&#8217;s view – and the Parker mission team seizes these opportunities to organize broad observation campaigns that not only include telescopes on Earth, but several spacecraft as well.</p>
+<p>More than 40 observatories around the globe, including the recently commissioned Daniel K. Inouye Solar Telescope in Hawaii, among other major installations in the southwestern United States, Europe and Asia, are training their visible, infrared and radio telescopes on the Sun over the several weeks around the perihelion. About a dozen spacecraft, including NASA&#8217;s <a href="https://civspace.jhuapl.edu/destinations/missions/stereo" target="_blank" rel="noopener noreferrer">STEREO</a>, Solar Dynamics Observatory, <a href="https://civspace.jhuapl.edu/destinations/missions/timed" target="_blank" rel="noopener noreferrer">TIMED</a> and Magnetospheric Multiscale missions, ESA&#8217;s and NASA&#8217;s Solar Orbiter, ESA&#8217;s BepiColombo, the JAXA-led Hinode, and even NASA&#8217;s MAVEN at Mars are making simultaneous observations of activity stretching from the Sun to Earth and beyond.</p>
+<p>The pass also marked the midway point in the mission&#8217;s 11th solar encounter, which began Feb. 20 and continues through March 2. The spacecraft checked in with mission operators at APL – where Parker Solar Probe was designed and built – on Feb. 28 to report that it was healthy and operating as expected.</p>
+<p>Most of the data from this encounter will stream back to Earth from March 30 through May 1, though the team will get a glimpse of some readings when the spacecraft sends a limited amount of data this week.</p>
+<h3><strong>Solar Activity Picks Up</strong></h3>
+<p>Parker Solar Probe is expected to dip back into the Sun&#8217;s outer atmosphere – the corona – continuing the solar wind and magnetic field readings it has taken since before it <a href="http://parkersolarprobe.jhuapl.edu/News-Center/Show-Article.php?articleID=173" target="_blank" rel="noopener noreferrer">first “touched the Sun&#8221;</a> last year.</p>
+<p>Along with that data, scientists eagerly anticipate a look at what Parker Solar Probe recorded from the <a href="https://earthsky.org/sun/solar-prominence-active-sun-feb-2022/" target="_blank" rel="noopener noreferrer">large solar prominence</a> on Feb. 15 that blasted tons of charged particles in the spacecraft&#8217;s direction. Project Scientist Nour Raouafi of the Space Exploration Sector, said it was the largest event Parker Solar Probe has experienced during its first three-and-a-half years in flight.</p>
+<p>“The shock from the event hit Parker Solar Probe head-on, but the spacecraft was built to withstand activity just like this – to get data in the most extreme conditions,&#8221; he said. “And with the Sun getting more and more active, we can&#8217;t wait to see the data that Parker Solar Probe gathers as it gets closer and closer.&#8221;</p>
+<p>Assisted by a pair of orbit-shaping Venus flybys in August 2023 and November 2024, Parker Solar Probe will eventually come within 4 million miles (6.2 million kilometers) of the solar surface in December 2024 at speeds topping 430,000 miles per hour. <a href="http://parkersolarprobe.jhuapl.edu/The-Mission/index.php#Where-Is-PSP">Follow the probe&#8217;s trek through the inner solar system</a>​.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Parker Solar Probe Completes a Record-Setting Swing by the Sun</title>
+		<link>https://blogs.nasa.gov/parkersolarprobe/2021/11/24/parker-solar-probe-completes-a-record-setting-swing-by-the-sun/</link>
+		
+		<dc:creator><![CDATA[Miles Hatfield]]></dc:creator>
+		<pubDate>Wed, 24 Nov 2021 16:21:54 +0000</pubDate>
+				<category><![CDATA[Parker Solar Probe]]></category>
+		<guid isPermaLink="false">https://blogs.nasa.gov/parkersolarprobe/?p=635</guid>
+
+					<description><![CDATA[Blazing along at space-record speeds that would get it from Earth to the Moon in under an hour, NASA’s Parker Solar Probe completed its 10th close approach to the Sun on Nov. 21, coming within 5.3 million miles (8.5 million kilometers) of the solar surface. The close approach (known as perihelion), also at a record &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>Blazing along at space-record speeds that would get it from Earth to the Moon in under an hour, NASA’s Parker Solar Probe completed its 10th close approach to the Sun on Nov. 21, coming within 5.3 million miles (8.5 million kilometers) of the solar surface.</p>
+<figure id="attachment_636" aria-describedby="caption-attachment-636" style="width: 792px" class="wp-caption aligncenter"><a href="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/11/psp_orbits_112121.jpg"><img loading="lazy" class="size-full wp-image-636" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/11/psp_orbits_112121.jpg" alt="" width="792" height="709" srcset="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/11/psp_orbits_112121.jpg 792w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/11/psp_orbits_112121-300x269.jpg 300w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/11/psp_orbits_112121-768x688.jpg 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></a><figcaption id="caption-attachment-636" class="wp-caption-text">Parker Solar Probe is in the 10th of 24 planned, progressively closer orbits around the Sun. the spacecraft, built and operated at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland, launched on Aug. 12, 2018. Credit: NASA/Johns Hopkins APL</figcaption></figure>
+<p>The close approach (known as perihelion), also at a record distance, occurred at 4:25 a.m. EST (8:25 UTC), with Parker Solar Probe moving 364,660 miles per hour (586,864 kilometers per hour). The milestone also marked the midway point in the mission’s 10th solar encounter, which began Nov. 16 and continues through Nov. 26.</p>
+<p>The spacecraft entered the encounter in good health, with all systems operating normally. Parker Solar Probe is scheduled to check back in with mission operators at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland – where it was also designed and built – on Nov 24.</p>
+<p>The spacecraft will transmit science data from the encounter – largely covering the properties and structure of the solar wind as well as the dust environment near the Sun – back to Earth from Dec. 23-Jan. 9.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Space Dust Presents Opportunities, Challenges as Parker Solar Probe Speeds Back toward the Sun</title>
+		<link>https://blogs.nasa.gov/parkersolarprobe/2021/11/10/space-dust-presents-opportunities-challenges-as-parker-solar-probe-speeds-back-toward-the-sun/</link>
+		
+		<dc:creator><![CDATA[Miles Hatfield]]></dc:creator>
+		<pubDate>Wed, 10 Nov 2021 20:28:52 +0000</pubDate>
+				<category><![CDATA[Parker Solar Probe]]></category>
+		<guid isPermaLink="false">https://blogs.nasa.gov/parkersolarprobe/?p=630</guid>
+
+					<description><![CDATA[Propelled by a recent swing past Venus, NASA’s Parker Solar Probe is healthy and performing normally as it heads toward its next closest approach to the Sun on Nov. 21. Parker Solar Probe will break its own distance and speed records on that approach – the 10th of 24 planned, progressively closer trips around the &#8230; ]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_508" aria-describedby="caption-attachment-508" style="width: 840px" class="wp-caption aligncenter"><a href="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2020/04/SwingbySunCloseup-sm.png"><img loading="lazy" class="size-large wp-image-508" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2020/04/SwingbySunCloseup-sm-1024x576.png" alt="Illustration of Parker Solar Probe facing the Sun" width="840" height="473" srcset="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2020/04/SwingbySunCloseup-sm-1024x576.png 1024w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2020/04/SwingbySunCloseup-sm-300x169.png 300w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2020/04/SwingbySunCloseup-sm-768x432.png 768w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2020/04/SwingbySunCloseup-sm.png 1042w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a><figcaption id="caption-attachment-508" class="wp-caption-text">Artist&#8217;s concept of Parker Solar Probe approaching the Sun. Credit: NASA/Johns Hopkins APL/Steve Gribben</figcaption></figure>
+<p><a href="http://parkersolarprobe.jhuapl.edu/News-Center/Show-Article.php?articleID=170">Propelled by a recent swing past Venus</a>, NASA’s Parker Solar Probe is healthy and performing normally as it heads toward its next closest approach to the Sun on Nov. 21.</p>
+<p>Parker Solar Probe will break its own distance and speed records on that approach – the 10th of 24 planned, progressively closer trips around the Sun – when it comes about 5.3 million miles (8.5 million kilometers) from the Sun&#8217;s surface, while reaching top speeds of 101 miles (163 kilometers) per <em>second</em>, or 364,621 miles per hour. The probe’s science instruments are already queued up to measure the properties of the solar wind near its source, but the spacecraft is also making other critical, if not unexpected, discoveries.</p>
+<p>“We’re observing higher than expected amounts of dust near the Sun,” said Nour Raouafi, Parker Solar Probe project scientist at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland. “What’s exciting about this is it’s greatly improving our understanding of the innermost regions of our heliosphere, giving us insight into an environment that, until now, was a total mystery.”</p>
+<p>Parker Solar Probe designed, built and now operated at APL, does not carry a dust detector. But as dust grains pelt the spacecraft along its path, the high-velocity impacts create clouds of plasma. These clouds produce unique electrical charges that are picked up by several sensors on the probe&#8217;s FIELDS instrument, which is designed to measure the electric and magnetic fields near the Sun. Mission scientists have used this data, for example, to construct comprehensive pictures of the structure and behavior of <a href="http://parkersolarprobe.jhuapl.edu/News-Center/Show-Article.php?articleID=168">the large cloud of dust that swirls through the innermost solar system</a>.</p>
+<p>The visible imaging camera, WISPR, also picks up bits of material expelled from the spacecraft’s structures after impact with those dust grains. But it also images dust structures far away from the spacecraft, such as <a href="https://www.jhuapl.edu/NewsStory/210415-Parker-Solar-Probe-sees-Venus-dust-ring">the dust ring that shares Venus’ orbit</a>. While learning about space dust isn’t a prime mission science goal, the WISPR and FIELDS have planned for specifically investigating near-Sun dust – in a region of the solar system where no mission has ever operated.</p>
+<p>The Parker Solar Probe team <em>did </em>prepare for the spacecraft’s precarious trek through this potentially hazardous environment – as early as the initial mission concept phase – at least as well as our scientific community understood it before the probe’s 2018 launch.</p>
+<p>“We designed materials and components that survive hypervelocity dust impacts and the effects of the even smaller particles created in these impacts,” said Jim Kinnison, Parker Solar Probe mission systems engineer at APL. “We modeled the makeup and effects of the dust environment, tested how materials react to the dust particles, and installed fault-tolerant onboard systems that are keeping Parker Solar Probe safe in this unexplored region.”</p>
+<p>The spacecraft team has noticed that occasionally, the star tracking cameras used as part of the guidance and control system see reflected light from dust and shattering particles that can momentarily disrupt their ability to see stars. Kinnison noted, however, that this doesn’t compromise the safety of spacecraft or instrument operations, and the star trackers aren’t the spacecraft’s only method of controlling where it points. The guidance and control software uses data from the star trackers in tandem with an inertial measurement unit and solar-limb sensors to keep the <a href="http://solarprobe.jhuapl.edu/Multimedia/ApprovedMedia/Videos/Mission-Videos/originals/Parker_Solar_Probe_Keeping_Its_Cool.mp4">Thermal Protection System</a> – the heat shield – pointed toward the Sun.</p>
+<p>“Because the system was built to be robust and highly autonomous, loss of data from any one source doesn’t affect the ability to control the spacecraft attitude, and in a worst-case situation, can work indefinitely with just the Solar Limb Sensors that watch for unexpected solar illumination on the spacecraft due to attitude errors,” he said. “With PSP now in its 10<sup>th</sup> orbit around the Sun, the spacecraft is proving it can handle this unexpected dust environment.”</p>
+<p>And that’s good news, he added, with Parker Solar Probe only set to move closer to – and faster around – the Sun. Assisted by two more Venus flybys, in August 2023 and November 2024, Parker Solar Probe will eventually come within 4 million miles (6.2 million kilometers) of the solar surface in December 2024, at speeds topping 430,000 miles per hour.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="http://solarprobe.jhuapl.edu/Multimedia/ApprovedMedia/Videos/Mission-Videos/originals/Parker_Solar_Probe_Keeping_Its_Cool.mp4" length="0" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Parker Solar Probe Completes Its Fifth Venus Flyby</title>
+		<link>https://blogs.nasa.gov/parkersolarprobe/2021/10/19/parker-solar-probe-completes-its-fifth-venus-flyby/</link>
+		
+		<dc:creator><![CDATA[Denise Hill]]></dc:creator>
+		<pubDate>Tue, 19 Oct 2021 13:52:21 +0000</pubDate>
+				<category><![CDATA[Parker Solar Probe]]></category>
+		<guid isPermaLink="false">https://blogs.nasa.gov/parkersolarprobe/?p=609</guid>
+
+					<description><![CDATA[NASA’s Parker Solar Probe is speeding in toward the Sun after a swing past Venus on Oct. 16, successfully using the planet’s gravity to shape its path for its next closest approach to our star. At just after 5:30 a.m. EDT, moving about 15 miles (24 kilometers) per second, the spacecraft swooped 2,370 miles (3,814 &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>NASA’s Parker Solar Probe is speeding in toward the Sun after a swing past Venus on Oct. 16, successfully using the planet’s gravity to shape its path for its next closest approach to our star.</p>
+<p>At just after 5:30 a.m. EDT, moving about 15 miles (24 kilometers) per second, the spacecraft swooped 2,370 miles (3,814 kilometers) above Venus&#8217; surface. Such gravity assists are essential to the mission to bring Parker Solar Probe progressively closer to the Sun; the spacecraft counts on the planet to reduce its orbital energy, which in turn allows it to travel closer to the Sun and measure the properties of the solar wind near its source.</p>
+<p>This was the fifth of seven planned Venus gravity assists. The flyby reduced Parker Solar Probe&#8217;s orbital speed by about 6,040 miles per hour (9,720 kilometers per hour), and set it up for its 10th close pass (or perihelion) by the Sun, on Nov. 21.</p>
+<figure id="attachment_621" aria-describedby="caption-attachment-621" style="width: 600px" class="wp-caption aligncenter"><a href="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/10/VenusFlyby_FifthPassLongVersion_Parker.gif"><img loading="lazy" class="size-full wp-image-621" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/10/VenusFlyby_FifthPassLongVersion_Parker.gif" alt="animated image showing parker solar probe flying by Venus" width="600" height="338" /></a><figcaption id="caption-attachment-621" class="wp-caption-text">NASA’s Parker Solar Probe is speeding in toward the Sun after a swing past Venus on Oct. 16, 2021, successfully using the planet’s gravity to shape its path for its next closest approach to our star. This was the fifth of seven planned Venus gravity assists. The flyby reduced Parker Solar Probe&#8217;s orbital speed by about 6,040 miles per hour (9,720 kilometers per hour), and set it up for its 10th close pass (or perihelion) by the Sun, on Nov. 21, 2021. Credit: NASA/Johns Hopkins APL/Steve Gribben</figcaption></figure>
+<p>Parker Solar Probe will break its own distance and speed records on that closest approach, when it comes approximately 5.3 million miles (8.5 million kilometers) from the Sun&#8217;s surface &#8212; some 1.2 million miles (1.9 million kilometers) closer than the previous perihelion on Aug. 13 – while reaching 101 miles (163 kilometers) per second, or 364,621 miles per hour. Assisted by two more Venus flybys, in August 2023 and November 2024, Parker Solar Probe will eventually come within 4 million miles (6.2 million kilometers) of the solar surface in December 2024.</p>
+<p>Parker Solar Probe, which was designed and built at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland, is healthy and its systems are operating normally after the Oct. 16 Venus flyby. The flyby operation was monitored by the spacecraft and mission operations teams at APL, through NASA&#8217;s Deep Space Network.</p>
+<p><em><strong>By Mike Buckley</strong></em><br />
+<em><strong>Johns Hopkins University Applied Physics Lab</strong></em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Short Maneuver Targets Parker Solar Probe for Venus Flyby</title>
+		<link>https://blogs.nasa.gov/parkersolarprobe/2021/10/01/short-maneuver-targets-parker-solar-probe-for-venus-flyby/</link>
+		
+		<dc:creator><![CDATA[Sarah Frazier]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 13:45:29 +0000</pubDate>
+				<category><![CDATA[Parker Solar Probe]]></category>
+		<guid isPermaLink="false">https://blogs.nasa.gov/parkersolarprobe/?p=604</guid>
+
+					<description><![CDATA[On Sept. 29, NASA’s Parker Solar Probe completed a quick maneuver that positioned the spacecraft for a flyby of Venus next month. The maneuver, monitored from the mission operations center at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland, lasted just five seconds and trimmed the spacecraft&#8217;s velocity by 9.7 centimeters per second, or &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>On Sept. 29, NASA’s Parker Solar Probe completed a quick maneuver that positioned the spacecraft for a flyby of Venus next month.</p>
+<p>The maneuver, monitored from the mission operations center at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland, lasted just five seconds and trimmed the spacecraft&#8217;s velocity by 9.7 centimeters per second, or less than a third of a mile per hour. But it was critical for keeping Parker Solar Probe on pace for its next pass by Venus on Oct. 16, when it will use the planet&#8217;s gravity to swing toward its tenth close approach to the Sun.</p>
+<figure id="attachment_605" aria-describedby="caption-attachment-605" style="width: 840px" class="wp-caption aligncenter"><a href="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/10/trajectory_093021.jpeg"><img loading="lazy" class="size-large wp-image-605" src="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/10/trajectory_093021-1024x694.jpeg" alt="A diagram shows Parker Solar Probe's past and future orbits carrying it in an ellipse stretching from the Sun to the orbit of Venus. The spacecraft's position on Sept. 30, 2021, has it at one extreme of the orbit, just past the orbit of Venus. " width="840" height="569" srcset="https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/10/trajectory_093021-1024x694.jpeg 1024w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/10/trajectory_093021-300x203.jpeg 300w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/10/trajectory_093021-768x520.jpeg 768w, https://blogs.nasa.gov/parkersolarprobe/wp-content/uploads/sites/274/2021/10/trajectory_093021.jpeg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a><figcaption id="caption-attachment-605" class="wp-caption-text">The graphic above marks Parker Solar Probe’s location on Sept. 30. The green lines denote the spacecraft’s path since launch on Aug. 12, 2018; the red loops indicate the probe’s future, progressively closer orbits toward the Sun.<br />Credit: NASA/Johns Hopkins APL/Yanping Guo</figcaption></figure>
+<p>Parker Solar Probe, which was designed and built at APL, is healthy and its systems are operating normally. The spacecraft completed its <a href="https://blogs.nasa.gov/parkersolarprobe/2021/08/13/successful-ninth-solar-flyby-for-parker-solar-probe/">ninth solar encounter</a> on Aug. 15, at closest approach coming within 6.5 million miles (10.4 million kilometers) of the Sun&#8217;s surface. The upcoming Venus gravity assist will send the spacecraft even closer to the Sun’s blazing surface – about 5.6 million miles (9 million kilometers) – on Nov. 21.</p>
+<p>Assisted by two additional Venus flybys, Parker Solar Probe will eventually come within 4 million miles (6.4 million kilometers) of the solar surface in late 2024.</p>
+<p><em><strong>Johns Hopkins University Applied Physics Lab</strong></em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Successful Ninth Solar Flyby for Parker Solar Probe</title>
+		<link>https://blogs.nasa.gov/parkersolarprobe/2021/08/13/successful-ninth-solar-flyby-for-parker-solar-probe/</link>
+		
+		<dc:creator><![CDATA[Sarah Frazier]]></dc:creator>
+		<pubDate>Fri, 13 Aug 2021 16:22:09 +0000</pubDate>
+				<category><![CDATA[Parker Solar Probe]]></category>
+		<guid isPermaLink="false">https://blogs.nasa.gov/parkersolarprobe/?p=600</guid>
+
+					<description><![CDATA[On Aug. 13, 2021, at 5:50 a.m. EDT, mission controllers at the Johns Hopkins University Applied Physics Laboratory, in Laurel, Maryland, received a “tone one” beacon from Parker Solar Probe, indicating that all systems were healthy and operating normally after the spacecraft’s ninth close approach to the Sun on Aug. 9. During this close pass &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>On Aug. 13, 2021, at 5:50 a.m. EDT, mission controllers at the Johns Hopkins University Applied Physics Laboratory, in Laurel, Maryland, received a “tone one” beacon from Parker Solar Probe, indicating that all systems were healthy and operating normally after the spacecraft’s ninth close approach to the Sun on Aug. 9.</p>
+<p>During this close pass by the Sun — called perihelion — Parker Solar Probe matched its own records for spacecraft distance from the Sun and speed, coming to within about 6.5 million miles (10.4 million kilometers) of the Sun’s surface, while moving faster than 330,000 miles per hour (532,000 kilometers per hour).</p>
+<p>Science data collection for this solar encounter continues through Aug. 15.</p>
+<p><a href="http://parkersolarprobe.jhuapl.edu/News-Center/Mission-Memories/20210812_The-Promise-of-Parker.php"><em>Johns Hopkins APL: Parker Solar Probe team members reflect on the mission after three years. </em></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
+<!-- WP Super Cache is installed but broken. The constant WPCACHEHOME must be set in the file wp-config.php and point at the WP Super Cache plugin directory. -->

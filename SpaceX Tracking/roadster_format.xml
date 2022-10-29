@@ -1,0 +1,18 @@
+<h1>Images</h1>
+<img src="{{info.roadster.flickr_images[0]}}"></img>
+<img src="{{info.roadster.flickr_images[1]}}"></img>
+<img src="{{info.roadster.flickr_images[2]}}"></img>
+<img src="{{info.roadster.flickr_images[3]}}"></img>
+<h1>Telemetry</h1>
+<p>Eccentricity: {{info.roadster.eccentricity}}</p>
+<p>Earth Distance: {{info.roadster.earth_distance_km}} km ({{info.roadster.earth_distance_mi}} miles)</p>
+<p>Mars Distance: {{info.roadster.mars_distance_km}} km ({{info.roadster.mars_distance_mi}} miles)</p>
+<p>Inclination: {{info.roadster.inclination}}</p>
+<p>Orbit Type: {{info.roadster.orbit_type}}</p>
+<p>Speed: {{info.roadster.speed_kph}} km/h ({{info.roadster.speed_mph}} mph)</p>
+<p>Longitude: {{info.roadster.longitude}}</p>
+<h1>Details</h1>
+<p>{{info.roadster.details}}</p>
+<p>Launch Date: {{info.roadster.launch_date_utc}}</p>
+<p>Launch Mass: {{info.roadster.launch_mass_kg}} kg ({{info.roadster.launch_mass_lbs}} lbs)</p> 
+<a href="{{info.roadster.wikipedia}}">Wikipedia</a>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Kepler News and Features</title>
+ <description>Kepler News and Features RSS</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss" />
+ <language>en-us</language>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>New Deep Learning Method Adds 301 Planets to Kepler&#039;s Total Count</title>
+ <link>http://www.nasa.gov/feature/ames/new-deep-learning-method-adds-301-planets-to-keplers-total-count</link>
+ <description>Scientists recently added a whopping 301 newly confirmed exoplanets to the total exoplanet tally.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/exoplanet_banner_1.gif?itok=L3rCP01p" length="7380534" type="image/gif" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/ames/new-deep-learning-method-adds-301-planets-to-keplers-total-count</guid>
+ <pubDate>Mon, 22 Nov 2021 20:36 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+</item>
+ <item> <title>NASA’s TESS Tunes into an All-sky ‘Symphony’ of Red Giant Stars</title>
+ <link>http://www.nasa.gov/feature/goddard/2021/nasa-s-tess-tunes-into-an-all-sky-symphony-of-red-giant-stars</link>
+ <description>Using NASA’s Transiting Exoplanet Survey Satellite, astronomers have identified a vast collection of pulsating red giant stars that will help us explore our galactic neighborhood.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/tess_red_giant_composite.png?itok=MNOyrVZL" length="11629231" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/goddard/2021/nasa-s-tess-tunes-into-an-all-sky-symphony-of-red-giant-stars</guid>
+ <pubDate>Wed, 04 Aug 2021 17:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+</item>
+ <item> <title>Planetary Sleuthing Finds Triple-Star World</title>
+ <link>http://www.nasa.gov/feature/ames/planetary-sleuthing-finds-triple-star-world</link>
+ <description>Years after its detection, astronomers have confirmed a planet called KOI-5Ab orbiting in a triple-star system with a skewed configuration.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/koi_5_art.jpg?itok=jXWOMzRg" length="670317" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/ames/planetary-sleuthing-finds-triple-star-world</guid>
+ <pubDate>Mon, 11 Jan 2021 13:40 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+</item>
+ <item> <title>About Half of Sun-Like Stars Could Host Rocky, Potentially Habitable Planets</title>
+ <link>http://www.nasa.gov/feature/ames/kepler-occurrence-rate</link>
+ <description>According to new research using data from NASA’s retired planet-hunting mission, the Kepler space telescope, about half the stars similar in temperature to our Sun could have a rocky planet capable of supporting liquid water on its surface.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/kepler_1_1.jpg?itok=mLm5RUff" length="3778841" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/ames/kepler-occurrence-rate</guid>
+ <pubDate>Thu, 29 Oct 2020 07:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+</item>
+ <item> <title>NASA Awards SETI Institute Contract for Planetary Protection Support</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-seti-institute-contract-for-planetary-protection-support</link>
+ <description>NASA has awarded the SETI Institute in Mountain View, California, a contract to support all phases of current and future planetary protection missions to ensure compliance with planetary protection standards.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/0501191516-amy_lab_sampling.jpg?itok=XbOXLQeE" length="2527203" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-seti-institute-contract-for-planetary-protection-support</guid>
+ <pubDate>Fri, 10 Jul 2020 12:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+</item>
+ <item> <title>Gravity Assist: Puffy Planets, Powerful Telescopes, with Knicole Colon</title>
+ <link>http://www.nasa.gov/mediacast/gravity-assist-puffy-planets-powerful-telescopes-with-knicole-colon</link>
+ <description>NASA astrophysicist Knicole Colon describes her work on the Kepler, Hubble, TESS and Webb missions, and takes us on a tour of some of her favorite planets.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/gravity-assist-logo.jpg?itok=EHoMdpdd" length="907941" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/gravity-assist-puffy-planets-powerful-telescopes-with-knicole-colon</guid>
+ <pubDate>Fri, 12 Jun 2020 09:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+</item>
+ <item> <title>Imagining Another Earth</title>
+ <link>http://www.nasa.gov/image-feature/imagining-another-earth</link>
+ <description>This artist&#039;s concept shows exoplanet Kepler-1649c orbiting around its host red dwarf star.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/pia23689.jpg?itok=n0lj0bju" length="563172" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/imagining-another-earth</guid>
+ <pubDate>Thu, 28 May 2020 10:27 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+</item>
+ <item> <title>NASA’s TESS Enables Breakthrough Study of Perplexing Stellar Pulsations</title>
+ <link>http://www.nasa.gov/feature/goddard/2020/nasa-s-tess-enables-breakthrough-study-of-perplexing-stellar-pulsations</link>
+ <description>Astronomers have detected elusive pulsation patterns in dozens of young, rapidly rotating stars thanks to data from NASA’s Transiting Exoplanet Survey Satellite (TESS).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/full_sequence_gif_.gif?itok=xCqhU6ID" length="6609190" type="image/gif" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/goddard/2020/nasa-s-tess-enables-breakthrough-study-of-perplexing-stellar-pulsations</guid>
+ <pubDate>Wed, 13 May 2020 11:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+</item>
+ <item> <title>AAS Names 29 NASA-Affiliated Legacy Fellows</title>
+ <link>http://www.nasa.gov/feature/aas-names-29-nasa-affiliated-legacy-fellows</link>
+ <description>Twenty-nine scientists working at or affiliated with NASA have been named Fellows of the American Astronomical Society (AAS), the major organization of professional astronomers in North America.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/crab.jpg?itok=SsqdOZGd" length="5053604" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/aas-names-29-nasa-affiliated-legacy-fellows</guid>
+ <pubDate>Thu, 30 Apr 2020 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+</item>
+ <item> <title>Kepler-1649c: Earth-Size, Habitable Zone Planet Hides in Plain Sight</title>
+ <link>http://www.nasa.gov/image-feature/kepler-1649c-earth-size-habitable-zone-planet-hides-in-plain-sight</link>
+ <description>This artist&#039;s illustration shows what Kepler-1649c could look like from its surface.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/product_2.jpg?itok=ncVFZrIG" length="3631376" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/kepler-1649c-earth-size-habitable-zone-planet-hides-in-plain-sight</guid>
+ <pubDate>Thu, 16 Apr 2020 02:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss">Kepler News and Features</source>
+</item>
+</channel>
+</rss>

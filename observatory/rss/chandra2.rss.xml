@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Chandra Images</title>
+ <description>Images from the Chandra X-Ray Space Telescope</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/chandra_images.rss" />
+ <language>en-us</language>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>A New Signal for a Neutron Star Collision Discovered</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/a-new-signal-for-a-neutron-star-collision-discovered.html</link>
+ <description>A bright burst of X-rays has been discovered by NASA’s Chandra X-ray Observatory in a galaxy 6.6 billion light years from Earth. This event likely signaled the merger of two neutron stars and could give astronomers fresh insight into how neutron stars – dense stellar objects packed mainly with neutrons – are built.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/xt2.jpg?itok=-Krq4vpz" length="1700357" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/a-new-signal-for-a-neutron-star-collision-discovered.html</guid>
+ <pubDate>Tue, 16 Apr 2019 11:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Storm Rages in Cosmic Teacup</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/storm-rages-in-cosmic-teacup.html</link>
+ <description>Fancy a cup of cosmic tea? This one isn&#039;t as calming as the ones on Earth. In a galaxy hosting a structure nicknamed the &quot;Teacup,&quot; a galactic storm is raging.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/teacup_0.jpg?itok=qyEvIsY-" length="1238178" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/storm-rages-in-cosmic-teacup.html</guid>
+ <pubDate>Thu, 14 Mar 2019 11:57 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Galactic Bubbles Play Cosmic Pinball with Energetic Particles</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/galactic-bubbles-play-cosmic-pinball-with-energetic-particles.html</link>
+ <description>We all know bubbles from soapy baths or sodas. These bubbles of everyday experience on Earth are only a few inches across, and consist of a thin film of liquid enclosing a small volume of air or other gas. In space, however, there are very different bubbles – composed of a lighter gas inside a heavier one – and they can be huge.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/ngc3079.jpg?itok=x3vEgmKB" length="1347945" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/galactic-bubbles-play-cosmic-pinball-with-energetic-particles.html</guid>
+ <pubDate>Thu, 28 Feb 2019 10:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Astronomers Find Dark Energy May Vary Over Time</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/astronomers-find-dark-energy-may-vary-over-time.html</link>
+ <description>A new study using data from NASA&#039;s Chandra X-ray Observatory and ESA&#039;s XMM-Newton suggests that dark energy may have varied over cosmic time.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/dark.jpg?itok=6KRWz72B" length="8968708" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/astronomers-find-dark-energy-may-vary-over-time.html</guid>
+ <pubDate>Mon, 28 Jan 2019 17:52 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Cosmic Fountain Powered by Giant Black Hole</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/cosmic-fountain-powered-by-giant-black-hole.html</link>
+ <description>The Abell 2597 galaxy cluster shows the first clear evidence for the simultaneous inward and outward flow of gas being driven by a supermassive black hole.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/a2597_0.jpg?itok=2hXO0Kt1" length="1209648" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/cosmic-fountain-powered-by-giant-black-hole.html</guid>
+ <pubDate>Thu, 13 Dec 2018 15:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Double Trouble: A White Dwarf Surprises Astronomers</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/double-trouble-a-white-dwarf-surprises-astronomers.html</link>
+ <description>Astronomers have detected a bright X-ray outburst from a star in the Small Magellanic Cloud, a nearby galaxy almost 200,000 light years from Earth. A combination of X-ray and optical data indicate that the source of this radiation is a white dwarf star that may be the fastest-growing white dwarf ever observed.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/wdac.jpg?itok=ZjMdIIsu" length="9441328" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/double-trouble-a-white-dwarf-surprises-astronomers.html</guid>
+ <pubDate>Tue, 04 Dec 2018 11:25 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Abell 1033: To Boldly Go into Colliding Galaxy Clusters</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/abell-1033-to-boldly-go-into-colliding-galaxy-clusters.html</link>
+ <description>Hidden in a distant galaxy cluster collision are wisps of gas resembling the starship Enterprise — an iconic spaceship from the &quot;Star Trek&quot; franchise.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/a1033_0.jpg?itok=0241tNT2" length="867770" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/abell-1033-to-boldly-go-into-colliding-galaxy-clusters.html</guid>
+ <pubDate>Thu, 15 Nov 2018 10:21 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Kes 75: Milky Way&#039;s Youngest Pulsar Exposes Secrets of Star&#039;s Demise</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/kes-75-milky-ways-youngest-pulsar-exposes-secrets-of-stars-demise.html</link>
+ <description>Scientists have confirmed the identity of the youngest known pulsar in the Milky Way galaxy using data from NASA&#039;s Chandra X-ray Observatory. This result could provide astronomers new information about how some stars end their lives.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/kes75.jpg?itok=medxshx8" length="1760772" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/kes-75-milky-ways-youngest-pulsar-exposes-secrets-of-stars-demise.html</guid>
+ <pubDate>Thu, 18 Oct 2018 10:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Making Head or Tail of a Galactic Landscape</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/making-head-or-tail-of-a-galactic-landscape.html</link>
+ <description>Astronomers have used data from NASA’s Chandra X-ray Observatory to capture a dramatic image of an enormous tail of hot gas stretching for more than a million light years behind a group of galaxies that is falling into the depths of an even-larger cluster of galaxies.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/a2142.jpg?itok=g2cJuiue" length="1310692" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/making-head-or-tail-of-a-galactic-landscape.html</guid>
+ <pubDate>Thu, 27 Sep 2018 14:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Cosmic Collision Forges Galactic One Ring—in X-rays</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/cosmic-collision-forges-galactic-one-ring-in-x-rays.html</link>
+ <description>Astronomers have used NASA&#039;s Chandra X-ray Observatory to discover a ring of black holes or neutron stars in a galaxy 300 million light years from Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/ring.jpg?itok=JLcZuSP_" length="15953315" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/cosmic-collision-forges-galactic-one-ring-in-x-rays.html</guid>
+ <pubDate>Thu, 06 Sep 2018 15:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+</channel>
+</rss>

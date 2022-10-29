@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Chandra Images</title>
+ <description>Images from the Chandra X-Ray Space Telescope</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/chandra_images.rss" />
+ <language>en-us</language>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>Setting the Clock on a Stellar Explosion</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/setting-the-clock-on-a-stellar-explosion.html</link>
+ <description>A new image of SNR 0519-69.0 shows the debris of a star that exploded several hundred years ago in Earth’s timeframe.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/snr0519.jpg?itok=iBRXQQyM" length="3180912" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/setting-the-clock-on-a-stellar-explosion.html</guid>
+ <pubDate>Mon, 12 Sep 2022 10:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>NASA Telescopes Capture Stellar Delivery Service for Black Hole</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/nasa-telescopes-capture-stellar-delivery-service-for-black-hole.html</link>
+ <description>Astronomers may have witnessed a galaxy’s black hole delivery system in action. A new study using data from NASA’s Chandra X-ray Observatory and Hubble Space Telescope outlines how a large black hole may have been delivered to the spiral galaxy NGC 4424 by another, smaller galaxy.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/ngc4424.jpg?itok=9GaeYJ2M" length="4857311" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/nasa-telescopes-capture-stellar-delivery-service-for-black-hole.html</guid>
+ <pubDate>Thu, 18 Aug 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Zeta Ophiuchi: A Star With a Complicated Past</title>
+ <link>http://www.nasa.gov/image-feature/zeta-ophiuchi-a-star-with-a-complicated-past</link>
+ <description>Zeta Ophiuchi is a star with a complicated past, having likely been ejected from its birthplace by a powerful stellar explosion. A new look by NASA&#039;s Chandra X-ray Observatory helps tell more of the story of this runaway star.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/zetaoph.jpg?itok=4nQ24Kv7" length="9210287" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/zeta-ophiuchi-a-star-with-a-complicated-past</guid>
+ <pubDate>Fri, 29 Jul 2022 10:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Embracing a Rejected Star</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/embracing-a-rejected-star.html</link>
+ <description>Zeta Ophiuchi is a star with a complicated past, having likely been ejected from its birthplace by a powerful stellar explosion. A new look by NASA&#039;s Chandra X-ray Observatory helps tell more of the story of this runaway star.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/zetaoph.jpg?itok=4nQ24Kv7" length="9210287" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/embracing-a-rejected-star.html</guid>
+ <pubDate>Mon, 25 Jul 2022 09:59 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Chandra Shows Giant Black Hole Spins Slower Than Its Peers</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/chandra-shows-giant-black-hole-spins-slower-than-its-peers.html</link>
+ <description>Astronomers have gauged how fast a supermassive black hole is spinning inside a quasar 3.4 billion light years away.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/h1821.jpg?itok=3OsdjJND" length="3300579" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/chandra-shows-giant-black-hole-spins-slower-than-its-peers.html</guid>
+ <pubDate>Thu, 30 Jun 2022 09:53 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>NASA’s Chandra Catches Pulsar in X-ray Speed Trap</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/nasa-s-chandra-catches-pulsar-in-x-ray-speed-trap.html</link>
+ <description>A young pulsar is blazing through the Milky Way at a speed of over a million miles per hour. This stellar speedster, witnessed by NASA’s Chandra X-ray Observatory, is one of the fastest objects of its kind ever seen. This result teaches astronomers more about how some of the bigger stars end their lives.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/g292_0.jpg?itok=qRMAlxMS" length="6015414" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/nasa-s-chandra-catches-pulsar-in-x-ray-speed-trap.html</guid>
+ <pubDate>Wed, 15 Jun 2022 16:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Sagittarius A*: NASA Telescopes Support Event Horizon Telescope in Studying Milky Way&#039;s Black Hole</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/sagittarius-a-nasa-telescopes-support-event-horizon-telescope-in-studying-milky-ways.html</link>
+ <description>Multiple telescopes, including Chandra, observed the Milky Way&#039;s giant black hole simultaneously with the Event Horizon Telescope (EHT). This combined effort gave insight into what is happening farther out than the field-of-view of the EHT.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/sgra.jpg?itok=vncWyBun" length="3844907" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/sagittarius-a-nasa-telescopes-support-event-horizon-telescope-in-studying-milky-ways.html</guid>
+ <pubDate>Thu, 12 May 2022 07:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Black Holes Raze Thousands of Stars to Fuel Growth</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/black-holes-raze-thousands-of-stars-to-fuel-growth.html</link>
+ <description>Astronomers have found evidence for the destruction of thousands of stars in multiple galaxies, using NASA&#039;s Chandra X-ray Observatory. Growing black holes within dense stellar clusters are thought to be responsible for this large-scale devastation.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/imbhs_0.jpg?itok=Eg7nnLYn" length="44265151" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/black-holes-raze-thousands-of-stars-to-fuel-growth.html</guid>
+ <pubDate>Wed, 20 Apr 2022 09:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Feasting Black Holes Caught in Galactic Spiderweb</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/feasting-black-holes-caught-in-galactic-spiderweb.html</link>
+ <description>Often, a spiderweb conjures the idea of captured prey soon to be consumed by a waiting predator. In the case of the &quot;Spiderweb&quot; protocluster, however, objects that lie within a giant cosmic web are feasting and growing, according to data from NASA&#039;s Chandra X-ray Observatory.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/spiderweb.jpg?itok=cm2F4Q61" length="2610737" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/feasting-black-holes-caught-in-galactic-spiderweb.html</guid>
+ <pubDate>Thu, 31 Mar 2022 10:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Tiny Star Unleashes Gargantuan Beam of Matter and Antimatter</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/tiny-star-unleashes-gargantuan-beam-of-matter-and-antimatter.html</link>
+ <description>A city-sized collapsed star has generated a beam of matter and antimatter that stretches for trillions of miles.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/j2030.jpg?itok=hxJiReV7" length="7478699" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/tiny-star-unleashes-gargantuan-beam-of-matter-and-antimatter.html</guid>
+ <pubDate>Mon, 14 Mar 2022 11:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Explorers: Apollo</title>
+ <description>NASA Explorers: Apollo is an audio series that tells stories of the Moon and the people who explore it. Hear from people all over the world whose lives were shaped by the epic adventures of the Apollo program.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/nasa-explorers-apollo.rss" />
+ <language>en-us</language>
+ <image> <url>https://www.nasa.gov/sites/default/files/thumbnails/image/nasaexplorersshowlogo01.png</url>
+ <title>NASA Explorers: Apollo</title>
+ <link>http://www.nasa.gov/</link>
+</image>
+ <copyright>094665</copyright>
+ <managingEditor>micheala.sosby@nasa.gov</managingEditor>
+ <webMaster>micheala.sosby@nasa.gov</webMaster>
+ <itunes:subtitle>Stories of the Moon and the people who explore it.</itunes:subtitle>
+ <itunes:summary>Explore the next chapters of space exploration. Fifty years after humanity’s first steps on the Moon, today’s lunar scientists are still searching for answers to the big questions: How did the Moon form? How did our solar system evolve? Did the Moon help life on Earth get its start? Meet a Moon detective, scientists who study space rocks and people from all over the world whose lives were shaped by the epic adventures of the Apollo program.</itunes:summary>
+ <itunes:category text="Science &amp; Medicine" />
+ <itunes:keywords>NASA, Moon, Apollo, spaceflight, astronauts, planetary science, lunar, space, NASA history</itunes:keywords>
+ <itunes:image href="https://www.nasa.gov/sites/default/files/thumbnails/image/nasaexplorersshowlogo01.png" />
+ <itunes:author>National Aeronautics and Space Administration (NASA)</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>micheala.sosby@nasa.gov</itunes:email>
+ <itunes:name>Micheala Sosby</itunes:name>
+</itunes:owner>
+ <item> <title>Bonus Episode: More Apollo Stories</title>
+ <link>http://www.nasa.gov/mediacast/bonus-episode-more-apollo-stories</link>
+ <description>Throughout the series, you heard memories of the first Moon landing from people all over the world. In this bonus episode, we share a few more stories: a trip to Rome, a girl with binoculars and a reel-to-reel tape recorder.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/july11bonusepisodenasaexplorers.mp3" length="16551275" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/bonus-episode-more-apollo-stories</guid>
+ <pubDate>Fri, 19 Jul 2019 11:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa-explorers-apollo.rss">NASA Explorers: Apollo</source>
+</item>
+ <item> <title>Episode 4: Moon Detective</title>
+ <link>http://www.nasa.gov/mediacast/episode-4-moon-detective</link>
+ <description>What happened to the lost data from the Apollo era? Get to know the “data detectives” who are tracking it down. The science experiments the Apollo astronauts conducted from the surface of the Moon provide a long-term data record that’s crucial to understanding our Moon as a complete system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ep4moondetective.mp3" length="17522418" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-4-moon-detective</guid>
+ <pubDate>Wed, 19 Jun 2019 09:48 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa-explorers-apollo.rss">NASA Explorers: Apollo</source>
+</item>
+ <item> <title>Episode 3: Moon Girl</title>
+ <link>http://www.nasa.gov/mediacast/episode-3-moon-girl</link>
+ <description>Meet the scientists who are making big discoveries by studying some very tiny rocks. The women of NASA’s Mid-Atlantic Noble Gas Research Laboratory (MNGRL) are getting ready to analyze never-before-seen Moon samples. These samples, collected by Apollo astronauts and brought back to Earth, have been carefully preserved for half a century.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ep3moongirl.mp3" length="13924118" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-3-moon-girl</guid>
+ <pubDate>Wed, 19 Jun 2019 09:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa-explorers-apollo.rss">NASA Explorers: Apollo</source>
+</item>
+ <item> <title>Episode 2: The Family Moon Business</title>
+ <link>http://www.nasa.gov/mediacast/episode-2-the-family-moon-business</link>
+ <description>Lunar exploration runs in the family for the Petros. NASA lunar scientist Noah Petro interviews his father, Denis, about his work as an Apollo program engineer. In a heartfelt conversation, Noah and his dad examine the human impact of the momentous Apollo 11 mission and their shared passion for science and learning.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ep2familymoonbusiness.mp3" length="14368663" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-2-the-family-moon-business</guid>
+ <pubDate>Wed, 19 Jun 2019 09:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa-explorers-apollo.rss">NASA Explorers: Apollo</source>
+</item>
+ <item> <title>Episode 1: Giant Leaps</title>
+ <link>http://www.nasa.gov/mediacast/episode-1-giant-leaps</link>
+ <description>What does a half-century of lunar science sound like? Join Moon data expert Ernie Wright on a musical time-traveling journey through the Apollo program and the exploration era of today. We explore what we knew about the Moon before Apollo, what we discovered because of it and the mysteries today’s scientists are working to solve.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/ep1giantleaps.mp3" length="21278440" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/episode-1-giant-leaps</guid>
+ <pubDate>Wed, 19 Jun 2019 09:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa-explorers-apollo.rss">NASA Explorers: Apollo</source>
+</item>
+ <item> <title>Introducing NASA Explorers: Apollo</title>
+ <link>http://www.nasa.gov/mediacast/introducing-nasa-explorers-apollo</link>
+ <description>July 20, 1969. The day that changed our place in space ... forever. NASA Explorers: Apollo is an audio series that tells the stories behind the people who helped make Apollo happen and the people who are still discovering things about our Moon today.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/teasernasaexplorerscompressed.mp3" length="2295529" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/introducing-nasa-explorers-apollo</guid>
+ <pubDate>Tue, 11 Jun 2019 12:17 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa-explorers-apollo.rss">NASA Explorers: Apollo</source>
+</item>
+</channel>
+</rss>

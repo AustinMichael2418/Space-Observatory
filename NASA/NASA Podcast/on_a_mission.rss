@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>On a Mission</title>
+ <description>A journey to the stars doesn’t just begin at the launchpad. Discover new worlds through epic stories told by scientists on missions to outer space. </description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/On-a-Mission.rss" />
+ <language>en-us</language>
+ <image> <url>https://www.nasa.gov/sites/default/files/thumbnails/image/newonamission.png</url>
+ <title>On a Mission</title>
+ <link>http://www.nasa.gov/</link>
+</image>
+ <copyright>094665</copyright>
+ <managingEditor>leslie.mullen@jpl.nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <itunes:subtitle>On a Mission audio podcast episodes</itunes:subtitle>
+ <itunes:summary>A journey to the stars doesn’t just begin at the launchpad. Discover new worlds through epic stories told by scientists on missions to outer space. </itunes:summary>
+ <itunes:category text="Science &amp; Medicine" />
+ <itunes:keywords>Jet Propulsion Laboratory, NASA JPL, Insight Mars, Mars missions, Mars lander, Mars exploration, mars, NASA missions</itunes:keywords>
+ <itunes:image href="https://www.nasa.gov/sites/default/files/thumbnails/image/newonamission.png" />
+ <itunes:author>National Aeronautics and Space Administration (NASA)</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>leslie.mullen@jpl.nasa.gov</itunes:email>
+</itunes:owner>
+ <item> <title>Before You Can Drive, First You Have to Fly – S4E9</title>
+ <link>http://www.nasa.gov/mediacast/jpl/before-you-can-drive-first-you-have-to-fly-s4e9</link>
+ <description>Before a rover can make tracks on Mars, it first has to rocket off Earth, speed through space, and then alight gently on the planet’s surface. Al Chen and Swati Mohan guide us through the many stages of a rover’s flight to Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/e9_before_you_can_drive_first_you_have_to_fly.mp3" length="81068629" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/before-you-can-drive-first-you-have-to-fly-s4e9</guid>
+ <pubDate>Mon, 03 Oct 2022 12:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>How to Drive a Mars Rover – S4E8</title>
+ <link>http://www.nasa.gov/mediacast/jpl/how-to-drive-a-mars-rover-s4e8</link>
+ <description>Buckle up for a Mars tour with rover driver Vandi Verma, and learn how NASA’s rovers have evolved to better explore this alien world.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/e8_how_to_drive_a_mars_rover.mp3" length="59396627" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/how-to-drive-a-mars-rover-s4e8</guid>
+ <pubDate>Thu, 25 Aug 2022 07:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Flying with Ingenuity: the Mars Helicopter – S4E7</title>
+ <link>http://www.nasa.gov/mediacast/jpl/flying-with-ingenuity-the-mars-helicopter-s4e7</link>
+ <description>Bob Balaram and Teddy Tzanetos share stories of how the Mars helicopter came to be, and transport us on Ingenuity’s flights through dusty Martian skies.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/e7_ingenuity.mp3" length="83968954" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/flying-with-ingenuity-the-mars-helicopter-s4e7</guid>
+ <pubDate>Wed, 20 Jul 2022 11:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>The Promise of Perseverance – S4E6</title>
+ <link>http://www.nasa.gov/mediacast/jpl/the-promise-of-perseverance-s4e6</link>
+ <description>The Perseverance rover holds many promises: to look for evidence of life on Mars, to collect rock samples meant to be sent to Earth one day, and to test technology that could be used in a future human Mars mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/e6_promise_of_perseverance.mp3" length="76274938" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/the-promise-of-perseverance-s4e6</guid>
+ <pubDate>Wed, 08 Jun 2022 14:34 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>A Ton of Curiosity - S4E5</title>
+ <link>http://www.nasa.gov/mediacast/a-ton-of-curiosity-s4e5</link>
+ <description>The Curiosity rover is a big nerd at heart, fitted with a science lab to take in the planet Mars. Get the inside scoop on the mission’s many discoveries and dramas after a decade on the Red Planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/e5_curiosity-web.mp3" length="51456880" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/a-ton-of-curiosity-s4e5</guid>
+ <pubDate>Thu, 21 Apr 2022 12:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>A Lifetime on Mars: The Adventures of Spirit and Opportunity - S4E4</title>
+ <link>http://www.nasa.gov/mediacast/a-lifetime-on-mars-the-adventures-of-spirit-and-opportunity-s4e4</link>
+ <description>Born together, the Spirit and Opportunity twin rovers followed divergent paths after they landed on opposite sides of Mars. Opportunity’s journey was marked by good fortune, while Spirit’s was troubled from the start.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/s4e4_a_lifetime_on_mars.mp3" length="76742987" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/a-lifetime-on-mars-the-adventures-of-spirit-and-opportunity-s4e4</guid>
+ <pubDate>Wed, 16 Mar 2022 10:35 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Rise of the Twins: Spirit and Opportunity - S4E3</title>
+ <link>http://www.nasa.gov/mediacast/jpl/rise-of-the-twins-spirit-and-opportunity-s4e3</link>
+ <description>After two failed missions to Mars, NASA tried to double its odds for success by sending twin rovers to the Red Planet. Part one of the story of Spirit and Opportunity takes us from their birth to their launch from Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/e3_rise_of_the_twins.mp3" length="62792721" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/rise-of-the-twins-spirit-and-opportunity-s4e3</guid>
+ <pubDate>Wed, 16 Feb 2022 12:42 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>First Steps: Sojourner - S4E2</title>
+ <link>http://www.nasa.gov/mediacast/jpl/first-steps-sojourner-s4e2</link>
+ <description>NASA’s first rover on Mars was a cute little bundle of robotic joy. Many thought it was likely to fail. Instead, Sojourner revolutionized how we explore Mars, and marked the start of 25 years of Mars rover adventures.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/s4e2_first_steps_sojourner.mp3" length="62933511" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/first-steps-sojourner-s4e2</guid>
+ <pubDate>Tue, 18 Jan 2022 13:07 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Driven to Mars - S4E1</title>
+ <link>http://www.nasa.gov/mediacast/jpl/driven-to-mars-s4e1</link>
+ <description>Episode one launches with Jennifer Trosper in the driver’s seat. As she looks in the rearview mirror at twenty-five years of exploring with NASA’s Mars rovers, she reveals how their progression has kept pace with milestones in her life.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/e1_driven_to_mars.mp3" length="62238833" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/driven-to-mars-s4e1</guid>
+ <pubDate>Mon, 20 Dec 2021 10:23 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season 4 Preview: Mars Rovers</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-4-preview-mars-rovers</link>
+ <description>In the fourth season of “On a Mission” we’ll be transported to the Red Planet with all five of NASA’s Mars rovers.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/season_4_preview_mixdown_lufs.mp3" length="1724661" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-4-preview-mars-rovers</guid>
+ <pubDate>Mon, 13 Dec 2021 15:14 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season 3, Episode 10: A Voyager’s View of Earth</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-3-episode-10-a-voyager-s-view-of-earth</link>
+ <description>The Voyager 1 spacecraft has traveled farther away from Earth than any human-made object. Candy Hansen and David Grinspoon talk about the Voyager mission, and its humbling perspective of our planet as a tiny blue dot in the blackness of space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s3_e10.mp3" length="59803839" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-3-episode-10-a-voyager-s-view-of-earth</guid>
+ <pubDate>Tue, 22 Dec 2020 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season 3, Episode 9: Life Bound</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-3-episode-9-life-bound</link>
+ <description>We hike in the Australian Outback with Abigail Allwood to visit the most ancient fossils on Earth, and track the imprint of life over space and time with David Grinspoon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s3_e9.mp3" length="51721452" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-3-episode-9-life-bound</guid>
+ <pubDate>Tue, 15 Dec 2020 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season 3, Episode 8: Fueled by Fire</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-3-episode-8-fueled-by-fire</link>
+ <description>From fires in outer space to raging wildfires on Earth, fire experts Gary Ruff and Natasha Stavros reveal how fingers of flame reach out around our world.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s3_e8.mp3" length="60303120" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-3-episode-8-fueled-by-fire</guid>
+ <pubDate>Tue, 08 Dec 2020 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season 3, Episode 7: Storm Warning</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-3-episode-7-storm-warning</link>
+ <description>Get swept away as we fly into massive hurricanes, and hear how the rumblings of climate change will cause clouds to gather into ever more powerful storms.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s3_e7.mp3" length="52388865" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-3-episode-7-storm-warning</guid>
+ <pubDate>Tue, 01 Dec 2020 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season 3, Episode 6: Air and Shield</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-3-episode-6-air-and-shield</link>
+ <description>As we fly around with NASA pilots, we’ll explore Earth’s air space with scientists Annmarie Eldering and Armin Sorooshian -- from wispy clouds high above, to tiny particles that make up air pollution.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s3_e6.mp3" length="61660134" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-3-episode-6-air-and-shield</guid>
+ <pubDate>Tue, 24 Nov 2020 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season 3, Episode 5: Frozen in Time</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-3-episode-5-frozen-in-time</link>
+ <description>Bundle up! We’ll be diving into ice-covered waters with an upside-down robot, and exploring Greenland’s massive ice sheet with oceanographer Josh Willis.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s3_e5.mp3" length="55461171" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-3-episode-5-frozen-in-time</guid>
+ <pubDate>Tue, 17 Nov 2020 11:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season 3, Episode 4: A World Shaped by Water</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-3-episode-4-a-world-shaped-by-water</link>
+ <description>Dive to the deepest point of the ocean with an astronaut, brave the high seas with an oceanographer, and meander through sparkling rivers with a hydrologist.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s3_e4.mp3" length="58893650" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-3-episode-4-a-world-shaped-by-water</guid>
+ <pubDate>Tue, 10 Nov 2020 09:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Three, Episode 3: On the Surface</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-three-episode-3-on-the-surface</link>
+ <description>Like waves of the ocean, our planet’s surface is in constant motion. In this episode, we’ll travel to tropical rainforests to dig into soils with an ecologist, and fly drones with an earthquake expert to spot shifts in the ground beneath our feet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s3_e3.mp3" length="54287873" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-three-episode-3-on-the-surface</guid>
+ <pubDate>Tue, 03 Nov 2020 09:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Three, Episode 2: Genesis</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-three-episode-2-genesis</link>
+ <description>Have you ever wanted to see the awesome spectacle of an erupting volcano? There’s no better guide for such an adventure than JPL volcanologist Rosaly Lopes.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s3_e2.mp3" length="48660353" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-three-episode-2-genesis</guid>
+ <pubDate>Tue, 27 Oct 2020 08:50 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Three, Episode 1: An Astronaut’s View of Earth</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-three-episode-1-an-astronaut-s-view-of-earth</link>
+ <description>You might think you know Earth, but astronaut’s views from outer space help us see our world in a whole new light.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s3_e1.mp3" length="59595675" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-three-episode-1-an-astronaut-s-view-of-earth</guid>
+ <pubDate>Tue, 20 Oct 2020 06:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Three, Episode 0: To the Ends of the Earth</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-three-episode-0</link>
+ <description>In season 3, we’ll travel to the ends of the Earth with scientists who explore different aspects of our unique planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/preview_s3_mixdown_01.mp3" length="686634" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-three-episode-0</guid>
+ <pubDate>Tue, 13 Oct 2020 19:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 10: Comets: A Love Story</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-10-comets-a-love-story</link>
+ <description>Eugene and Carolyn Shoemaker’s love of exploration changed our understanding of the cosmos.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_podcast_s02e10_comets_a_love_story.mp3" length="104221196" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-10-comets-a-love-story</guid>
+ <pubDate>Tue, 10 Dec 2019 13:03 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 9: Hunting in the Dark for Monsters</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-9-hunting-in-the-dark-for-monsters</link>
+ <description>Finding black rocks in the darkness of space isn’t easy, but new methods could help spot them all.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_podcast_s2e9_hunting_in_the_dark_for_monsters.mp3" length="101484439" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-9-hunting-in-the-dark-for-monsters</guid>
+ <pubDate>Tue, 03 Dec 2019 06:41 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 8: Diamonds in the Ice</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-8-diamonds-in-the-ice</link>
+ <description>Every year, intrepid Antarctica explorers hunt for space rocks that have fallen to Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_podcast_s2e8_diamonds_in_the_ice.mp3" length="97454587" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-8-diamonds-in-the-ice</guid>
+ <pubDate>Tue, 26 Nov 2019 09:11 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 7: Planet Asteroid</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-7-planet-asteroid</link>
+ <description>What’s in a name? Whether you call it a planet or an asteroid, missions that explore small worlds are always exciting.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_podcast_s2e7_planet_asteroid.mp3" length="82109197" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-7-planet-asteroid</guid>
+ <pubDate>Tue, 19 Nov 2019 07:27 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 6: The Prospects of Heavy Metal</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-6-the-prospects-of-heavy-metal</link>
+ <description>Asteroids, ho! Pioneering space miners dream of Psyche, the largest metal asteroid in the solar system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_podcast_s2e6_heavy_metal.mp3" length="78746469" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-6-the-prospects-of-heavy-metal</guid>
+ <pubDate>Tue, 12 Nov 2019 06:55 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 5: Catch a Falling Star</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-5-catch-a-falling-star</link>
+ <description>Why are missions like OSIRIS-REx bringing pieces of an asteroid back home?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_podcast_s2e5_catch_a_falling_star.mp3" length="75921531" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-5-catch-a-falling-star</guid>
+ <pubDate>Tue, 05 Nov 2019 04:12 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 4: Deflecting Disaster</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-4-deflecting-disaster</link>
+ <description>Unlike the dinosaurs, we have a space program. There are many ways we could steer an asteroid off its path towards Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_s2e4_deflecting_disaster.mp3" length="76274797" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-4-deflecting-disaster</guid>
+ <pubDate>Tue, 29 Oct 2019 11:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 3: Bracing for a Crash</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-3-bracing-for-a-crash</link>
+ <description>If a big asteroid is heading our way, how does NASA prepare for the oncoming disaster?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/s2-e3.mp3" length="49164252" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-3-bracing-for-a-crash</guid>
+ <pubDate>Tue, 22 Oct 2019 04:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 2: Impact!</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-2-impact</link>
+ <description>What happens when a giant asteroid hits Earth?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/20191010_on_a_mission_podcast_s2e2_01.mp3" length="40789215" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-2-impact</guid>
+ <pubDate>Tue, 15 Oct 2019 11:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 1 - The Sky Is Falling</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-1-the-sky-is-falling</link>
+ <description>Earth is in a cosmic shooting gallery. With so many asteroids zipping around, how can we find them all before they find us?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_podcast_s02e01.mp3" length="65854401" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-1-the-sky-is-falling</guid>
+ <pubDate>Tue, 08 Oct 2019 07:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Season Two, Episode 0 - Asteroids!</title>
+ <link>http://www.nasa.gov/mediacast/jpl/season-two-episode-0-asteroids</link>
+ <description>The upcoming season will feature stories of asteroid exploration.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/s2-e0.mp3" length="1547654" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/season-two-episode-0-asteroids</guid>
+ <pubDate>Wed, 02 Oct 2019 19:58 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Bonus episode: InSight’s Insights</title>
+ <link>http://www.nasa.gov/mediacast/jpl/bonus-episode-insight-s-insights</link>
+ <description>What&#039;s happened with InSight since it landed on Mars?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/20190930_on_a_mission_podcast_s01e09_bonus_episode_insight.mp3" length="110300789" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/jpl/bonus-episode-insight-s-insights</guid>
+ <pubDate>Tue, 01 Oct 2019 17:06 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Arrival</title>
+ <link>http://www.nasa.gov/mediacast/arrival</link>
+ <description>InSight is lining up to land on Mars. The trip from the top of the atmosphere to the surface of Mars is 6-and-a-half minutes of sheer terror.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_episode_8_final_1.mp3" length="34291522" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/arrival</guid>
+ <pubDate>Mon, 19 Nov 2018 17:09 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>We Are the World</title>
+ <link>http://www.nasa.gov/mediacast/we-are-the-world</link>
+ <description>Missions to outer space have come a long way since the days of Cold War competition. Farah Alibay finds that building relationships is a big part of building spacecraft.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_episode_7_final.mp3" length="47137494" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/we-are-the-world</guid>
+ <pubDate>Mon, 19 Nov 2018 16:34 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Worlds of Wonder</title>
+ <link>http://www.nasa.gov/mediacast/worlds-of-wonder</link>
+ <description>Technology can take you to unexpected places. The MarCO cubesats, flying towards Mars with InSight, are breaking new ground on how far these small satellites can go.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/onamissionep6final.mp3" length="48168796" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/worlds-of-wonder</guid>
+ <pubDate>Tue, 13 Nov 2018 13:24 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Robots Lend a Hand</title>
+ <link>http://www.nasa.gov/mediacast/robots-lend-a-hand</link>
+ <description>Ashitey Trebi-Ollennu is in charge of the InSight mission’s robotic arm and hand. His work on space robots has led him to give a helping hand back home.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/onamissionep5final.mp3" length="58292812" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/robots-lend-a-hand</guid>
+ <pubDate>Tue, 13 Nov 2018 13:04 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>A Matter of Life and Death</title>
+ <link>http://www.nasa.gov/mediacast/a-matter-of-life-and-death</link>
+ <description>Earth is a living, dynamic world thanks to volcanoes and the planetary heat that fuels them. The InSight mission wants to see if Mars also has a heartbeat deep inside its cold exterior.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/onamissionep4final_01.mp3" length="35634156" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/a-matter-of-life-and-death</guid>
+ <pubDate>Mon, 05 Nov 2018 11:58 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>True Grit on the Road to Mars</title>
+ <link>http://www.nasa.gov/mediacast/true-grit-on-the-road-to-mars</link>
+ <description>Space missions often defy the odds, overcoming all obstacles. The people who work on these missions also face challenges to get where they are today.  Marleen Martinez Sundgaard, the testbed lead for InSight, personifies this tenacious spirit.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/onamissionepisode003final.mp3" length="70838918" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/true-grit-on-the-road-to-mars</guid>
+ <pubDate>Mon, 05 Nov 2018 11:08 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Music of the Spheres</title>
+ <link>http://www.nasa.gov/mediacast/on-a-mission-podcast-episode-2-music-of-the-spheres</link>
+ <description>The Earth &quot;rings&quot; when earthquakes strike, just as vibrations through a bell create a ringing sound. The InSight mission will see if tremors cause Mars to chime with its own planetary song.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/onamissionepisode-002.mp3" length="62727375" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/on-a-mission-podcast-episode-2-music-of-the-spheres</guid>
+ <pubDate>Mon, 29 Oct 2018 11:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>The Danger of Going to Mars</title>
+ <link>http://www.nasa.gov/mediacast/the-danger-of-going-to-mars</link>
+ <description>Many spacecraft have died trying to get to Mars. The current record for Mars missions is 18 successes, and 25 failures. The InSight mission hopes to improve the odds.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/onamission_ep1_final.mp3" length="45965106" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/the-danger-of-going-to-mars</guid>
+ <pubDate>Mon, 29 Oct 2018 08:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+ <item> <title>Episode 0, Trailer</title>
+ <link>http://www.nasa.gov/mediacast/on-a-mission-podcast-episode-0-preview</link>
+ <description>Eight stories, one mission to outer space. “On a Mission,” a new podcast from NASA’s Jet Propulsion Laboratory, launches October 29.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/audio/on_a_mission_teaser_a.mp3" length="3764818" type="audio/mpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/on-a-mission-podcast-episode-0-preview</guid>
+ <pubDate>Tue, 16 Oct 2018 11:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/On-a-Mission.rss">On a Mission</source>
+</item>
+</channel>
+</rss>

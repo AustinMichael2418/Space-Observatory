@@ -1,0 +1,16 @@
+<h1><a href="{{info.ships[j].url}}">{{info.ships[j].ship_id}}</a></h1>
+<img src="{{info.ships[j].image}}"></img>
+<p>Built in {{info.ships[j].year_built}}, {{info.ships[j].ship_name}} weighs at {{info.ships[j].weight_kg}} kilograms</p>
+<p>Active?: {{info.ships[j].active}}</p>
+<p>Home Port: {{info.ships[j].home_port}}</p>
+<p>Type: {{info.ships[j].ship_type}}</p>
+<p>Model: {{info.ships[j].ship_model}}</p>
+<p>Status: {{info.ships[j].status}}</p>
+<p>Roles: {{info.ships[j].roles.join(", ")}}</p>
+<h3>Telemetry</h3>
+<p>Longitude: {{info.ships[j].position.longitude}}</p>
+<p>Latitude: {{info.ships[j].position.latitude}}</p>
+<p>Speed (knots): {{info.ships[j].speed_kn}}</p>
+<p>{{info.ships[j].successful_landings}}/{{info.ships[j].attempted_landings}} landings successful</p>
+<h3>Missions Used</h3>
+<div id="ship{{j}}"></div>

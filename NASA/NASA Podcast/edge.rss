@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Edge</title>
+ <description>Audio podcast featuring information and interviews about NASA Edge.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss" />
+ <language>en-us</language>
+ <image> <url>http://www.nasa.gov/sites/default/files/files/edge_itunes.jpg</url>
+ <title>NASA Edge</title>
+ <link>http://www.nasa.gov/</link>
+</image>
+ <copyright>no copyright</copyright>
+ <managingEditor>robert.d.allen@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <itunes:subtitle>The official podcast of www.nasa.gov: Get the latest audio from the NASA Portal, NASATV, and more.</itunes:subtitle>
+ <itunes:category text="Science &amp; Medicine" />
+ <itunes:keywords>NASA, Portal, audio, MP3s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, shuttle, Moon, station, nati</itunes:keywords>
+ <itunes:image href="http://www.nasa.gov/sites/default/files/files/edge_itunes.jpg" />
+ <itunes:author>National Aeronautics and Space Administration (NASA)</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>jim.wilson@nasa.gov</itunes:email>
+ <itunes:name>Brian Dunbar</itunes:name>
+</itunes:owner>
+ <item> <title>NASA EDGE: Imaging Artemis I with SCIFLI</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1605-iaiscifli</link>
+ <description>Artemis I is launching soon, and even NASA has its own front row seat for the launch with Scientifically Calibrated In-Flight Imagary (SCIFLI).  During launch and recovery, the NASA SCIFLI team will capture super high-fidelity imagery of the rocket and parachutes on re-entry across multiple spectrums.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/irc-20220826_iaiscifli_ne1605_1.mp4" length="604192253" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1605-iaiscifli</guid>
+ <pubDate>Fri, 26 Aug 2022 10:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Honey, I Shrunk the Payload</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1604-histp</link>
+ <description>NASA EDGE: Honey, I Shrunk the Payload</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20220711_histp_ne1604.mp4" length="669075283" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1604-histp</guid>
+ <pubDate>Mon, 11 Jul 2022 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Geostationary Operational Environmental Satellite (GOES-T) Rollout Show</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1602-goes-t</link>
+ <description>On February 28, 2022, NASA EDGE provided live coverage of the rollout of NOAA’s GOES-T satellite from the Cape Canaveral Space Force Station in Florida.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20220323_goes-t_ne1602_1.mp4" length="654146680" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1602-goes-t</guid>
+ <pubDate>Wed, 23 Mar 2022 17:27 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Imagining X-ray Polarimetry Explorer (IXPE) Show</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1519-ixpe</link>
+ <description>On December 8, 2021 NASA EDGE provided live coverage for the Imaging X-Ray Polarimetry Explorer (IXPE) mission from the Cape Canaveral Space Force Station in Florida.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20211216_ixpe_ne1519.mp4" length="669573771" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1519-ixpe</guid>
+ <pubDate>Thu, 16 Dec 2021 09:56 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: The Antarctic Eclipse Show</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1518-antarcticeclipse</link>
+ <description>NASA EDGE talks NASA Heliophysics, NASA Solar Missions, Eclipses, and Space Weather as the perfect setup for exclusive, high-resolution footage of the 2021 Antarctic Total Solar Eclipse.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20211204_antarctic-eclipse_ne1518.mp4" length="658097190" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1518-antarcticeclipse</guid>
+ <pubDate>Sat, 04 Dec 2021 02:01 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: The DART Show</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1517-dart</link>
+ <description>On November 22, 2021 NASA EDGE provide coverage of the transition of the SpaceX Falcon 9 going vertical prior to the launch of the Double Asteroid Redirection Test (DART) at Vandenberg Space Force Base in California.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20211203_dart-ne1517.mp4" length="661288350" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1517-dart</guid>
+ <pubDate>Fri, 03 Dec 2021 13:44 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Laser Communication Relay Demonstration</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1516-lcrd</link>
+ <description>Prior to the launch of the Laser Communication Relay Demonstration, the NASA EDGE Co-Host develops and tests his own version of laser communication as a proof of concept.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20211114_lcrd-ne1516.mp4" length="661864401" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1516-lcrd</guid>
+ <pubDate>Tue, 16 Nov 2021 16:51 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Lucy Rollout Show</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1515-lucyrollout</link>
+ <description>On October 14th, 2021 NASA EDGE provided live coverage of the Lucy Rollout at Cape Canaveral Space Force Station in Florida.  Several members of the Lucy team joined the show.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20211116_lucy-ne1515.mp4" length="651327152" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1515-lucyrollout</guid>
+ <pubDate>Tue, 16 Nov 2021 16:25 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Landsat 9 Prelaunch Show</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1514-landsat-9</link>
+ <description>On Septenber 27th, 2021 NASA EDGE provided live coverage of the Landsat 9 Tower Roll at Vandenberg Space Force Center in California.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20211025_landsat9-ne1514.mp4" length="613430796" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1514-landsat-9</guid>
+ <pubDate>Mon, 25 Oct 2021 08:10 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Bryan Russ</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1513-russ</link>
+ <description>How do you top higher and higher drop tests?  You add an extreme swing test to your portfolio.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20210603_ne-russ-ne1513.mp4" length="501976259" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1513-russ</guid>
+ <pubDate>Thu, 03 Jun 2021 18:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Mark Baldwin</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1512-baldwin</link>
+ <description>Will the Orion get the data it needs from this third key drop test and remain the uncontested bellyflop champion?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20210525_ne-baldwin-ne1512.mp4" length="535015794" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1512-baldwin</guid>
+ <pubDate>Tue, 25 May 2021 13:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Chris Kuhl</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1511-kuhl</link>
+ <description>How did MEDLI2 get all of the incredible data during entry, descent, and landing on Mars?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20210428_ne-kuhl-ne1511_0.mp4" length="462659754" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1511-kuhl</guid>
+ <pubDate>Wed, 28 Apr 2021 09:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Kurt Leucht</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1510-leucht</link>
+ <description>If you’re looking to clear some space on the lunar surface, pick up some extra water, and break a few lunar travel distance records, look no further than the Lunar Pilot Excavator!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20210421_ne-leucht-ne1510.mp4" length="479603687" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1510-leucht</guid>
+ <pubDate>Wed, 21 Apr 2021 13:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Todd White</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1509-white</link>
+ <description>Perseverance is already collecting science on the surface of Mars, but MEDLI2 actually collected significant scientific data on the way to the surface.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20210412_ne-white-ne1509.mp4" length="541880204" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1509-white</guid>
+ <pubDate>Mon, 12 Apr 2021 08:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Christine St. Germain</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1508-urt</link>
+ <description>It is a huge challenge to send astronauts to the Moon, but it is also critical to bring them home safely.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20210326_ne-urt-ne1508_0.mp4" length="373834709" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1508-urt</guid>
+ <pubDate>Fri, 26 Mar 2021 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Henry Wright</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1507-wright</link>
+ <description>Not only did Mars 2020 and Perseverance survive the seven minutes of terror during entry, descent, and landing on the surface of Mars, they also collected a lot of key performance data!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20210317_ne-wright-ne1507.mp4" length="413353358" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1507-wright</guid>
+ <pubDate>Wed, 17 Mar 2021 12:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Michelle Munk 2</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1502-munk</link>
+ <description>Our resident expert on Entry, Descent, and Landing (EDL) narrows her focus on the lunar landing with Stereo Camera for Lunar Plume Surface Studies (SCALPSS).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20210212_ne-munk-ne1502_1.mp4" length="420726080" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1502-munk</guid>
+ <pubDate>Fri, 12 Feb 2021 13:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Carey Scott</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1501-scott</link>
+ <description>If you need to capture highly technical imagery of your spacecraft as it reenters the Earth’s atmosphere, look no further than CJ (Carey Scott) and the SCIFLI team at NASA Langley Research Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20210121_ne-scott-ne1501.mp4" length="409502395" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1501-scott</guid>
+ <pubDate>Thu, 21 Jan 2021 21:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Sentinel-6 Prelaunch Show</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1425-sentinel-6</link>
+ <description>On November 20th, 2020, NASA EDGE provided live prelaunch coverage of the Sentinel-6 Mike Freilich Satellite on L-1.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20201208_ne-sentinel-6-ne1425.mp4" length="597771482" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1425-sentinel-6</guid>
+ <pubDate>Tue, 08 Dec 2020 10:07 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Mike Ciannilli</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1424-ciannilli</link>
+ <description>Netflix’s new documentary on the Space Shuttle Challenger has caused a lot of reflection and discussion about the tragedy.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20201007_ne-ciannilli-ne1424.mp4" length="556878126" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1424-ciannilli</guid>
+ <pubDate>Wed, 07 Oct 2020 11:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with Keri Bean</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1423-bean</link>
+ <description>Not many people can accurately claim to have driving experience on multiple planets, but Keri Bean can!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200930_ne-bean-ne1423.mp4" length="630308684" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1423-bean</guid>
+ <pubDate>Wed, 30 Sep 2020 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with SPLICE Part 2</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1422-splice2</link>
+ <description>NASA EDGE continues to look at NASA’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) technology suite.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200923_ne-splice2_ne1422.mp4" length="609327771" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1422-splice2</guid>
+ <pubDate>Wed, 23 Sep 2020 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home with SPLICE Part 1</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1421-splice1</link>
+ <description>Technologies to enable exact and soft landings on the Moon and other worlds will fly on Blue Origin’s next New Shepard suborbital rocket launch.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200922_ne-splice1.mp4" length="620305000" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1421-splice1</guid>
+ <pubDate>Tue, 22 Sep 2020 15:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Terry Fong</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1419-fong</link>
+ <description>To really understand the geology of the Moon, you need to dig.  NASA’s very first lunar rover, VIPER, is designed to do just that.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200825_ne-fong-ne1419.mp4" length="557428368" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1419-fong</guid>
+ <pubDate>Tue, 25 Aug 2020 15:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Mars 2020 Rollout</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1418-mars2020</link>
+ <description>On July 28th, 2020, NASA EDGE provided live coverage of the Mars 2020 Rollout just days ahead of the launch.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200813_marsrollout-ne1418.mp4" length="646726666" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1418-mars2020</guid>
+ <pubDate>Thu, 13 Aug 2020 14:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: with In-Space Assembly at NASA Langley &amp; 200th Show</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1417-lsms-200th</link>
+ <description>NASA EDGE takes a look at two technologies related to Space exploration, the Lunar Surface Manipulation System (LSMS) and In Space Assembly.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200804_ne-inspace-200th-ne1417.mp4" length="658670971" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1417-lsms-200th</guid>
+ <pubDate>Tue, 04 Aug 2020 14:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Michelle Munk</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1416-munk</link>
+ <description>When it comes to space exploration, it is vitally important to stick the landing! NASA Systems Capability Lead for Entry, Descent, and Landing (EDL) Michelle Munk joins the show to talk about his challenging process. Check it out!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200710_ne-munk-ne1416.mp4" length="537944373" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1416-munk</guid>
+ <pubDate>Fri, 10 Jul 2020 10:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Rob Mueller</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1415-mueller</link>
+ <description>NASA Swamp Works Senior Technologist Rob Mueller joins the show to talk about the innovation needed as NASA plans its return to the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200702_ne-mueller-ne1415.mp4" length="565110703" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1415-mueller</guid>
+ <pubDate>Thu, 02 Jul 2020 08:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Paul Dees</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1414-dees</link>
+ <description>Lowering the sonic boom with the X-59 still requires a high performance engine, and Franklin, from NASA EDGE, talked with Deputy Propulsion Lead for X-59 QueSST Paul Dees about NASA’s recent engine tests as they continue to develop this uniquely quiet x-plane.  Check it out!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200626_ne-dees-ne1414.mp4" length="589003403" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1414-dees</guid>
+ <pubDate>Fri, 26 Jun 2020 10:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Steve Gaddis</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1413-gaddis</link>
+ <description>NASA EDGE chats with NASA Deputy for the Launch Vehicle Office for Commercial Crew Steve Gaddis about the successful launch of DM-2 and future missions for NASA Commercial Crew!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200622_ne-gaddis-ne1413.mp4" length="551768244" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1413-gaddis</guid>
+ <pubDate>Mon, 22 Jun 2020 10:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Bob Moses</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1412-moses</link>
+ <description>Senior Aerospace Technologist Bob Moses joins the show to talk about how NASA plans to keep astronauts safe while living and working on the lunar surface.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200617_ne-moses_ne1412.mp4" length="590207022" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1412-moses</guid>
+ <pubDate>Wed, 17 Jun 2020 10:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Pat Troutman</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1411-troutman</link>
+ <description>Join NASA EDGE as Chris and Lunar Architecture guru Pat Troutman talk about the challenge of designing NASA’s first sustainable lunar outpost for Artemis.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200604_ne-troutman-ne1411_0.mp4" length="589727548" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1411-troutman</guid>
+ <pubDate>Thu, 04 Jun 2020 08:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Jennifer Inman</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1410-inman</link>
+ <description>Capturing visual data from a spacecraft travelling at 17,000 plus miles per hour from a safe distance is a big challenge, and that is exactly what Jennifer Inman and the SCIFLI team do when spacecraft return to Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200526_ne-inman-ne1410.mp4" length="562875052" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1410-inman</guid>
+ <pubDate>Thu, 28 May 2020 09:16 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Chris Wohl</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1409-wohl</link>
+ <description>You need more than household cleaner to tackle the dust problem on the lunar surface, and NASA Researcher Chris Wohl discusses the many strategies being developed by NASA to keep our equipment and astronauts safe while working on the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200521_ne-wohl_ne1409.mp4" length="499921569" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1409-wohl</guid>
+ <pubDate>Thu, 21 May 2020 21:53 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Nicky Fox</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1408-fox</link>
+ <description>Franklin checks in with NASA’s Division Chief of Heliophysics, Nicky Fox, to find out how current solar missions for NASA and ESA are providing profound new insight and data about our Sun.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20200515_ne-fox_ne1408.mp4" length="434297293" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1408-fox</guid>
+ <pubDate>Fri, 15 May 2020 09:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Chuck Taylor</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1407-taylor</link>
+ <description>Power is a big part of every NASA mission, and Artemis is no exception.  Chuck Taylor, from the Space Technology and Exploration Directorate at NASA Langley Research Center, joins the show to talk about how NASA is investigating and developing plans to provide power to all assets heading to the lunar surface.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20200507_ne-taylor_ne1407_0.mp4" length="473130994" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1407-taylor</guid>
+ <pubDate>Thu, 07 May 2020 13:48 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Mic Woltman</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1406-woltman</link>
+ <description>NASA EDGE continues their series at home with special guest Mic Woltman from NASA Launch Services Program at NASA Kennedy Space Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc20200429_ne-woltman_ne1406_0.mp4" length="523034434" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1406-woltman</guid>
+ <pubDate>Wed, 29 Apr 2020 12:58 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE@ Home: Interview with Jim Green</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1405-green</link>
+ <description>Operating safely from their homes, NASA Chief Scientist Jim Green along with Blair and Franklin from NASA EDGE discuss how NASA is continuing its mission during this unique time of telework and sheltering in place.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20200424_negreen_ne1405_0.mp4" length="484178657" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1405-green</guid>
+ <pubDate>Fri, 24 Apr 2020 10:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Solar Orbiter Rollout</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1403-sor</link>
+ <description>NASA EDGE provides live coverage of the Atlas V Rollout for ESA’s Solar Orbiter Mission.  With ESA leading the effort on the Solar Orbiter, science is the real winner as both ESA and NASA continue the focus on Heliophysics missions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_030220_sor_ne1403.mp4" length="658153120" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1403-sor</guid>
+ <pubDate>Mon, 02 Mar 2020 09:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Navigation Doppler Lidar</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1402-ndl</link>
+ <description>NASA EDGE takes a close look at NASA Langley Research Center’s development of Navigation Doppler Lidar (NDL) to provide accurate, surface-relative altitude and vector velocity data to make sure NASA can  land spacecraft safely on the Moon and any surface.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_021420_ndl_ne1402.mp4" length="656554843" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1402-ndl</guid>
+ <pubDate>Fri, 14 Feb 2020 10:10 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Apollo, Challenger, Columbia Lessons Learned Program</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1401-accllp</link>
+ <description>NASA EDGE sits down with Mike Ciannilli of the Apollo, Challeger, Columbia Lessons Learned Program (ACCLLP) to talk about NASA is using the tragedies of the past to make sure we improve our processes moving forward.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20200130_accllp_ne1401.mp4" length="663201405" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1401-accllp</guid>
+ <pubDate>Thu, 30 Jan 2020 09:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MMS in Mixed Reality</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1302-mmsmixedreality</link>
+ <description>NASA EDGE moves between virtual and mixed reality while learning about the new focus for the Magnetospheric Multiscale Mission (MMS).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20190408_mmsmixedreality_ne1302.mp4" length="517035511" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1302-mmsmixedreality</guid>
+ <pubDate>Mon, 08 Apr 2019 11:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: ICESat-2 Tower Rollback</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1217-icesat-2</link>
+ <description>NASA EDGE provided live coverage of the scheduled tower rollback for United Launch Alliance’s final Delta II rocket carrying the ICESat-2 spacecraft.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20181001_icesat-2_ne1217.mp4" length="648046786" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1217-icesat-2</guid>
+ <pubDate>Mon, 01 Oct 2018 12:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Parker Solar Probe Tower Rollback</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1216-parker-solar</link>
+ <description>NASA EDGE provided live coverage of the scheduled tower rollback for the Delta IV Heavy carrying the Parker Solar Probe just prior to launch from Space Launch Complex 37 at Cape Canaveral Air Station in Florida.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180828_parker-solar-probe_ne1216.mp4" length="643574453" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1216-parker-solar</guid>
+ <pubDate>Tue, 28 Aug 2018 08:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Dragonfly Program Manager</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1215-dragonfly-program-manager</link>
+ <description>NASA EDGE interviews Dragonfly Program Manager Jennifer Dawson about the latest developments in robotic assembly in space, and how having this flexibility allows NASA and its partners to think differently about building and operating structures in space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180712_dragonfly-prog-manager_ne1215.mp4" length="211152679" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1215-dragonfly-program-manager</guid>
+ <pubDate>Thu, 12 Jul 2018 11:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Archinaut Project Manager</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1214-archinaut-project-manager</link>
+ <description>NASA EDGE visits Made in Space at NASA Ames Research Center to learn about Archinaut, a suite of capabilities for space manufacturing, robotic assembly, and verification and validation.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180712_archinaut-proj-manager_ne1214.mp4" length="224281044" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1214-archinaut-project-manager</guid>
+ <pubDate>Thu, 12 Jul 2018 09:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: CIRAS Lead Systems Engineer</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1213-ciras-lead-systems-engineer</link>
+ <description>NASA EDGE visits Orbital ATK (now Northrop Grumman) to interview Lead Systems Engineer Dave Bodkin about the tools being developed for Commercial Infrastructure for Robotic Assembly and Services (CIRAS) and how these tools will potentially be used for missions in space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180711_ciras-lead-engineer_ne1213_0.mp4" length="226680614" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1213-ciras-lead-systems-engineer</guid>
+ <pubDate>Wed, 11 Jul 2018 12:05 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Countdown to ICON/Pegasus Ferry Flight</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1212-icon-ferry</link>
+ <description>NASA EDGE webcasts live from the Hot Pad at Vandenberg Air Force Base as the Orbital ATK Stargazer prepares to transport the Pegasus Rocket carrying the Ionospheric Connection Explorer (ICON) to its eventual launch destination, the Kwajalein Atoll.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180621_icon-pegasusferry_ne1212.mp4" length="666126250" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1212-icon-ferry</guid>
+ <pubDate>Thu, 21 Jun 2018 18:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MarCO Chief Engineer</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1211-marcochiefengineer</link>
+ <description>NASA EDGE talks with Chief Engineer Andy Klesh about NASA&#039;s Mars Cubesat One A &amp; B (MarCO), the first cubesat mission to the Red Planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180523_marco-chiefengineer_ne1211.mp4" length="256139743" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1211-marcochiefengineer</guid>
+ <pubDate>Wed, 23 May 2018 15:59 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Mars InSight Rollback with MarCO</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1210-insight-marco</link>
+ <description>NASA EDGE provides live coverage of tower rollback in preparation for NASA’s first launch to Mars from the West Coast.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180517_insight-marco_ne1210.mp4" length="664485482" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1210-insight-marco</guid>
+ <pubDate>Thu, 17 May 2018 08:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Transiting Exoplanet Survey Satellite</title>
+ <link>http://www.nasa.gov/nasa-edge/ne1209-tess</link>
+ <description>NASA EDGE takes an in-depth look at the Transiting Exoplanet Survey Satellite (TESS) Mission just hours before launch from Cape Canaveral Air Force Station.  Discover how NASA and its partners from MIT developed sophisticated cameras to capture a full sky survey of the most likely Earth-like planets outside our solar system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180501_tess_ne1209.mp4" length="662992402" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne1209-tess</guid>
+ <pubDate>Sun, 06 May 2018 15:39 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Low-Boom Flight Demonstration</title>
+ <link>http://www.nasa.gov/nasa-edge/1208lbfd</link>
+ <description>NASA EDGE is joined in studio by David Richwine, Deputy Project Manager for Technology for the Low-Boom Flight Demonstration to discuss NASA&#039;s current effort to develop ground breaking aircraft design and promote regulatory change for commercial supersonic flight over land.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180403_lbfd_ne1208.mp4" length="648188396" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1208lbfd</guid>
+ <pubDate>Tue, 03 Apr 2018 10:34 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Low-Boom Flight Demonstration Promo</title>
+ <link>http://www.nasa.gov/nasa-edge/1207-lbfdpromo</link>
+ <description>The great aviation transformation begins now as NASA moves ahead with the development of an X-Plane designed to demonstrate low-boom technology and promote regulatory change for commercial supersonic flight.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180403_lbfdpromo_ne1207.mp4" length="66146638" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1207-lbfdpromo</guid>
+ <pubDate>Tue, 03 Apr 2018 09:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: GOES-S Rollout</title>
+ <link>http://www.nasa.gov/nasa-edge/1206-goessrollout</link>
+ <description>NASA EDGE provides live coverage during the GOES-S rollout the day before its historic launch from Space Launch Complex 41 at NASA Kennedy Space Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180316_goes-s_rollout_bo_ne1206.mp4" length="645326436" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1206-goessrollout</guid>
+ <pubDate>Fri, 16 Mar 2018 09:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: GOES-R Series Products Manager</title>
+ <link>http://www.nasa.gov/nasa-edge/1205-noaa_goes-r_series-products-manager</link>
+ <description>NASA EDGE talks with Dr. Jamese Sims about how scientists at the National Oceanic and Atmospheric Administration (NOAA) are evaluating data and developing specific products to serve the meteorological community.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180312_noaa-jamese_ne1205.mp4" length="240307255" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1205-noaa_goes-r_series-products-manager</guid>
+ <pubDate>Tue, 13 Mar 2018 09:07 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: NOAA&#039;s Research Meteorologist</title>
+ <link>http://www.nasa.gov/nasa-edge/1204-noaa_research-meteorologist</link>
+ <description>NASA EDGE talks with Jose Galvez, Research Meteorologist for the National Oceanic and Atmospheric Administration (NOAA)  International Weather Prediction Desk, about how the new capabilities of the GOES-R series of satellites helps weather prediction in the continental United States and other countries in the Western Hemisphere.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20180312_noaa-jose_ne1204.mp4" length="212192926" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1204-noaa_research-meteorologist</guid>
+ <pubDate>Tue, 13 Mar 2018 08:39 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: CubeSat Promo</title>
+ <link>http://www.nasa.gov/nasa-edge/1203-cubesatpromo</link>
+ <description>NASA EDGE provides a look into the CubeSat world.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20171218_cubesatpromo_ne1203.mp4" length="71375219" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1203-cubesatpromo</guid>
+ <pubDate>Mon, 18 Dec 2017 08:23 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: JPSS-1 Satellite Operations</title>
+ <link>http://www.nasa.gov/nasa-edge/1202-jpss-1_satellite-ops</link>
+ <description>NASA EDGE interviews NOAA’s Office of Satellite and Product Operations Director Vanessa Griffin about how NOAA supports the Joint Polar Satellite Sytem once it is in orbit.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20171214_jpss-1_satellite-ops_ne1202.mp4" length="232205405" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1202-jpss-1_satellite-ops</guid>
+ <pubDate>Thu, 14 Dec 2017 09:48 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: JPSS-1 Tower Rollback</title>
+ <link>http://www.nasa.gov/nasa-edge/1201-jpss1rollback</link>
+ <description>NASA EDGE provides live coverage of Tower Rollback for the Joint Polar Satellite Sytem spacecraft.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20171212_jpss-1_rollback.mp4" length="647579180" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1201-jpss1rollback</guid>
+ <pubDate>Tue, 12 Dec 2017 14:39 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MMS Mission with Tom Moore</title>
+ <link>http://www.nasa.gov/nasa-edge/1115-mmstommoore</link>
+ <description>NASA EDGE meets with Project Scientist Tom Moore to update the progress of the Magnestopheric Multiscale Mission (MMS).  Magnetic reconnection is happening in Space and the MMS spacecraft are capturing the data and getting a much clearer picture of this phenomena.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20171103_mms-tommoore_ne1115.mp4" length="211692441" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1115-mmstommoore</guid>
+ <pubDate>Fri, 03 Nov 2017 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MMS Mission with AP Physics Students</title>
+ <link>http://www.nasa.gov/nasa-edge/1114-apphysicsstudents</link>
+ <description>Franklin talks to three AP Physics students from Oxon Hill High School in Maryland about their class project demonstrating magnetic reconnection.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20171101_mms-ap-physicsstudents_ne1114.mp4" length="216563386" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1114-apphysicsstudents</guid>
+ <pubDate>Wed, 01 Nov 2017 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Virtual Reality in the STEM Innovation Lab</title>
+ <link>http://www.nasa.gov/nasa-edge/1113-virtual-reality</link>
+ <description>NASA EDGE visits the STEM Innovation Lab at NASA Goddard Space Flight Center to discover how Virtual Reality is being used to promote science and engineering.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20171031_mms-virtualreality_ne1113.mp4" length="263796353" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1113-virtual-reality</guid>
+ <pubDate>Tue, 31 Oct 2017 09:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>Space Weather</title>
+ <link>http://www.nasa.gov/nasa-edge/1112-space-weather</link>
+ <description>NASA’s Human Research Program (HRP) looks at how space weather will impact astronauts when they leave Low Earth Orbit.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20171012_space-weather_ne1112.mp4" length="72122333" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1112-space-weather</guid>
+ <pubDate>Thu, 12 Oct 2017 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>The Challenges for Astronauts on the Journey to Mars</title>
+ <link>http://www.nasa.gov/nasa-edge/1111-journey-to-mars</link>
+ <description>NASA’s Human Research Program (HRP) outlines some of the major challenges facing our astronauts for the journey to Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20171010_journey-to-mars_ne1111.mp4" length="109262275" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1111-journey-to-mars</guid>
+ <pubDate>Tue, 10 Oct 2017 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA Space Radiation Laboratory</title>
+ <link>http://www.nasa.gov/nasa-edge/1110-nsrl</link>
+ <description>NASA’s Human Research Program (HRP) visits the NASA Space Radiation Laboratory (NSRL) to get a closer look at how NASA simulates cosmic rays for research.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20170926_nsrl_ne1110.mp4" length="119931655" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1110-nsrl</guid>
+ <pubDate>Tue, 26 Sep 2017 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>Space Radiation</title>
+ <link>http://www.nasa.gov/nasa-edge/1109-space-radiation</link>
+ <description>NASA’s Human Research Program (HRP) looks into the three kinds of space radiation.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20170921_space-radiation_ne1109_0.mp4" length="116952997" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1109-space-radiation</guid>
+ <pubDate>Thu, 21 Sep 2017 14:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>The Biological Consequences of Space Radiation</title>
+ <link>http://www.nasa.gov/nasa-edge/1108-biological-consequences</link>
+ <description>The Human Research Program (HRP) explores the biological consequences of space radiation for astronauts during space flight.  Subject matter experts Tony Slaba (Research Physicist) and Peter Guida (Liaison Biologist NASA Space Radiation Laboratory) describe just how space radiation impacts the human body during space flight.  Produced by NASA EDGE.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20170919_biological-consequences-ne1108_0.mp4" length="103282887" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1108-biological-consequences</guid>
+ <pubDate>Tue, 19 Sep 2017 13:08 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: TDRS-M with David Littmann</title>
+ <link>http://www.nasa.gov/nasa-edge/1107-tdrsm-littmann</link>
+ <description>NASA EDGE talks to Tracking and Data Relay Satellite M (TDRS-M) Project Manager David Littmann about the how it fits into the broader TDRS Network.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20170913_tdrs-mlittmann_ne1107.mp4" length="117176106" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1107-tdrsm-littmann</guid>
+ <pubDate>Wed, 13 Sep 2017 09:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: TDRS-M Communications with Neil Mallik</title>
+ <link>http://www.nasa.gov/nasa-edge/1106-tdrsm-comm-mallik</link>
+ <description>NASA EDGE’s Franklin Fitzgerald sits down with NASA Human Space Flight Deputy Network Director Neil Mallik to talk about how the Tracking and Data Relay Satellite M (TDRS-M) plays into NASA’s Space Network.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20170913_tdrs-mcomneilmallik_ne1106.mp4" length="117396846" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1106-tdrsm-comm-mallik</guid>
+ <pubDate>Tue, 12 Sep 2017 12:07 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: The Future Of Commercial Supersonic Travel</title>
+ <link>http://www.nasa.gov/nasa-edge/1105-furure-supersonic-travel</link>
+ <description>NASA Langley Research Center’s Peter Coen (Commercial Supersonic Technology Program Manager) and David Richwine (Quiet Supersonic Technology Project Manager) explain how advances in design could help reduce the impact of sonic booms and promote supersonic flight over land.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20170623-futuresupersonictravelne1105_0.mp4" length="71810949" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1105-furure-supersonic-travel</guid>
+ <pubDate>Fri, 23 Jun 2017 14:36 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Best of SAGE III Installation Coverage</title>
+ <link>http://www.nasa.gov/nasa-edge/1104-sagelll-install</link>
+ <description>NASA EDGE webcasts live in front the of the Flight Mission Support Center (FMSC) at NASA Langley Research Center as the SAGE III Team monitors the final stages of installation on the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20170323_sagelll-ne1104.mp4" length="538706017" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1104-sagelll-install</guid>
+ <pubDate>Wed, 22 Mar 2017 12:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Best of SAGE III Launch Coverage</title>
+ <link>http://www.nasa.gov/nasa-edge/1103-sagelll-launch</link>
+ <description>NASA EDGE provides coverage of the successful launch of SAGE III aboard the SpaceX Faclon 9 from historic pad 39A at NASA Kennedy Space Center.  The Stratospheric Aerosal and Gas Experiment (SAGE III) is the first science instrument to be mounted on the International Space Station and will help sustain the vital atmospheric data record of previous</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20170314_sagelll-ne1103.mp4" length="537416896" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1103-sagelll-launch</guid>
+ <pubDate>Tue, 14 Mar 2017 09:44 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Flight Projects</title>
+ <link>http://www.nasa.gov/nasa-edge/1102-flight-projects</link>
+ <description>Deputy Director of Flight Projects Steve Gaddis is going for NASA EDGE Platinum Status by joining Franklin and Blair in the studio for an unprecedented fourth appearance.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc20170209_flightprojects-ne1102_0.mp4" length="540295325" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1102-flight-projects</guid>
+ <pubDate>Thu, 09 Feb 2017 13:45 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: CYGNSS Pre Launch Live Coverage</title>
+ <link>http://www.nasa.gov/nasa-edge/1101-cygnss-pre-launch-live</link>
+ <description>NASA EDGE broadcasts live from Hanger AE at the Cape Canaveral Air Station to provide coverage for the Cyclone Global Navigation Satellite System (CYGNSS) Launch from Orbital ATK’s Stargazer L-1011.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20170127_cygnssprelaunch-ne1101_1.mp4" length="519903555" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1101-cygnss-pre-launch-live</guid>
+ <pubDate>Sun, 29 Jan 2017 13:44 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: GOES-R Pre Launch Live Coverage</title>
+ <link>http://www.nasa.gov/nasa-edge/1010-goes-r-pre-launch-live</link>
+ <description>NASA EDGE provides live coverage of the launch of the National Oceanic and Atmospheric Administration’s (NOAA) latest weather and scientific satellite designed to improve real time critical weather forecasting and warning systems.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20161222_goes-rprelaunchbestof-ne1010_1.mp4" length="529440566" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1010-goes-r-pre-launch-live</guid>
+ <pubDate>Thu, 22 Dec 2016 15:05 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: OSIRIS REx Pre Launch Live Coverage</title>
+ <link>http://www.nasa.gov/nasa-edge/1009-osiris-rex-pre-launch-Live</link>
+ <description>NASA EDGE provides prelaunch coverage of the OSIRIS REx Launch Live from NASA Kennedy Space Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20161014_osirisrexprelaunchlive-ne1009.mp4" length="502645891" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1009-osiris-rex-pre-launch-Live</guid>
+ <pubDate>Fri, 14 Oct 2016 14:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Magnetospheric Multiscale (MMS) Mission Update: Alexander Barrie</title>
+ <link>http://www.nasa.gov/nasa-edge/1008-mms-update-alexander-barrie</link>
+ <description>NASA EDGE and Fast Plasma Investigations Lead Alexander Barrie for MMS discuss the challenge of keeping the instruments running and properly calibrated while examining magnetic reconnection.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20160930_mmsalexanderbarrie-ne1008.mp4" length="154113320" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1008-mms-update-alexander-barrie</guid>
+ <pubDate>Fri, 30 Sep 2016 13:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Magnetospheric Multiscale (MMS) Mission Update: Conrad Schiff</title>
+ <link>http://www.nasa.gov/nasa-edge/1007-mms-update-conrad-schiff</link>
+ <description>Plasma Physicist Conrad Schiff updates NASA EDGE on the health and performance of all four spacecraft.  With four times the data, NASA is getting an unprecedented look at the phenomenon of magnetic reconnection.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20160928_mmsconradschiff-ne1007.mp4" length="160971925" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1007-mms-update-conrad-schiff</guid>
+ <pubDate>Wed, 28 Sep 2016 13:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Magnetospheric Multiscale (MMS) Mission Update with Daniel Gershman</title>
+ <link>http://www.nasa.gov/nasa-edge/1006-mms-update-daniel-gershman</link>
+ <description>NASA EDGE and Plasma Scientist Daniel Gershman discuss how the Magnetospheric Multiscale Mission Team is processing and handling the date from the spacecrafts.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/irc-20160926_mmsdanielgershman-ne1006.mp4" length="152419499" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1006-mms-update-daniel-gershman</guid>
+ <pubDate>Mon, 26 Sep 2016 13:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>Viking 40th Anniversary: The Viking Team</title>
+ <link>http://www.nasa.gov/nasa-edge/168-Viking-40_The-Viking-Team</link>
+ <description>The challenge of landing on Mars pushed the Viking mission team to greatness.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_2016_0905_168-viking-40_the-viking-team.mp4" length="61159866" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/168-Viking-40_The-Viking-Team</guid>
+ <pubDate>Mon, 05 Sep 2016 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>Viking 40th Anniversary: Legacy of Viking</title>
+ <link>http://www.nasa.gov/nasa-edge/167-Viking-40_Legacy-of-Viking</link>
+ <description>Viking’s accomplishments and contributions are still felt in every NASA planetary mission to date.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_2016_0904_167-viking-40_legacy-of-viking.mp4" length="54296647" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/167-Viking-40_Legacy-of-Viking</guid>
+ <pubDate>Sun, 04 Sep 2016 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>Viking 40th Anniversary: Jim Martin</title>
+ <link>http://www.nasa.gov/nasa-edge/166-Viking-40_Jim-Martin</link>
+ <description>Remembering the significant contributions of Viking Mission Manager Jim Martin.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_2016_0903_166-viking-40_jim-martin.mp4" length="70882820" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/166-Viking-40_Jim-Martin</guid>
+ <pubDate>Sat, 03 Sep 2016 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>Viking 40th Anniversary: Life on Mars</title>
+ <link>http://www.nasa.gov/nasa-edge/165-Viking-40_Life-on-Mars</link>
+ <description>Former NASA Senior Research Scientist Joel Levine discusses Viking’s valuable contribution to the science behind discovering life on Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_2016_0902_165-viking-40_life-on-mars.mp4" length="89722221" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/165-Viking-40_Life-on-Mars</guid>
+ <pubDate>Fri, 02 Sep 2016 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>Viking 40th Anniversary: Entry, Descent and Landing</title>
+ <link>http://www.nasa.gov/nasa-edge/164-Viking-40_EDL</link>
+ <description>Discover how NASA tackled the unique challenge of Entry, Descent, and Landing to successfully land Viking on Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_2016_0901_164-viking-40_edl.mp4" length="64035849" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/164-Viking-40_EDL</guid>
+ <pubDate>Thu, 01 Sep 2016 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>Viking 40th Anniversary: First Images</title>
+ <link>http://www.nasa.gov/nasa-edge/163-Viking-40_First-Images</link>
+ <description>NASA Scientists reflect on the significance of seeing the first images of Mars sent from Viking.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_2016_0831_163-viking-40_first-images.mp4" length="56769781" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/163-Viking-40_First-Images</guid>
+ <pubDate>Wed, 31 Aug 2016 06:44 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Solar Eclipse 2017 Preview Show</title>
+ <link>http://www.nasa.gov/nasa-edge/1005-solar-eclipse-2017-preview-show</link>
+ <description>If you want signs and wonders, NASA EDGE has you covered with a preview of the most significant astronomical event in years: the Total Solar Eclipse 2017.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc_20160828_eclipse2017previewshow-ne1005.mp4" length="628519911" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1005-solar-eclipse-2017-preview-show</guid>
+ <pubDate>Mon, 29 Aug 2016 08:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Scalable Technologies</title>
+ <link>http://www.nasa.gov/nasa-edge/1004-scalable-technologies</link>
+ <description>NASA EDGE is back in studio to look at two of NASA’s major Technology Demonstration Missions, Green Propellant Infusion Mission (GPIM) and Evolvable Cryogenics (eCryo).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20160622_scalable-technologies-ne1004.mp4" length="610274743" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1004-scalable-technologies</guid>
+ <pubDate>Wed, 22 Jun 2016 13:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Game Changing Entry, Descent and Landing Part 2</title>
+ <link>http://www.nasa.gov/nasa-edge/1003-game-changing-edl-2</link>
+ <description>NASA EDGE continues their in-depth look at the latest Entry, Descent and Landing (EDL) technologies being developed at NASA.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20160525_gcedlpt2-ne1003.mp4" length="512054734" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1003-game-changing-edl-2</guid>
+ <pubDate>Thu, 26 May 2016 10:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Game Changing Entry, Descent and Landing Part 1</title>
+ <link>http://www.nasa.gov/nasa-edge/1002-game-changing-edl-1</link>
+ <description>NASA EDGE gives an in depth look at the latest Entry, Descent and Landing (EDL) technologies being developed at NASA.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20160512_gcedlpt1-ne1002.mp4" length="466559321" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1002-game-changing-edl-1</guid>
+ <pubDate>Thu, 12 May 2016 10:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Jason 3 Launch</title>
+ <link>http://www.nasa.gov/nasa-edge/1001-jason-3-launch</link>
+ <description>NASA EDGE provides live coverage of the National Oceanic and Atmospheric Administration’s Jason 3 Mission launch from Vandenberg Air Force Base in California.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/lrc-20160201_jason-3_ne1001.mp4" length="537310297" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/1001-jason-3-launch</guid>
+ <pubDate>Tue, 02 Feb 2016 09:32 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Game Changing Robotics</title>
+ <link>http://www.nasa.gov/nasa-ede/0910-game-changing-robotics</link>
+ <description>Game Changing Development Program Manager Steve Gaddis joins NASA EDGE in studio to discuss robotics, rovers and perhaps an upgrade at co-host.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0910_game_changing_robotics_0.mp4" length="626883687" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-ede/0910-game-changing-robotics</guid>
+ <pubDate>Mon, 23 Nov 2015 13:49 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: RaD-X Launch</title>
+ <link>http://www.nasa.gov/nasa-edge/0909-rad-x-launch</link>
+ <description>NASA EDGE provides live coverage of the Radiation Dosimetry Experiment (RaD-X) launch from NASA Langley Research Center and the Columbia Scientific Balloon Facility in Fort Sumner, NM.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0909_rad-x_bestof.mp4" length="584244574" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0909-rad-x-launch</guid>
+ <pubDate>Wed, 28 Oct 2015 11:24 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: BisonSat</title>
+ <link>http://www.nasa.gov/nasa-edge/0908-bisonsat</link>
+ <description>NASA EDGE visits the Salish Kootenai College in Pablo, Montana to check out their first CubeSat BisonSat!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0908_bisonsat.mp4" length="349367006" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0908-bisonsat</guid>
+ <pubDate>Mon, 24 Aug 2015 14:42 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Additive Manufacturing In Space - 3D Printing</title>
+ <link>http://www.nasa.gov/nasa-edge/0907-additive-manufacturing-in-space-3d-printing</link>
+ <description>NASA EDGE looks into NASA&#039;s use of 3D printing on the International Space Station.  Plus, they learn how students are helping astronauts through a partnership with Future Engineers.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0907_aes_0.mp4" length="458048564" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0907-additive-manufacturing-in-space-3d-printing</guid>
+ <pubDate>Sun, 02 Aug 2015 20:48 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: New Horizons</title>
+ <link>http://www.nasa.gov/nasa-edge/0906-new-horizons</link>
+ <description>NASA EDGE celebrates New Horizons&#039; eminent closest approach to Pluto with their own parallel mission to Pluto, West Virginia.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0906_new_horizons_0.mp4" length="525858341" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0906-new-horizons</guid>
+ <pubDate>Mon, 06 Jul 2015 10:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Nanotechnology</title>
+ <link>http://www.nasa.gov/nasa-edge/0905-nanotechnology</link>
+ <description>NASA EDGE explores the latest developments with NASA&#039;s game changing Nanotechnology.  Going small yields big results!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0905_nanotechnology.mp4" length="585084045" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0905-nanotechnology</guid>
+ <pubDate>Mon, 29 Jun 2015 15:27 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Mars Ascent Vehicle Prize</title>
+ <link>http://www.nasa.gov/nasa-edge/0904-mars-ascent-vehicle-prize</link>
+ <description>What do you get when you add robotics and autonomy to rocketry?  You get NASA&#039;s latest Centennial Challenge.  Find which teams were awarded the ellusive Mars Ascent Vehicle Prize.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0904_mav-prize_1.mp4" length="467881958" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0904-mars-ascent-vehicle-prize</guid>
+ <pubDate>Thu, 21 May 2015 08:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MMS Launch</title>
+ <link>http://www.nasa.gov/nasa-edge/0903-mms-launch</link>
+ <description>NASA EDGE covers the launch of the four identical Magnetospheric Multiscale Mission (MMS) spacecraft from Space Launch Complex 45 at Cape Canaveral.  Special guests include Alex Young, Susan Pope, Craig Pollock, Paul Gross and Troy Cline.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0903_mms_launch.mp4" length="534948736" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0903-mms-launch</guid>
+ <pubDate>Mon, 27 Apr 2015 13:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: ELaNa X Deployment</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0902-elanax</link>
+ <description>NASA EDGE joins the ELaNa X Teams as their CubeSats deploy less than two hours after a successful ride into space. &amp;nbsp;Dr. Charles Norton (NASA JPL) and Scott Higginbotham (NASA Kennedy) share the excitement with students from Montana State University and Cal Poly San Luis Obispo.&amp;nbsp;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0902_elanax.mp4" length="580214216" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0902-elanax</guid>
+ <pubDate>Fri, 13 Mar 2015 11:52 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: SMAP Launch</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0901_smap-launch</link>
+ <description>Join NASA EDGE as they cover the launch of the Soil Moisture Active Passive (SMAP) spacecraft live from Vandenberg Air Force Base. &amp;nbsp;Special guests include NASA Administrator Charlie Bolden, SMAP&amp;nbsp;Project System Engineer Shawn Goodman and Lt Col Brande Walton and Joseph Sims from the Air Force. &amp;nbsp;No word on the Co-Host&#039;s whereabouts. &amp;n</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0901_smap-launch.mp4" length="469883895" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0901_smap-launch</guid>
+ <pubDate>Mon, 02 Mar 2015 10:57 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>Testing NASA&#039;s Low-Density Supersonic Decelerator</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0812-testing-nasas-low-density-supersonic-decelerator</link>
+ <description>NASA EDGE visits NASA Jet Propulsion Laboratory to check in with the Low-Density Supersonic Decelerator Team.&amp;nbsp;Find out how NASA&#039;s Space Technology Mission Directorate is helping to pave the way for entry descent and landing of humans on Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0812_ldsd_0.mp4" length="485000717" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0812-testing-nasas-low-density-supersonic-decelerator</guid>
+ <pubDate>Mon, 01 Dec 2014 11:18 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Talking MMS - Part 2</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0811-talking-mms-part-2</link>
+ <description>Chris continues his talk with more members of the Magnetospheric Multiscale Mission (MMS) team. &amp;nbsp;Enthusiasm is high ahead of their upcoming launch.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0811_talking_mms_2.mp4" length="494428269" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0811-talking-mms-part-2</guid>
+ <pubDate>Wed, 22 Oct 2014 12:23 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Talking MMS - Part 1</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0810-talking-mms-part-1</link>
+ <description>Chris sits down with&amp;nbsp;members of the Magnetospheric Multiscale Mission (MMS) team to talk about their work, experiences and expectations for this groundbreaking engineering achievement and scientific&amp;nbsp;mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0810_talking_mms_1.mp4" length="428106798" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0810-talking-mms-part-1</guid>
+ <pubDate>Thu, 09 Oct 2014 12:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Mission X 2014</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0809_mission-x-2014</link>
+ <description>NASA EDGE travels to Belgium for&amp;nbsp;the Mission X 2014 International Closing Event. &amp;nbsp;Special guests include European Space Agency Astronaut Frank De Winne, Mission X Students and more!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0809_missionx14.mp4" length="475190037" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0809_mission-x-2014</guid>
+ <pubDate>Fri, 05 Sep 2014 12:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: The Future is Bright @NASA_KSC with Bob Cabana</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0808_bob_cabana</link>
+ <description>NASA EDGE interviews NASA Kennedy Space Center Directer Bob Cabana during their coverage of SpaceX CRS-3. Find out about commercial space, future NASA launches and lounge singers!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0808_bob_cabana.mp4" length="159485503" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0808_bob_cabana</guid>
+ <pubDate>Fri, 08 Aug 2014 12:39 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: OCO-2 Launch</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0807-oco-2-launch</link>
+ <description>NASA EDGE webcasts live from Vandenberg AFB for the launch of the Orbiting Carbon Observatory-2 (OCO) launch.&amp;nbsp;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0807_oco-2.mp4" length="460044421" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0807-oco-2-launch</guid>
+ <pubDate>Fri, 25 Jul 2014 12:53 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: SpaceX-3</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0806-spacex-3</link>
+ <description>NASA EDGE checks out the experiments heading to the International Space Station and the CubeSats being launched during SpaceX&#039;s 3rd resupply mission. &amp;nbsp;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0806_spacex-3.mp4" length="451859552" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0806-spacex-3</guid>
+ <pubDate>Thu, 29 May 2014 12:57 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MMS One Step Closer to Launch</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0805-mms-one-step-closer-to-launch</link>
+ <description>NASA EDGE talks with the MMS Team about the final tests for the satellites before they head to NASA Kennedy. &amp;nbsp;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0805_mms_1_step_closer_2_launch.mp4" length="457334751" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0805-mms-one-step-closer-to-launch</guid>
+ <pubDate>Wed, 26 Mar 2014 15:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: TDRS-L Launch</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0804-tdrs-l-launch</link>
+ <description>NASA EDGE talks Space Communication and Navigation while covering the TDRS-L Launch atop the Vehicle Assembly Building at NASA Kennedy Space Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/ne0804_tdrs-l.mp4" length="448847433" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0804-tdrs-l-launch</guid>
+ <pubDate>Thu, 06 Mar 2014 09:29 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Launching CUNYSAT-1</title>
+ <link>http://www.nasa.gov/nasa-edge/ne0803-launching-cunysat-1</link>
+ <description>NASA EDGE covers the ELaNa II launch and speaks to Medgar Evers students about launching CUNYSAT-1; their first CubeSat.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0803_launching_cunysat-1.mp4" length="466994977" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/ne0803-launching-cunysat-1</guid>
+ <pubDate>Tue, 18 Feb 2014 10:36 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Technology Demonstration Missions Part 3</title>
+ <link>http://www.nasa.gov/nasa-edge/0802-technology-demonstration-missions-part-3</link>
+ <description>NASA EDGE visits NASA Ames during their telerobics demontration with K-10 and the ISS.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0802_tdm-3.mp4" length="435911090" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0802-technology-demonstration-missions-part-3</guid>
+ <pubDate>Wed, 05 Feb 2014 12:02 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Technology Demonstration Missions Part 2</title>
+ <link>http://www.nasa.gov/nasa-edge/0801-technology-demonstration-missions-part-2</link>
+ <description>NASA EDGE explores three more NASA Technology Demonstration Missions; Deep Space Atomic Clock, Solar Sails and the Low-Density Supersonic Decelerator.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0801_tdm-2_0.mp4" length="452275755" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0801-technology-demonstration-missions-part-2</guid>
+ <pubDate>Mon, 27 Jan 2014 12:41 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: LADEE Launch</title>
+ <link>http://www.nasa.gov/nasa-edge/0715-ladee-launch</link>
+ <description>Enjoy highlights from the LADEE Launch with NASA EDGE and many of their guests, including NASA Administrator Charlie Bolden.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0715_ladeelaunch.mp4" length="472209165" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0715-ladee-launch</guid>
+ <pubDate>Wed, 13 Nov 2013 12:55 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Mission X 2013</title>
+ <link>http://www.nasa.gov/nasa-edge/0714-mission-x-2013</link>
+ <description>NASA EDGE joins the Mission X Team as they finish another successful year of training like an astronaut.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0714_missionx2013.mp4" length="403675902" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0714-mission-x-2013</guid>
+ <pubDate>Fri, 18 Oct 2013 14:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Regolith Mining Competition</title>
+ <link>http://www.nasa.gov/nasa-edge/0713-regolith-mining-competition</link>
+ <description>Check out highlights from NASA EDGE&#039;s live coverage of the 2013 Regolith Mining Competition and let the regolith fly!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0713_regolith_mining_competition.mp4" length="442764063" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0713-regolith-mining-competition</guid>
+ <pubDate>Mon, 16 Sep 2013 13:56 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Orion Service Module</title>
+ <link>http://www.nasa.gov/nasa-edge/0712-orion-service-module</link>
+ <description>NASA EDGE interviews Bernardo Patti about the Orion Service Module being built by the European Space Agency.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0712_orion_service_module.mp4" length="157776474" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0712-orion-service-module</guid>
+ <pubDate>Fri, 16 Aug 2013 14:09 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: CubeSat Workshop</title>
+ <link>http://www.nasa.gov/nasa-edge/0711-cubesat-workshop</link>
+ <description>NASA EDGE and special guest host Tiffany Nail explore the latest developments in nanosat technology at the 10th Annual CubeSat Development Workshop. &amp;nbsp;MagnetoStar-1, however, still won&#039;t fly.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0711_cubesatworkshop.mp4" length="466681742" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0711-cubesat-workshop</guid>
+ <pubDate>Fri, 02 Aug 2013 14:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Planetary Defense</title>
+ <link>http://www.nasa.gov/nasa-edge/0710-planetary-defense</link>
+ <description>NASA EDGE and Special Guest Geoff Notkin speak with NASA Scientists and experts around the world at the 2013 Planetary Defense Conference about Near Earth Objects and their potential threat to Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0710_planetary_defense.mp4" length="460951992" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0710-planetary-defense</guid>
+ <pubDate>Thu, 25 Jul 2013 14:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Space Launch System</title>
+ <link>http://www.nasa.gov/nasa-edge/0709-space-launch-system</link>
+ <description>NASA EDGE checks out NASA&#039;s new Space Launch System [SLS] which will help astronauts explore beyond Low Earth Orbit. &amp;nbsp;Will the Co-Host&#039;s SLS pass the test?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0709_sls.mp4" length="417196802" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0709-space-launch-system</guid>
+ <pubDate>Fri, 17 May 2013 14:57 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Understanding Aurora with VISIONS</title>
+ <link>http://www.nasa.gov/nasa-edge/0708-understanding-aurora-with-visions</link>
+ <description>NASA EDGE Host Chris Giersch talks with NASA Heliophysicist Doug Rowland about how VISIONS will help scientists better understand auroras.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0708_understandingauroras.mp4" length="116121240" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0708-understanding-aurora-with-visions</guid>
+ <pubDate>Fri, 10 May 2013 15:08 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Go, No Go for Launch</title>
+ <link>http://www.nasa.gov/nasa-edge/0707-go-no-go-for-launch</link>
+ <description>NASA EDGE talks to Sarah Daugherty, a Wallops Flight Facility Test Director, about what it takes to manage a successful rocket launch.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0707_golaunch.mp4" length="138655210" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0707-go-no-go-for-launch</guid>
+ <pubDate>Wed, 08 May 2013 15:27 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Solar Max-Storm Warning</title>
+ <link>http://www.nasa.gov/nasa-edge/0706-solar-max-storm-warning</link>
+ <description>NASA EDGE presents highlights from their live coverage of this year&#039;s celebration, Sun-Earth Days: Solar Max-Storm Warning.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0706_sed2013.mp4" length="471291415" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0706-solar-max-storm-warning</guid>
+ <pubDate>Wed, 01 May 2013 16:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Magnetic Reconnection</title>
+ <link>http://www.nasa.gov/nasa-edge/0705-nasa-edge-magnetic-reconnection</link>
+ <description>NASA EDGE revisits MMS for an in depth look at the greatest mystery of the magnetosphere; magnetic reconnection.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0705_magneticreconnection.mp4" length="471366338" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0705-nasa-edge-magnetic-reconnection</guid>
+ <pubDate>Thu, 28 Mar 2013 16:23 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: CubeSat Launch Initiative</title>
+ <link>http://www.nasa.gov/nasa-edge/0704-cubesat-launch-initiative</link>
+ <description>Find out how NASA is helping students fly their own satellites. &amp;nbsp;Plus, the Co-Host pitches his very own CubeSat concept.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0704_cubesat.mp4" length="456470158" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0704-cubesat-launch-initiative</guid>
+ <pubDate>Thu, 14 Mar 2013 16:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Technology Demonstration Mission - Part 1</title>
+ <link>http://www.nasa.gov/nasa-edge/0703-technology-demonstration-mission-part-1</link>
+ <description>NASA EDGE takes the role of investigator to an entirely new level as they examine three of NASA&#039;s Technology Demonstration Missions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0703_tdm_1.mp4" length="471468967" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0703-technology-demonstration-mission-part-1</guid>
+ <pubDate>Mon, 11 Mar 2013 10:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: NASA Lowers the Sonic Boom</title>
+ <link>http://www.nasa.gov/nasa-edge/0702-nasa-lowers-the-sonic-boom</link>
+ <description>NASA wants to reduce the impact of the &quot;boom&quot; in super sonic flight and make traveling beyond the speed of sound more common. &amp;nbsp;Find out how on NASA EDGE.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0702_sonicboom.mp4" length="211886865" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0702-nasa-lowers-the-sonic-boom</guid>
+ <pubDate>Thu, 28 Feb 2013 10:36 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Astronomy Expo</title>
+ <link>http://www.nasa.gov/nasa-edge/0701-astronomy-expo</link>
+ <description>NASA EDGE visits the Arizona Science and Astronomy Expo while the Co-Host focuses on preventing the mysterious Ocular Ring.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0701_astronomyexpo.mp4" length="444659115" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0701-astronomy-expo</guid>
+ <pubDate>Wed, 23 Jan 2013 09:42 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Orion Exploration Flight Test-1</title>
+ <link>http://www.nasa.gov/nass-edge/0621-orion-exploration-flight-test-1</link>
+ <description>NASA EDGE talks Orion and its preparation for Exploration Flight Test-1 [EFT-1] while the Co-Host explores an interesting new partnership.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0621_orioneft1_0.mp4" length="415993883" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nass-edge/0621-orion-exploration-flight-test-1</guid>
+ <pubDate>Fri, 14 Dec 2012 09:53 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Lesa Roe</title>
+ <link>http://www.nasa.gov/nasa-edge/0620-lesa-roe</link>
+ <description>NASA EDGE, or at least part of the NASA EDGE team, interviews Lesa Roe about NASA&#039;s role in Human Space exploration.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0620_lesaroe.mp4" length="134029311" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0620-lesa-roe</guid>
+ <pubDate>Wed, 21 Nov 2012 12:54 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Needs Your Vote</title>
+ <link>http://www.nasa.gov/nasa-edge/0619-needs-your-vote</link>
+ <description>NASA EDGE has been nominated for Best Video Podcast. &amp;nbsp;Find out how you can help them win from Luke Wilson. &amp;nbsp;Go online and vote.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0619_nasaedgevote_promo.mp4" length="19158523" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0619-needs-your-vote</guid>
+ <pubDate>Fri, 02 Nov 2012 14:05 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MSL Curiosity Landing</title>
+ <link>http://www.nasa.gov/nasa-edge/0618-msl-curiosity-landing</link>
+ <description>Enjoy highlights from NASA EDGE&#039;s live coverage of Curiosity&#039;s landing on Mars from MediaCityUK in Salford, United Kingdom.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0618_curiositylanding.mp4" length="450817431" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0618-msl-curiosity-landing</guid>
+ <pubDate>Tue, 09 Oct 2012 14:22 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MSL Sample Analysis at Mars</title>
+ <link>http://www.nasa.gov/nasa-edge/0617-msl-sample-analysis-at-mars</link>
+ <description>NASA EDGE learns about the Sample Analysis at Mars [SAM] instrument currently operating on the Martian surface.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0617_msl_sampleanalysis.mp4" length="209142086" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0617-msl-sample-analysis-at-mars</guid>
+ <pubDate>Fri, 05 Oct 2012 14:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MSL Life on Mars</title>
+ <link>http://www.nasa.gov/nasa-edge/0616-msl-life-on-mars</link>
+ <description>Jim Garvin discusses Curiosity&#039;s unique opportunity to learn about Mars and if life could have existed on the red planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0616_msl_lifeonmars.mp4" length="173882598" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0616-msl-life-on-mars</guid>
+ <pubDate>Mon, 01 Oct 2012 14:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Transit of Venus</title>
+ <link>http://www.nasa.gov/nasa-edge/0615-transit-of-venus</link>
+ <description>NASA EDGE covers the Transit of Venus from NASA&#039;s Infrared Telescope Facility atop Mauna Kea in Hawaii.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0615_transitofvenus.mp4" length="457352385" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0615-transit-of-venus</guid>
+ <pubDate>Mon, 24 Sep 2012 16:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MSL Mobility</title>
+ <link>http://www.nasa.gov/nasa-edge/0614-msl-mobility</link>
+ <description>Franklin vistis NASA&#039;s Jet Propulsion Laboratory to talk to Jaret Matthews about Curiosity&#039;s unique robotic capability to explore the Martian surface.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0614_mslmobility.mp4" length="129738453" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0614-msl-mobility</guid>
+ <pubDate>Thu, 13 Sep 2012 14:32 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Biogeochemistry with Curiosity</title>
+ <link>http://www.nasa.gov/nasa-edge/0613-biogeochemistry-with-curiosity</link>
+ <description>NASA&#039;s Jennifer Eigenbrode talks with NASA EDGE about the organic Biogeochemistry Curiosity is tackling on the surface of Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0613_biogeochemistry.mp4" length="139129461" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0613-biogeochemistry-with-curiosity</guid>
+ <pubDate>Wed, 05 Sep 2012 14:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Dust Project</title>
+ <link>http://www.nasa.gov/nasa-edge/0612-dust-project</link>
+ <description>Hampton University teams up with NASA to help teachers, students and NASA EDGE understand the relationship between dust and climate change.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0612_dust.mp4" length="369084750" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0612-dust-project</guid>
+ <pubDate>Mon, 27 Aug 2012 09:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Mars Yard</title>
+ <link>http://www.nasa.gov/nasa-edge/0611-mars-yard</link>
+ <description>NASA EDGE visits the Mars Yard at NASA&#039;s Jet Propulsion Laboratory to learn more about Curiosity and how it will function on the red planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0611_marsyard.mp4" length="170194790" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0611-mars-yard</guid>
+ <pubDate>Wed, 22 Aug 2012 15:06 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MEDLI</title>
+ <link>http://www.nasa.gov/nasa-edge/0610-medli</link>
+ <description>NASA EDGE gets underneath the heat shield to learn about MEDLI, the Mars Science Laboratory Entry Descent and Landing Instrumentation.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0610_medli.mp4" length="166550567" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0610-medli</guid>
+ <pubDate>Thu, 16 Aug 2012 15:06 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Lunabotics 2012</title>
+ <link>http://www.nasa.gov/nasa-edge/0609-lunabotics-2012</link>
+ <description>NASA EDGE presents highlights of the 2012 Lunabotics Mining Competition from the Kennedy Space Center Visitors Complex.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0609_lunabotics2012.mp4" length="465555722" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0609-lunabotics-2012</guid>
+ <pubDate>Sat, 21 Jul 2012 11:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Venus Transit with Richard Vondrack</title>
+ <link>http://www.nasa.gov/nasa-edge/0608-venus-transit-with-richard-vondrack</link>
+ <description>NASA Planetary Scientist, Richard Vondrack, discusses the dynamic relationship between the Sun and the planets in our Solar System with NASA EDGE.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0608_transitofvenus_richardvondrack.mp4" length="95183231" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0608-venus-transit-with-richard-vondrack</guid>
+ <pubDate>Thu, 05 Jul 2012 14:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Venus Transit with Dean Pesnell</title>
+ <link>http://www.nasa.gov/nasa-edge/0607-venus-transit-with-dean-pesnell</link>
+ <description>Solar Physicist, Dean Pesnell, talks about the Solar Dynamic Observatory (SDO) and the Transit of Venus with the NASA EDGE.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0607_transitofvenus_deanpesnell.mp4" length="106793359" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0607-venus-transit-with-dean-pesnell</guid>
+ <pubDate>Thu, 28 Jun 2012 14:48 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Venus Transit with James Garvin</title>
+ <link>http://www.nasa.gov/nasa-edge/0606-venus-transit-with-james-garvin</link>
+ <description>Jim Garvin, Chief Scientist from NASA Goddard Space Flight Center, talks Transit of Venus with NASA EDGE.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0606_transitofvenus_jimgarvin.mp4" length="110524906" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0606-venus-transit-with-james-garvin</guid>
+ <pubDate>Tue, 26 Jun 2012 14:58 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Venus Transit with Gordon Chin</title>
+ <link>http://www.nasa.gov/nasa-edge/0605-venus-transit-with-gordon-chin</link>
+ <description>NASA EDGE interviews NASA Planetary Scientist Gordon Chin for the 2012 Transit of Venus.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0605_transitofvenus_gordonchin.mp4" length="137410658" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0605-venus-transit-with-gordon-chin</guid>
+ <pubDate>Fri, 22 Jun 2012 15:05 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Venus Transit with Jim Green</title>
+ <link>http://www.nasa.gov/nasa-edge/0604-venus-transit-with-jim-green</link>
+ <description>NASA EDGE Interviews Jim Green, NASA&#039;s Director of Planetary Science, ahead of the Transit of Venus.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0604_transitofvenus_jimgreen.mp4" length="109569150" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0604-venus-transit-with-jim-green</guid>
+ <pubDate>Wed, 20 Jun 2012 15:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Mission X 2012</title>
+ <link>http://www.nasa.gov/nasa-edge/0603-mission-x-2012</link>
+ <description>NASA EDGE visits Cumberland School in East London for Mission X 2012!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0603_missionx2012.mp4" length="456567610" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0603-mission-x-2012</guid>
+ <pubDate>Sat, 19 May 2012 15:23 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MMS Propulsion</title>
+ <link>http://www.nasa.gov/nasa-edge/0602-mms-propulsion</link>
+ <description>NASA EDGE looks at the development of the propulsion system for the Magnetospheric MultiScale Mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0602_mmspropulsion.mp4" length="206350131" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0602-mms-propulsion</guid>
+ <pubDate>Fri, 20 Apr 2012 15:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Charlie Bolden</title>
+ <link>http://www.nasa.gov/nasa-edge/0601-charlie-bolden</link>
+ <description>NASA EDGE races to interview NASA Administrator Charlie Bolden.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0601_charliebolden.mp4" length="329407026" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0601-charlie-bolden</guid>
+ <pubDate>Mon, 19 Mar 2012 15:44 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: 2011 Recap</title>
+ <link>http://www.nasa.gov/nasa-edge/0515-2011-recap</link>
+ <description>NASA EDGE combines recreation and research as they look back over 2011.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0515_2011recap.mp4" length="299612905" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0515-2011-recap</guid>
+ <pubDate>Mon, 19 Dec 2011 09:22 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: 2011 Green Flight Challenge</title>
+ <link>http://www.nasa.gov/nasa-edge/0514-2011-green-flight-challenge</link>
+ <description>NASA EDGE covers the Green Flight Challenge and witnesses an aviation first, true electric flight!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0514_greenflight.mp4" length="476025711" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0514-2011-green-flight-challenge</guid>
+ <pubDate>Fri, 18 Nov 2011 09:39 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: MMS</title>
+ <link>http://www.nasa.gov/nasa-edge/0513-mms</link>
+ <description>Finally, NASA has a mission dedicated to specifically explore the mysteries of Magnetospherence; the Magnetospheric MultiScale Mission [MMS]</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0513_mms.mp4" length="197571568" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0513-mms</guid>
+ <pubDate>Mon, 07 Nov 2011 09:55 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Orion Drop Test</title>
+ <link>http://www.nasa.gov/nasa-edge/0512-orion-drop-test</link>
+ <description>NASA keeps the pool open all year round. &amp;nbsp;Time for Orion to make another splash!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0512_oriondroptest.mp4" length="147300270" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0512-orion-drop-test</guid>
+ <pubDate>Thu, 20 Oct 2011 11:05 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: DISCOVER-AQ</title>
+ <link>http://www.nasa.gov/nasa-edge/0511-discover-aq</link>
+ <description>Aerosols can run, but they can&#039;t hide from DISCOVER-AQ&#039;s bevy of data gathering gizmos.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0511_discoveraq.mp4" length="221814779" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0511-discover-aq</guid>
+ <pubDate>Fri, 16 Sep 2011 11:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Live STS-135</title>
+ <link>http://www.nasa.gov/nasa-edge/0510-live-sts-135</link>
+ <description>NASA EDGE covers the historic final launch of the Space Shuttle Atlantis!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0510_sts135.mp4" length="447886713" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0510-live-sts-135</guid>
+ <pubDate>Thu, 25 Aug 2011 12:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: X Hab Competition</title>
+ <link>http://www.nasa.gov/nasa-edge/0509-x-hab-competition</link>
+ <description>Interested in adding a second level to your Habitat Demonstration Unit? &amp;nbsp;Check out the awesome student designs. &amp;nbsp;All Co-Host approved!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0509_xhab.mp4" length="137100235" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0509-x-hab-competition</guid>
+ <pubDate>Sat, 13 Aug 2011 12:54 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Innovative Technologies</title>
+ <link>http://www.nasa.gov/nasa-edge/0508-innovative-technologies</link>
+ <description>Join NASA EDGE as they explore technologies currently being developed by NASA and their partners.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0508_innovativetech.mp4" length="348317591" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0508-innovative-technologies</guid>
+ <pubDate>Fri, 22 Jul 2011 13:35 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Live Lunabotics Mining Competition 2011</title>
+ <link>http://www.nasa.gov/nasa-edge/0507-live-lunabotics-mining-competition-2011</link>
+ <description>Lunar regolith simulant flies as NASA EDGE covers the 2nd annual Lunabotics Mining Competition!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0507_lunabotics2011.mp4" length="475660937" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0507-live-lunabotics-mining-competition-2011</guid>
+ <pubDate>Fri, 24 Jun 2011 09:51 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Live STS-134</title>
+ <link>http://www.nasa.gov/nasa-edge/0506-live-sts-134</link>
+ <description>NASA EDGE covers the 25th and final launch of Space Shuttle Endeavour!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0506_sts134.mp4" length="462164676" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0506-live-sts-134</guid>
+ <pubDate>Fri, 10 Jun 2011 10:08 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Mission X</title>
+ <link>http://www.nasa.gov/nasa-edge/0505-mission-x</link>
+ <description>NASA EDGE learns how Mission X helps kids around the world learn about fitness while training like an astronaut.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0505_missionx.mp4" length="136013224" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0505-mission-x</guid>
+ <pubDate>Thu, 21 Apr 2011 10:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Live Sun-Earth Day 2011</title>
+ <link>http://www.nasa.gov/nasa-edge/0504-live-sun-earth-day-2011</link>
+ <description>NASA EDGE celebrates Sun Earth Day 2011 with the twitterazzi and a few of our favorite solar scientists! &amp;nbsp;SPF approved.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0504_sed2011.mp4" length="472890374" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0504-live-sun-earth-day-2011</guid>
+ <pubDate>Thu, 07 Apr 2011 10:36 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Live Transit of Venus Promo</title>
+ <link>http://www.nasa.gov/nasa-edge/0503-live-transit-of-venus-promo</link>
+ <description>NASA EDGE promotes their live coverage for a major, unique and predictable astronamical event in 2012!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0503_venustransit_promo.mp4" length="18951582" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0503-live-transit-of-venus-promo</guid>
+ <pubDate>Tue, 22 Mar 2011 10:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Space Life Sciences Lab</title>
+ <link>http://www.nasa.gov/nasa-edge/0502-space-life-sciences-lab</link>
+ <description>NASA EDGE prepares for life in Space by investigating dust mitigation and interstellar gardening at NASA Kennedy&#039;s Space Life Sciences Lab.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0502_spacelifescience.mp4" length="202015432" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0502-space-life-sciences-lab</guid>
+ <pubDate>Tue, 15 Feb 2011 12:31 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Radiation Belt Storm Probes</title>
+ <link>http://www.nasa.gov/nasa-edge/0501-radiation-belt-storm-probes</link>
+ <description>NASA EDGE investigates NASA&#039;s most ambitious look at the Earth&#039;s radiation belt to date; the Radiation Belt Storm Probes Mission.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0501_rbsp.mp4" length="172112043" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0501-radiation-belt-storm-probes</guid>
+ <pubDate>Tue, 18 Jan 2011 12:41 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: 2010 Recap</title>
+ <link>http://www.nasa.gov/nasa-edge/0415-2010-recap</link>
+ <description>NASA EDGE looks back at the highlights of 2010 and makes a few key goals for the new year.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0415_2010recap.mp4" length="456158316" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0415-2010-recap</guid>
+ <pubDate>Fri, 17 Dec 2010 15:03 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: A-Train</title>
+ <link>http://www.nasa.gov/nasa-edge/0414-a-train</link>
+ <description>Jump on board NASA&#039;s A-Train, the premier constellation of Earth observing satellites.&amp;nbsp;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0414_atrain.mp4" length="454760378" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0414-a-train</guid>
+ <pubDate>Fri, 19 Nov 2010 15:12 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Hurricane GRIP</title>
+ <link>http://www.nasa.gov/nasa-edge/0413-hurricane-grip</link>
+ <description>NASA EDGE gets a GRIP on tropical storms and hurricane development.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0413_hurricanegrip.mp4" length="448809712" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0413-hurricane-grip</guid>
+ <pubDate>Tue, 19 Oct 2010 16:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: D-RATS 2010</title>
+ <link>http://www.nasa.gov/nasa-edge/0412-d-rats-2010</link>
+ <description>This year&#039;s D-RATS test features two rovers. &amp;nbsp;And as everyone knows, twice the science equals twice the fun.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0412_dratslive2010.mp4" length="462455155" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0412-d-rats-2010</guid>
+ <pubDate>Mon, 04 Oct 2010 16:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Future of Aeronautics</title>
+ <link>http://www.nasa.gov/nasa-edge/0411-future-of-aeronautics</link>
+ <description>The future of Aeronautics at NASA involves excellent in-flight and environmental upgrades... however, no drink coupons - not even for the Co-Host.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0411_futureaero.mp4" length="455955579" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0411-future-of-aeronautics</guid>
+ <pubDate>Fri, 27 Aug 2010 09:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: STORRM</title>
+ <link>http://www.nasa.gov/nasa-edge/0410-storrm</link>
+ <description>It isn&#039;t exactly ISS valet service, but NASA STORRM should provide major docking improvements for future flights to the Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0410_storrm.mp4" length="215730284" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0410-storrm</guid>
+ <pubDate>Wed, 18 Aug 2010 10:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: D-RATS 2010 Trailer</title>
+ <link>http://www.nasa.gov/nasa-edge/0409-d-rats-2010-trailer</link>
+ <description>NASA EDGE will be webcasting live from Black Point Lava Flow, AZ during this year&#039;s analog test. More details soon!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0409_desertrats_promo.mp4" length="16794461" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0409-d-rats-2010-trailer</guid>
+ <pubDate>Wed, 18 Aug 2010 09:34 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Extreme Analogs 2</title>
+ <link>http://www.nasa.gov/nasa-edge/0408-extreme-analogs-2</link>
+ <description>NASA EDGE immerses themselves in another extreme analog, NEEMO.  It isn&#039;t quite 20,000 leagues, but it is clearly underwater.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0408_neemo.mp4" length="453192481" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0408-extreme-analogs-2</guid>
+ <pubDate>Fri, 30 Jul 2010 10:03 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Lunabotics Mining Competition 2010</title>
+ <link>http://www.nasa.gov/nasa-edge/0407-lunabotics-mining-competition-2010</link>
+ <description>NASA EDGE visits the Astronaut Hall of Fame NASA&#039;s 1st Annual Lunabotics Mining Competition</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0407_lunabotics2010.mp4" length="34586591" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0407-lunabotics-mining-competition-2010</guid>
+ <pubDate>Mon, 28 Jun 2010 10:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Orion Pad Abort 1 Flight Test</title>
+ <link>http://www.nasa.gov/nasa-edge/0406-orion-pad-abort-1-flight-test</link>
+ <description>High winds didn&#039;t dampen the Orion team&#039;s enthusiasm or the succes of the Orion Pad Abort 1 Flight Test at White Sands Missile Range, New Mexico.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0406_padabortflighttest.mp4" length="481730885" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0406-orion-pad-abort-1-flight-test</guid>
+ <pubDate>Tue, 08 Jun 2010 10:46 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Robonaut 2</title>
+ <link>http://www.nasa.gov/nasa-edge/0405-robonaut-2</link>
+ <description>Jacky and Franklin go behind the scenes with Robonaut 2. &amp;nbsp;They even learn the super secret Robonaut handshake.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0405_robonaut2.mp4" length="133688704" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0405-robonaut-2</guid>
+ <pubDate>Mon, 19 Apr 2010 11:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Sun-Earth Day 2010</title>
+ <link>http://www.nasa.gov/nasa-edge/0404-sun-earth-day-2010</link>
+ <description>Catch the best of NASA EDGE Live from this year&#039;s culminating solar celebratory event, Sun-Earth Day 2010.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0404_sed2010.mp4" length="450310467" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0404-sun-earth-day-2010</guid>
+ <pubDate>Fri, 02 Apr 2010 12:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Fahrenheit 6000</title>
+ <link>http://www.nasa.gov/nasa-edge/0403-fahrenheit-6000</link>
+ <description>NASA EDGE talks with both NASA and ATK engineers about the Development Motor Test Firing in Promontory, Utah.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0403_fahrenheit6000.mp4" length="185430492" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0403-fahrenheit-6000</guid>
+ <pubDate>Fri, 12 Mar 2010 11:41 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Orion Launch Abort System</title>
+ <link>http://www.nasa.gov/nasa-edge/0402-orion-launch-abort-system</link>
+ <description>NASA EDGE previews the development of Orion&#039;s Launch Abort System and discovers Chris&#039;s fascination with smocks.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0402_launchabort.mp4" length="455193400" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0402-orion-launch-abort-system</guid>
+ <pubDate>Wed, 10 Feb 2010 12:16 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Mercury Mission Control</title>
+ <link>http://www.nasa.gov/nasa-edge/0401-mercury-mission-control</link>
+ <description>NASA EDGE visits the brilliantly restored Mercury Mission Control Center exhibit at the Kennedy Space Center Visitor Complex in Florida.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0401_mmc.mp4" length="180027219" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0401-mercury-mission-control</guid>
+ <pubDate>Wed, 06 Jan 2010 12:31 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Extreme Analogs</title>
+ <link>http://www.nasa.gov/nasa-edge/0316-extreme-analogs</link>
+ <description>NASA EDGE follows the Desert RATS around Black Point Lava Flow, AZ during their 14 day analog field test of the Lunar Electric Rover [LER].</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0316_extremeanaogs1.mp4" length="458900485" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0316-extreme-analogs</guid>
+ <pubDate>Mon, 23 Nov 2009 12:53 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Ares 1-X Live Part 2</title>
+ <link>http://www.nasa.gov/nasa-edge/0315-ares-1-x-live-part-2</link>
+ <description>After multiple delays, Ares 1-X makes its historic flight live on NASA EDGE (Part 2).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0315_ares1-xlive_2.mp4" length="438304244" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0315-ares-1-x-live-part-2</guid>
+ <pubDate>Fri, 06 Nov 2009 12:41 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Ares 1-X Live Part 1</title>
+ <link>http://www.nasa.gov/nasa-edge/0314-ares-1-x-live-part-1</link>
+ <description>Chris, Blair, Franklin and Jacky cover the historic launch of Ares 1-X [part 1].</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0314_ares1-xlive_1.mp4" length="439495216" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0314-ares-1-x-live-part-1</guid>
+ <pubDate>Fri, 06 Nov 2009 09:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Hometown Heroes</title>
+ <link>http://www.nasa.gov/nasa-edge/0313-hometown-heroes</link>
+ <description>NASA EDGE joins Astronaut Mike Massimino and Twitter phenomenon (@Astro_Mike) as he returns home to the Big Apple to talk about STS-125.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0313_hometownhero.mp4" length="348607022" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0313-hometown-heroes</guid>
+ <pubDate>Fri, 23 Oct 2009 14:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Apollo 40th After Party</title>
+ <link>http://www.nasa.gov/nasa-edge/0312-apollo-40th-after-party</link>
+ <description>NASA EDGE crashes the Apollo XII anniversary celebration for a little after party rocket experience.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0312_40thafterparty.mp4" length="173125053" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0312-apollo-40th-after-party</guid>
+ <pubDate>Mon, 24 Aug 2009 14:24 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: SDO</title>
+ <link>http://www.nasa.gov/nasa-edge/0311-sdo</link>
+ <description>It isn&#039;t safe to stare at the Sun for you or the NASA EDGE team, but SDO will be able to do it with ease 24/7.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0311_sdo.mp4" length="161297547" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0311-sdo</guid>
+ <pubDate>Mon, 17 Aug 2009 14:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Apollo XI 40th Anniversary</title>
+ <link>http://www.nasa.gov/nasa-edge/0310-apollo-xi-40th-anniversary</link>
+ <description>NASA EDGE celebrates the 40th anniversary for Apollo XI by interviewing NASA Apollo Engineer Ed Kilgore.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0310_apollo40th.mp4" length="328847252" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0310-apollo-xi-40th-anniversary</guid>
+ <pubDate>Thu, 16 Jul 2009 14:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Orion Sims</title>
+ <link>http://www.nasa.gov/nasa-edge/0309-orion-sims</link>
+ <description>Whether you&#039;re working on Orion Feng Shui or docking with the ISS, NASA EDGE explores the latest in Orion Simulators from Lockheed Martin and NASA.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0309_orionsim.mp4" length="446003121" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0309-orion-sims</guid>
+ <pubDate>Wed, 08 Jul 2009 14:52 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Shuttle IR Imaging</title>
+ <link>http://www.nasa.gov/nasa-edge/0308-shuttle-ir-imaging</link>
+ <description>Far from point and shoot, HYTHIRM&#039;s Cast Glance Crew have turned shooting infrared images of the Shuttle into an art form.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0308_shuttleir.mp4" length="284296536" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0308-shuttle-ir-imaging</guid>
+ <pubDate>Thu, 18 Jun 2009 15:03 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: STS-125</title>
+ <link>http://www.nasa.gov/nasa-edge/0307-sts-125</link>
+ <description>From Shuttle launch to breakthrough research during landings, NASA EDGE covers the latest, greatest mission to Hubble; STS-125.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0307_sts125.mp4" length="484776977" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0307-sts-125</guid>
+ <pubDate>Tue, 19 May 2009 09:23 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: LRO LCROSS</title>
+ <link>http://www.nasa.gov/nasa-edge/0306-lro-lcross</link>
+ <description>NASA EDGE taks a close look at NASA&#039;s first step in the return to the Moon, LRO and LCROSS. &amp;nbsp;Chris, Blair and Franklin interview both teams and round out the show with a little bit of Launch Services Program.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0306_lrolcross.mp4" length="463459012" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0306-lro-lcross</guid>
+ <pubDate>Mon, 04 May 2009 09:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Mission Madness Wrap Up</title>
+ <link>http://www.nasa.gov/nasa-edge/0305-mission-madness-wrap-up</link>
+ <description>NASA EDGE announces the winner for the 2009 Mission Madness Tournament</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0305_madnesswrapup.mp4" length="121757012" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0305-mission-madness-wrap-up</guid>
+ <pubDate>Wed, 08 Apr 2009 09:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Ares 1-X Crew Module and Launch Abort System</title>
+ <link>http://www.nasa.gov/nasa-edge/0304-ares-1-x-crew-module-and-launch-abort-system</link>
+ <description>Blair and Franklin take a quick look at the Crew Module and Launch Abort System for Ares 1-X with Deputy Project Manager Jonathan Cruz.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0304_ares1-xcmlas.mp4" length="304482187" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0304-ares-1-x-crew-module-and-launch-abort-system</guid>
+ <pubDate>Thu, 02 Apr 2009 09:58 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: 2009 NASA Mission Madness</title>
+ <link>http://www.nasa.gov/nasa-edge/0303-2009-nasa-mission-madness</link>
+ <description>NASA EDGE presents the 2009 NASA Mission Madness Vodcast with special guests Miles O&#039;Brien, Keith Cowing and Melvin Ferebee. &amp;nbsp;Let the trash talking begin as we determine NASA&#039;s greatest mission of all time.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0303_missionmadness.mp4" length="337427870" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0303-2009-nasa-mission-madness</guid>
+ <pubDate>Mon, 09 Mar 2009 10:07 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Constellation</title>
+ <link>http://www.nasa.gov/nasa-edge/0302-constellation</link>
+ <description>NASA EDGE heads to NASA Kennedy to take a look at several pieces of the Constellation program. Plus viewer voice mail with Sten the Intern.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0302_constellation.mp4" length="475178231" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0302-constellation</guid>
+ <pubDate>Wed, 18 Feb 2009 09:34 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: SPR</title>
+ <link>http://www.nasa.gov/nasa-edge/0301-spr</link>
+ <description>Chris interviews the NASA team working on the Small Pressurized Rover [SPR]. &amp;nbsp;Blair is lost in No-CoHost, AZ.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0301_spr.mp4" length="315898709" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0301-spr</guid>
+ <pubDate>Thu, 15 Jan 2009 09:55 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Moses Lake</title>
+ <link>http://www.nasa.gov/nasa-edge/0219-moses-lake</link>
+ <description>Chris, Blair and Franklin visit the regatta of regolith at Moses Lake to check out NASA&#039;s latest lunar lineup.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0219_moseslake.mp4" length="365307030" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0219-moses-lake</guid>
+ <pubDate>Fri, 12 Dec 2008 15:12 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Lunar Robot Arm</title>
+ <link>http://www.nasa.gov/nasa-edge/0218-lunar-robot-arm</link>
+ <description>It slices! &amp;nbsp;It dices! &amp;nbsp;Not really, but the Lunar Surface Manipulator System (LSMS), or NASA&#039;s Lunar Robotic Arm as the Co-Host calls it, is one potential workhorse for NASA&#039;s Lunar Outpost.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0218_lunarrobotarm.mp4" length="205460308" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0218-lunar-robot-arm</guid>
+ <pubDate>Mon, 17 Nov 2008 15:52 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Physics Day</title>
+ <link>http://www.nasa.gov/nasa-edge/0217-physics-day</link>
+ <description>NASA EDGE and a crack team of physicists from NASA Glenn Research Center visit Cedar Point Amusement Park to conduct Physics experiments and track down superheroes.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0217_pyshicsday.mp4" length="268913746" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0217-physics-day</guid>
+ <pubDate>Wed, 29 Oct 2008 17:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: eZLS</title>
+ <link>http://www.nasa.gov/nasa-edge/0216-ezls</link>
+ <description>NASA EDGE does a few laps on the ISS, the Moon and Mars with NASA Glenn Research Center&#039;s Exercise Countermeasures Team.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0216_ezls.mp4" length="298623132" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0216-ezls</guid>
+ <pubDate>Thu, 09 Oct 2008 17:16 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Folklife Festival</title>
+ <link>http://www.nasa.gov/nasa-edge/0215-folklife-festival</link>
+ <description>NASA EDGE celebrates NASA&#039;s 50th anniversary at the Smithsonian Folklife Festival in Washington, DC with interviews, an ESA and a unique lunar rover race.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0215_folklife.mp4" length="304992550" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0215-folklife-festival</guid>
+ <pubDate>Tue, 16 Sep 2008 10:08 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Lunar Hab</title>
+ <link>http://www.nasa.gov/nasa-edge/0214-lunar-hab</link>
+ <description>NASA EDGE visits one of NASA&#039;s lunar habitat concepts. Chris conducts an interview with Karen Witley, while Blair conducts his own unique research.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0214_lunarhab.mp4" length="170554260" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0214-lunar-hab</guid>
+ <pubDate>Tue, 26 Aug 2008 10:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Last Mission to Hubble</title>
+ <link>http://www.nasa.gov/nasa-edge/0213-last-mission-to-hubble</link>
+ <description>NASA EDGE features the Last Mission to Hubble with an inside and outside Hubble quiz, an interview with a Hubble engineer, and insight from the STS-125 astronauts.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0213_hubblemission.mp4" length="214120996" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0213-last-mission-to-hubble</guid>
+ <pubDate>Tue, 12 Aug 2008 10:54 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Experience Aviation</title>
+ <link>http://www.nasa.gov/nasa-edge/0212-experience-aviation</link>
+ <description>NASA EDGE visits Experience Aviation with Barrington Irving. Jacky interviews Barrington while Blair and Franklin try to compete in their flight simulators.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0212_expaviation.mp4" length="167739072" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0212-experience-aviation</guid>
+ <pubDate>Thu, 31 Jul 2008 14:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Yuri&#039;s Night</title>
+ <link>http://www.nasa.gov/nasa-edge/0211-yuris-night</link>
+ <description>NASA EDGE celebrates Yuri Gagarin’s groundbreaking space flight with their friends at NASA Ames. Franklin introduces a new segment: Shuttle Bay Confessions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0211_yurisnight.mp4" length="249106622" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0211-yuris-night</guid>
+ <pubDate>Fri, 11 Jul 2008 14:34 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: The Great Moonbuggy Race</title>
+ <link>http://www.nasa.gov/nasa-edge/0210-the-great-moonbuggy-race</link>
+ <description>NASA EDGE, along with 60 plus high school and college teams, braved the elements and the obstacles for NASA Marshall Space Flight Center&#039;s Annual Great Moonbuggy Race.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0210_moonbuggyrace2.mp4" length="246803202" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0210-the-great-moonbuggy-race</guid>
+ <pubDate>Wed, 25 Jun 2008 14:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Daytona 500</title>
+ <link>http://www.nasa.gov/nasa-edge/0209-daytona-500</link>
+ <description>NASA EDGE celebrates dual 50th’s: NASA &amp; and the Daytona 500. And we have interviews with NASCAR Driver Kurt Busch and NASA Astronauts Drew Feustel and Mike Good.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0209_daytona500.mp4" length="154482971" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0209-daytona-500</guid>
+ <pubDate>Tue, 17 Jun 2008 14:59 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: The Future Forum en Espanol</title>
+ <link>http://www.nasa.gov/nasa-edge/0208-the-future-forum-en-espanol</link>
+ <description>NASA EDGE Live The Future Forum, en Espanol.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0208_futureforum_spanish.mp4" length="162219540" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0208-the-future-forum-en-espanol</guid>
+ <pubDate>Wed, 14 May 2008 15:08 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Live Future Forum</title>
+ <link>http://www.nasa.gov/nasa-edge/0208-live-future-forum</link>
+ <description>Blair takes the helm at NASA&#039;s Future Forum. Can Franklin and Jacky bail him out?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0208_futureforum.mp4" length="162122914" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0208-live-future-forum</guid>
+ <pubDate>Tue, 13 May 2008 15:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Winter X 12</title>
+ <link>http://www.nasa.gov/nasa-edge/0207-winter-x-12</link>
+ <description>Whether you&#039;re &amp;nbsp;an Astronaut or an X Games Athlete, everyone needs a great support crew.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0207_winterx12.mp4" length="140482128" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0207-winter-x-12</guid>
+ <pubDate>Tue, 06 May 2008 15:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: The Orion FTA</title>
+ <link>http://www.nasa.gov/nasa-edge/0206-the-orion-fta</link>
+ <description>NASA EDGE gets an outside look at the Orion Flight Test Article. &amp;nbsp;The jury is out on the inside look.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0206_orionfta.mp4" length="176419165" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0206-the-orion-fta</guid>
+ <pubDate>Wed, 16 Apr 2008 15:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: The 411 at NASA Dryden</title>
+ <link>http://www.nasa.gov/nasa-edge/0204-the-411-at-nasa-dryden</link>
+ <description>This isn&#039;t your father&#039;s Stratospheric Observatory for Infrared Astronomy, it&#039;s NASA Dryden&#039;s SOFIA and Ikhana projects... plus, special guests.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0204_411dryden.mp4" length="191063737" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0204-the-411-at-nasa-dryden</guid>
+ <pubDate>Thu, 27 Mar 2008 15:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Magnetospherence</title>
+ <link>http://www.nasa.gov/nasa-edge/0203-magnetospherence</link>
+ <description>Sun-Earth Day 2008 Sol Man Troy Cline visits the NASA EDGE Studio to talk about Solar Week. Plus Blair revisits the Space Weather Action Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0203_magnetospherence.mp4" length="159673112" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0203-magnetospherence</guid>
+ <pubDate>Wed, 19 Mar 2008 15:54 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Space Shuttle Sim</title>
+ <link>http://www.nasa.gov/nasa-edge/0202-space-shuttle-sim</link>
+ <description>Chris and Blair search for an alternate landing site while flying the Space Shuttle Sim.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0202_shuttlesim.mp4" length="75207022" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0202-space-shuttle-sim</guid>
+ <pubDate>Mon, 03 Mar 2008 14:56 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Lunar Architecture</title>
+ <link>http://www.nasa.gov/nasa-edge/0205-lunar-architecture</link>
+ <description>Chris, Blair and Franklin check out the lunar outpost floor plans, pick out wallpaper and order a double-wide garage for SCOUT.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0205_lunararchitecture.mp4" length="180197073" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0205-lunar-architecture</guid>
+ <pubDate>Tue, 05 Feb 2008 14:43 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: X Games Los Angeles</title>
+ <link>http://www.nasa.gov/nasa-edge/0201-x-games-los-angeles</link>
+ <description>NASA EDGE crash the Summer X Games in Los Angeles, CA.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0201_summerx.mp4" length="163960876" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0201-x-games-los-angeles</guid>
+ <pubDate>Mon, 14 Jan 2008 15:05 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: M113</title>
+ <link>http://www.nasa.gov/nasa-edge/0111-m113</link>
+ <description>NASA EDGE puts the M113 through its paces!</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0111_m113_0.mp4" length="53557928" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0111-m113</guid>
+ <pubDate>Fri, 07 Dec 2007 11:41 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: STS-118</title>
+ <link>http://www.nasa.gov/nasa-edge/0110-sts-118</link>
+ <description>Who sais tailgating and Shuttle launches have nothing in common?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0110_sts118.mp4" length="144823039" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0110-sts-118</guid>
+ <pubDate>Tue, 30 Oct 2007 16:19 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Road Trip Part 2</title>
+ <link>http://www.nasa.gov/nasa-edge/0109-road-trip-part-2</link>
+ <description>Blair has 1,000 miles to figure out where to find a real Space Shuttle launch schedule... or else.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0109_roadtrip2.mp4" length="137132081" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0109-road-trip-part-2</guid>
+ <pubDate>Wed, 03 Oct 2007 16:23 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: The Moonbuggy Race</title>
+ <link>http://www.nasa.gov/nasa-edge/0108-the-moonbuggy-race</link>
+ <description>Driven by the maniacal Coach Blair and his diabolical stategy for victory, Chris and NASA EDGE Intern Brandon Endo gear up for the the Moonbuggy Race.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0108_moonbuggyrace.mp4" length="68336176" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0108-the-moonbuggy-race</guid>
+ <pubDate>Wed, 22 Aug 2007 16:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Road Trip Part 1</title>
+ <link>http://www.nasa.gov/nasa-edge/0107-road-trip-part-1</link>
+ <description>Follow the NASA EDGE team as they take a road trip to NASA Kennedy Space Center to see a Space Shuttle launch.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0107_roadtrip1.mp4" length="161489575" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0107-road-trip-part-1</guid>
+ <pubDate>Tue, 07 Aug 2007 16:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Gantry</title>
+ <link>http://www.nasa.gov/nasa-edge/0106-gantry</link>
+ <description>NASA EDGE visits Langley&#039;s gantry to watch a drop test of a potential Orion Crew Vehicle air bag landing system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0106_thegantry.mp4" length="56040473" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0106-gantry</guid>
+ <pubDate>Fri, 13 Jul 2007 16:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: NASA 101</title>
+ <link>http://www.nasa.gov/nasa-edge/0105-nasa-101</link>
+ <description>Featuring: Geocaching, NASA 101</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0105_nasa101.mp4" length="125948927" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0105-nasa-101</guid>
+ <pubDate>Thu, 14 Jun 2007 16:35 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Sun-Earth Connection</title>
+ <link>http://www.nasa.gov/nasa-edge/0104-sun-earth-connection</link>
+ <description>Blair turns geocaching into Man vs. Wild, news with Franklin, interviews with Dr. Nicky Fox and Troy Cline and the mighty mighty Space Weather Action Center.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0104_sunearthconnect.mp4" length="151985911" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0104-sun-earth-connection</guid>
+ <pubDate>Wed, 02 May 2007 16:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Winter X 11</title>
+ <link>http://www.nasa.gov/nasa-edge/0103-winter-x-11</link>
+ <description>Featuring: Winter X Games 11, Spinoff Technology, Space Food Cook-off, Mars, Ski Promo.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0103_winterx.mp4" length="170776173" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0103-winter-x-11</guid>
+ <pubDate>Wed, 21 Mar 2007 16:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Space Conference</title>
+ <link>http://www.nasa.gov/nasa-edge/0102-space-conference</link>
+ <description>Featuring: 2nd Space Exploration Conference, 21st Century Explorer Podcast Competition, ESA with Franklin.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0102_spaceconference.mp4" length="173698117" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0102-space-conference</guid>
+ <pubDate>Tue, 20 Mar 2007 16:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+ <item> <title>NASA EDGE: Premiere</title>
+ <link>http://www.nasa.gov/nasa-edge/0101-premiere</link>
+ <description>Featuring: Medianaut quarantine, ESA with Franklin, and an interview with Pat Cosgrove.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/ne0101_premiere.mp4" length="178022612" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/nasa-edge/0101-premiere</guid>
+ <pubDate>Mon, 19 Mar 2007 16:44 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/NASAEdge_vodcast.rss">NASA Edge</source>
+</item>
+</channel>
+</rss>

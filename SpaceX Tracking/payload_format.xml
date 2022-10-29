@@ -1,0 +1,17 @@
+<h1>{{info.payloads[j].payload_id}}</h1>
+<p>Nationality: {{returnIf(info.payloads[j].nationality,"Unknown")}}</p>
+<p>Manufacturer: {{returnIf(info.payloads[j].manufacturer,"Unknown")}}</p>
+<p>Customers: {{info.payloads[j].customers.join(", ")}}</p>
+<p>Type: {{info.payloads[j].payload_type}}</p>
+<p>Mass (kg): {{returnIf(info.payloads[j].payload_mass_kg,"Unknown")}}</p>
+<p>Mass (lbs): {{returnIf(info.payloads[j].payload_mass_lbs,"Unknown")}}</p>
+<h3>Orbit</h3>
+<p>Orbit Type: {{info.payloads[j].orbit}}</p>
+<p>Reference System: {{returnIf(info.payloads[j].orbit_params.reference_system,"Not Applicable")}}</p>
+<p>Regime: {{returnIf(info.payloads[j].orbit_params.regime,"Not Applicable")}}</p>
+<p>Lifespan: {{returnIf(info.payloads[j].orbit_params.lifespan_years,"Not Applicable")}}</p>
+<p>Epoch: {{returnIf(info.payloads[j].orbit_params.epoch,"Not Applicable")}}</p>
+<p>Eccentricity: {{returnIf(info.payloads[j].orbit_params.eccentricity,"Not Applicable")}}</p>
+<p>Inclination: {{returnIf(info.payloads[j].orbit_params.inclination_deg,"Not Applicable")}}</p>
+<p>Mean Anomaly: {{returnIf(info.payloads[j].orbit_params.mean_anomaly,"Not Applicable")}}</p>
+<p>Mean Motion: {{returnIf(info.payloads[j].orbit_params.mean_motion,"Not Applicable")}}</p>

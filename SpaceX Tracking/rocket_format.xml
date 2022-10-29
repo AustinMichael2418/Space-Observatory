@@ -1,0 +1,36 @@
+<h1>{{info.rockets[j].rocket_name}}</h1>
+<p>{{info.rockets[j].description}}</p>
+<p>Made by {{info.rockets[j].company}}</p>
+<p>Country: {{info.rockets[j].country}}</p>
+<p>Boosters: {{info.rockets[j].boosters}}</p>
+<p>{{(function(){if(info.rockets[j].active){return "Active";}else{return "Inactive";} })()}}</p>
+<p>Cost per Launch: ${{info.rockets[j].cost_per_launch}}</p>
+<p>First Flight: {{info.rockets[j].first_flight}}</p>
+<p>Stages: {{info.rockets[j].stages}}</p>
+<p>Success Rate: {{info.rockets[j].success_rate_pct}}%</p>
+<p>Diameter: {{info.rockets[j].diameter.meters}} meters</p>
+<p>Height: {{info.rockets[j].height.meters}} meters</p>
+<p>Mass: {{info.rockets[j].mass.kg}} kg</p>
+<p>Landing Legs: {{info.rockets[j].landing_legs.number}}</p>
+<p>{{info.rockets[j].engines.number}} {{info.rockets[j].engines.type}} {{info.rockets[j].engines.version}} engines in {{returnIf(info.rockets[j].engines.layout,"unnamed")}} layout</p>
+<p>Propellants: {{info.rockets[j].engines.propellant_1}} and {{info.rockets[j].engines.propellant_2}}</p>
+<p>Thrust at Sea Level: {{info.rockets[j].engines.thrust_sea_level.kN*1000}} Newtons</p>
+<p>Thrust in Vacuum: {{info.rockets[j].engines.thrust_vacuum.kN*1000}} Newtons</p>
+<p>Thrust to Weight Ratio: {{returnIf(info.rockets[j].engines.thrust_to_weight,"unknown")}}</p>
+<h2>Stage 1</h2>
+<p>Burn Time: {{returnIf(info.rockets[j].first_stage.burn_time_sec,"unknown")}} seconds</p>
+<p>Engines: {{info.rockets[j].first_stage.engines}}</p>
+<p>Tons of Fuel: {{info.rockets[j].first_stage.fuel_amount_tons}}</p>
+<p>Reusable?: {{info.rockets[j].first_stage.reusable}}</p>
+<p>Thrust at Sea Level: {{info.rockets[j].first_stage.thrust_sea_level.kN*1000}} Newtons</p>
+<p>Thrust in Vacuum: {{info.rockets[j].first_stage.thrust_vacuum.kN*1000}} Newtons</p>
+<h2>Stage 2</h2>
+<p>Burn Time: {{returnIf(info.rockets[j].second_stage.burn_time_sec,"unknown")}} seconds</p>
+<p>Engines: {{info.rockets[j].second_stage.engines}}</p>
+<p>Tons of Fuel: {{info.rockets[j].second_stage.fuel_amount_tons}}</p>
+<p>Reusable?: {{info.rockets[j].second_stage.reusable}}</p>
+<p>Thrust: {{info.rockets[j].second_stage.thrust.kN*1000}} Newtons</p>
+<h2>Payload Weights</h2>
+<div>{{payloadWeights(info.rockets[j].payload_weights)}}</div>
+<h2>Images</h2>
+<div>{{flickr(info.rockets[j].flickr_images)}}</div>

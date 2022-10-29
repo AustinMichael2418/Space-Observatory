@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Latest Curiosity Image
+</title>
+<link rel="stylesheet" href="style.css"/>
+<link rel="icon" href="favicon.png"/>
+</head>
+<body>
+<h1>Today</h1>
+<img id="image"></img>
+
+<h1>Yesterday</h1>
+<img id="one"></img>
+<h1>2 Days Ago</h1>
+<img id="two"></img>
+<h1>3 Days Ago</h1>
+<img id="three"></img>
+<script src="rover_api.js"></script>
+<script>
+var key = "DEMO_KEY";
+function read(offset,id) {
+try {
+var photos = [1];
+var i=1;
+var d = new Date();
+d.setDate(d.getDate() - offset);
+var earth_date = d.getFullYear()+"-"+(d.getMonth()+1)+"-"+d.getDate();
+while(photos.length>0) {
+photos = curiosityPhoto(earth_date,"all",i,key,"all",2);
+i++;
+}
+i-=2;
+photos = curiosityPhoto(earth_date,"all",i,key,"all",2);
+document.getElementById(id).setAttribute("src",photos[photos.length-1].img_src);
+}
+catch(err) {
+console.log("An error occured");
+}
+}
+
+read(0,"image");
+read(1,"one");
+read(2,"two");
+read(3,"three");
+</script>
+</body>
+</html>

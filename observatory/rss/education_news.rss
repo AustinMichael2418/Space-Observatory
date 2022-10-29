@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Education News</title>
+ <description>A RSS feed containing the latest education related news from NASA.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/educationnews.rss" />
+ <language>en-us</language>
+ <managingEditor>sandra.b.may@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>Maryland Students, Navy Pilots to Hear from NASA Astronauts in Space</title>
+ <link>http://www.nasa.gov/press-release/maryland-students-navy-pilots-to-hear-from-nasa-astronauts-in-space</link>
+ <description>Pilots from the U.S. Naval Test Pilot School in Patuxent River, Maryland, and students across southern Maryland will have an opportunity this week to hear from NASA astronauts aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jsc2022e076176.jpeg?itok=wEDM4qDn" length="515422" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/maryland-students-navy-pilots-to-hear-from-nasa-astronauts-in-space</guid>
+ <pubDate>Mon, 24 Oct 2022 11:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Langley STEM Outreach Pays Dividends with Virginia Beach Schools</title>
+ <link>http://www.nasa.gov/feature/langley/nasa-langley-stem-outreach-pays-dividends-with-virginia-beach-schools</link>
+ <description>Students took part in a variety of activities with Langley subject matter experts related to landing humans on the Moon via the Artemis mission and modeling a spacecraft docking station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/vbcpspicture3.jpg?itok=pkFAsSJn" length="294985" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/langley/nasa-langley-stem-outreach-pays-dividends-with-virginia-beach-schools</guid>
+ <pubDate>Mon, 01 Aug 2022 08:48 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>SOAR High School Student Wins NASA Armstrong Scholarship</title>
+ <link>http://www.nasa.gov/centers/armstrong/news/newsreleases/2022/22-04NR.html</link>
+ <description>The NASA Armstrong Employee Exchange Council presented the 2022 John W. Russell Memorial Scholarship Award to Katelyn Perez.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/afrc2022-0096-01.jpg?itok=LhGl_egd" length="7390644" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/armstrong/news/newsreleases/2022/22-04NR.html</guid>
+ <pubDate>Thu, 28 Jul 2022 07:45 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Langley Welcomes Virginia Teachers as Part of 2022 MODSIM Program</title>
+ <link>http://www.nasa.gov/feature/langley/nasa-langley-welcomes-virginia-teachers-as-part-of-2022-modsim-program</link>
+ <description>Nearly a dozen middle- and high-school math educators from across Virginia spent June 23 at Langley - a culminating experience after a year of virtual online work in these areas using online sessions in Microsoft TEAMS, digital badges and other webinars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/lrc-2022-b701_p-01446.jpg?itok=TRFizUZs" length="4202760" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/langley/nasa-langley-welcomes-virginia-teachers-as-part-of-2022-modsim-program</guid>
+ <pubDate>Thu, 30 Jun 2022 09:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Interns’ First Day at Goddard</title>
+ <link>http://www.nasa.gov/feature/goddard/2022/interns-first-day-at-goddard</link>
+ <description>From working at home to a hybrid internship, Goddard welcomes the triumphant return of some students.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/2022.summer.intern.tour__0.jpg?itok=g6wson1f" length="6157793" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/goddard/2022/interns-first-day-at-goddard</guid>
+ <pubDate>Tue, 14 Jun 2022 16:27 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Administrator, STEM Partner Connect Orlando Children with Artemis</title>
+ <link>http://www.nasa.gov/press-release/nasa-administrator-stem-partner-connect-orlando-children-with-artemis</link>
+ <description>NASA Administrator Bill Nelson helped hand out food with an extra serving of STEM activities to children and families at New Beginnings Church – The Gathering Place in Orlando, Florida, on Friday, June 3.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nelson_and_lunchboxes.jpg?itok=o0FqwhUw" length="165443" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-administrator-stem-partner-connect-orlando-children-with-artemis</guid>
+ <pubDate>Wed, 08 Jun 2022 15:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Selects Minority-Serving Institution Proposals to Receive Support</title>
+ <link>http://www.nasa.gov/feature/jpl/nasa-selects-minority-serving-institution-proposals-to-receive-support</link>
+ <description>The awardees in the first MSI Space Accelerator have been announced after a competitive application process in which they were encouraged to think like startup businesses.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/1-msi-accelerator-350.jpg?itok=1CC16N4d" length="96163" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/jpl/nasa-selects-minority-serving-institution-proposals-to-receive-support</guid>
+ <pubDate>Fri, 03 Jun 2022 13:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Administrator to Launch Artemis Learning Lunchbox Initiative</title>
+ <link>http://www.nasa.gov/press-release/nasa-administrator-to-launch-artemis-learning-lunchbox-initiative</link>
+ <description>NASA Administrator Bill Nelson is helping kick off a new initiative to deliver food and hands-on science, technology, engineering, and math kits, called Learning Lunchboxes, in Orlando at 10:30 a.m. EDT on Friday, June 3.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nhq202204220006_large.jpeg?itok=gtRu31FP" length="320228" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-administrator-to-launch-artemis-learning-lunchbox-initiative</guid>
+ <pubDate>Wed, 01 Jun 2022 15:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Administrator, Arizona Students to Hear from Station Astronauts</title>
+ <link>http://www.nasa.gov/press-release/nasa-administrator-arizona-students-to-hear-from-station-astronauts</link>
+ <description>Students from Arizona will have an opportunity this week to hear from astronauts aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/watkins_cristoforetti.jpeg?itok=4p0NQqjA" length="9415510" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-administrator-arizona-students-to-hear-from-station-astronauts</guid>
+ <pubDate>Wed, 25 May 2022 17:14 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Administrator to Visit Florida Students, Industry</title>
+ <link>http://www.nasa.gov/press-release/nasa-administrator-to-visit-florida-students-industry</link>
+ <description>NASA Administrator Bill Nelson will speak to elementary school students about the future of space exploration Monday, May 9, and tour a lab working on robotic construction technologies Tuesday, May 10, during a trip to Florida.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb_0.jpg?itok=mrBnB_c9" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-administrator-to-visit-florida-students-industry</guid>
+ <pubDate>Fri, 06 May 2022 11:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+</channel>
+</rss>

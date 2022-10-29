@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Glenn Research Center Latest Features</title>
+ <description>Glenn Latest Features RSS</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/glenn_features.rss" />
+ <language>en-us</language>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>NASA Superstars Recognized for Contributions to Aeronautics</title>
+ <link>http://www.nasa.gov/feature/glenn/2022/history/nasa-superstars-recognized-for-contributions-to-aeronautics</link>
+ <description>NASA hosted an event in the 1990s to remind the public that the agency consists of a diverse group of talented people who are advancing aeronautics every day.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/grc-1996-c-02878-cropped.jpg?itok=A8HEMp6_" length="317582" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/glenn/2022/history/nasa-superstars-recognized-for-contributions-to-aeronautics</guid>
+ <pubDate>Thu, 27 Oct 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/glenn_features.rss">NASA Glenn Research Center Latest Features</source>
+</item>
+ <item> <title>NASA MIRO Program Provides STEM Career Path</title>
+ <link>http://www.nasa.gov/feature/nasa-miro-program-provides-stem-career-path</link>
+ <description>Dionne Hernandez-Lugo always wanted to work for NASA, but did not know how to get started on her career path.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/dionne_hernandez-lugo1.png?itok=XsthVjZU" length="2581070" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/nasa-miro-program-provides-stem-career-path</guid>
+ <pubDate>Tue, 25 Oct 2022 10:35 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/glenn_features.rss">NASA Glenn Research Center Latest Features</source>
+</item>
+ <item> <title>NASA Launches Power to Explore Challenge for K-12 Students</title>
+ <link>http://www.nasa.gov/feature/glenn/2022/nasa-launches-power-to-explore-challenge-for-k-12-students</link>
+ <description>NASA launches its second Power to Explore Challenge, a national competition for K-12 students that inspires learning about how radioisotope power systems help us explore the extremes of our solar system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/1080x608.jpg?itok=YRAb-X2y" length="588187" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/glenn/2022/nasa-launches-power-to-explore-challenge-for-k-12-students</guid>
+ <pubDate>Wed, 12 Oct 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/glenn_features.rss">NASA Glenn Research Center Latest Features</source>
+</item>
+ <item> <title>NASA’s Solid-State Battery Research Exceeds Initial Goals, Draws Interest</title>
+ <link>http://www.nasa.gov/aeroresearch/nasa-solid-state-battery-research-exceeds-initial-goals-draws-interest</link>
+ <description>NASA researchers are making progress with developing an innovative battery pack that is lighter, safer, and performs better than batteries commonly used in vehicles and large electronics today.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/sabers_1_0.png?itok=Oo403ilx" length="2767339" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/aeroresearch/nasa-solid-state-battery-research-exceeds-initial-goals-draws-interest</guid>
+ <pubDate>Fri, 07 Oct 2022 06:51 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/glenn_features.rss">NASA Glenn Research Center Latest Features</source>
+</item>
+ <item> <title>Former Astronaut Haise Supported Early Microgravity Studies at Glenn</title>
+ <link>http://www.nasa.gov/feature/glenn/2022/history/former-astronaut-haise-supported-early-microgravity-studies-at-glenn</link>
+ <description>: Before becoming an Apollo astronaut, Fred Haise was a research pilot at NASA Glenn working on early research studies about how fluids behave in microgravity, which continues today.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/ap13-70-h-473hr.jpg?itok=M9lceqU-" length="750681" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/glenn/2022/history/former-astronaut-haise-supported-early-microgravity-studies-at-glenn</guid>
+ <pubDate>Thu, 22 Sep 2022 13:22 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/glenn_features.rss">NASA Glenn Research Center Latest Features</source>
+</item>
+ <item> <title>NASA Glenn Celebrates Newest Members of its Hall of Fame</title>
+ <link>http://www.nasa.gov/image-feature/glenn/2022/nasa-glenn-celebrates-newest-members-of-its-hall-of-fame</link>
+ <description>NASA Glenn inducted 10 members into its Hall of Fame.  This class was chosen in 2021, but due to the pandemic the ceremony was delayed until today.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/hof_collage_of_honorees.jpg?itok=BR7EC2bJ" length="8331907" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/glenn/2022/nasa-glenn-celebrates-newest-members-of-its-hall-of-fame</guid>
+ <pubDate>Wed, 14 Sep 2022 08:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/glenn_features.rss">NASA Glenn Research Center Latest Features</source>
+</item>
+ <item> <title>NASA Manages Astronaut Health with Effective Diagnostics Research</title>
+ <link>http://www.nasa.gov/feature/glenn/2022/nasa-manages-astronaut-health-with-effective-diagnostics-research</link>
+ <description>NASA is testing a suite of medical diagnostic devices aboard the International Space Station that will help astronauts evaluate their physical condition in space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/cristoforetti.jpg?itok=n3hHjPhM" length="6902726" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/glenn/2022/nasa-manages-astronaut-health-with-effective-diagnostics-research</guid>
+ <pubDate>Wed, 07 Sep 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/glenn_features.rss">NASA Glenn Research Center Latest Features</source>
+</item>
+ <item> <title>NASA Wind Tunnel Facility Opens New Lobby for Guests</title>
+ <link>http://www.nasa.gov/aetc/nasa-wind-tunnel-facility-opens-new-lobby-for-guests</link>
+ <description>Guests visiting or coming to do research in the 10x10 supersonic wind tunnel facility at NASA’s Glenn Research Center in Cleveland will be welcomed inside a renovated lobby opened August 9.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/grc-2022-c-05727.jpg?itok=t45evaZa" length="1608898" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/aetc/nasa-wind-tunnel-facility-opens-new-lobby-for-guests</guid>
+ <pubDate>Thu, 25 Aug 2022 12:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/glenn_features.rss">NASA Glenn Research Center Latest Features</source>
+</item>
+ <item> <title>Glenn’s Legacy of Testing Spacecraft Spans from Apollo to Artemis</title>
+ <link>http://www.nasa.gov/feature/glenn/2022/history/legacy-of-testing-spacecraft-spans-from-apollo-to-artemis</link>
+ <description>For 50 years, NASA’s Glenn Research Center has been testing spacecraft that launched to the Moon. That legacy continues with the upcoming launch of Artemis.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/grc-2019-c-12779.jpeg?itok=pmMKwWV0" length="47886644" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/glenn/2022/history/legacy-of-testing-spacecraft-spans-from-apollo-to-artemis</guid>
+ <pubDate>Thu, 25 Aug 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/glenn_features.rss">NASA Glenn Research Center Latest Features</source>
+</item>
+ <item> <title>The Road to the Moon Goes Through Ohio</title>
+ <link>http://www.nasa.gov/feature/glenn/2022/the-road-to-the-moon-goes-through-ohio</link>
+ <description>Follow this infographic to learn how scientists and engineers both at NASA Glenn Research Center and scores of Ohio companies have advanced power and propulsion systems, spacecraft testing and studies to keep astronauts healthy and safe.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/ps-03553_b.jpg?itok=RORYtFjX" length="847514" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/glenn/2022/the-road-to-the-moon-goes-through-ohio</guid>
+ <pubDate>Wed, 24 Aug 2022 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/glenn_features.rss">NASA Glenn Research Center Latest Features</source>
+</item>
+</channel>
+</rss>

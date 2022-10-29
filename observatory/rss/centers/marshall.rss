@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Marshall Space Flight Center News and Features</title>
+ <description>News, Images, and Features from NASA&#039;s Marshall Space Flight Center</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/msfc_news.rss" />
+ <language>en-us</language>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>Hinode Sees Annular Solar Eclipse from Orbit</title>
+ <link>http://www.nasa.gov/mission_pages/hinode/hinode-sees-annular-solar-eclipse-from-orbit.html</link>
+ <description>On Oct. 25, the Hinode satellite used its X-ray Telescope to capture three passages of the Moon eclipsing the Sun.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/xrt_triple_eclipse_20221025.png?itok=gKOtIYiB" length="2409415" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/hinode/hinode-sees-annular-solar-eclipse-from-orbit.html</guid>
+ <pubDate>Fri, 28 Oct 2022 15:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/msfc_news.rss">NASA Marshall Space Flight Center News and Features</source>
+</item>
+ <item> <title>NASA to Provide Update on Artemis I Moon Mission</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission</link>
+ <description>NASA will host a media teleconference at 12 p.m. EDT Thursday, Nov. 3, to discuss the status of its Artemis I flight test that will launch the Space Launch System (SLS) rocket from NASA’s Kennedy Space Center in Florida. The uncrewed mission will send the Orion spacecraft beyond the Moon and back to Earth before future missions with crew.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/artemis_i_update_advisory_photo.jpg?itok=_1imthH4" length="386067" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission</guid>
+ <pubDate>Fri, 28 Oct 2022 11:16 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/msfc_news.rss">NASA Marshall Space Flight Center News and Features</source>
+</item>
+ <item> <title>Space Launch System Engines: Launching Artemis Astronauts to the Moon</title>
+ <link>http://www.nasa.gov/exploration/systems/sls/space-launch-system-engines-launching-artemis-astronauts-to-the-moon.html</link>
+ <description>This infographic labeled “Space Launch System Artemis II: Four RS-25 Engines” depicts the four RS-25 engines that are situated on NASA’s Space Launch System rocket for Artemis II, the first crewed Artemis mission to the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/sls-4299_-_artemis_ii_engines_infographic_final.jpg?itok=0VbSjgdC" length="2736341" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/exploration/systems/sls/space-launch-system-engines-launching-artemis-astronauts-to-the-moon.html</guid>
+ <pubDate>Fri, 28 Oct 2022 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/msfc_news.rss">NASA Marshall Space Flight Center News and Features</source>
+</item>
+ <item> <title>Powerful Neutron Star’s Behavior Surprises IXPE Researchers</title>
+ <link>http://www.nasa.gov/mission_pages/ixpe/news/2022/powerful-neutron-star-s-behavior-surprises-ixpe-researchers.html</link>
+ <description>Observing its first accreting neutron star, NASA’s Imaging X-ray Polarimetry Explorer upends long-held scientific assumptions about the interior processes that drive these ultra-powerful celestial objects.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/transformerbinary_1722_gr.jpeg?itok=-CgtH37y" length="216047" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/ixpe/news/2022/powerful-neutron-star-s-behavior-surprises-ixpe-researchers.html</guid>
+ <pubDate>Wed, 26 Oct 2022 11:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/msfc_news.rss">NASA Marshall Space Flight Center News and Features</source>
+</item>
+ <item> <title>NASA Invites Media to 2022 Wernher von Braun Memorial Symposium</title>
+ <link>http://www.nasa.gov/centers/marshall/news/releases/2022/nasa-invites-media-to-2022-wernher-von-braun-memorial-symposium.html</link>
+ <description>NASA is inviting media to the 15th annual Wernher von Braun Memorial Symposium on Wednesday, Oct. 26 to Friday, Oct. 28, at the University of Alabama in Huntsville.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa_meatball_large_0.jpg?itok=87bq1vgx" length="24065" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/marshall/news/releases/2022/nasa-invites-media-to-2022-wernher-von-braun-memorial-symposium.html</guid>
+ <pubDate>Mon, 24 Oct 2022 16:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/msfc_news.rss">NASA Marshall Space Flight Center News and Features</source>
+</item>
+ <item> <title>Marshall Set to Demolish Former Headquarters, ‘Site of So Much History’</title>
+ <link>http://www.nasa.gov/centers/marshall/news/releases/2022/marshall-set-to-demolish-former-headquarters-site-of-so-much-history.html</link>
+ <description>NASA Marshall’s scheduled October 29 demolition of Building 4200, its administrative headquarters for 63 years, will close a chapter of the pivotal field center’s history – and clear the way for new missions into the cosmos.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/ceb_0713.jpeg?itok=2VyyCISU" length="2684775" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/marshall/news/releases/2022/marshall-set-to-demolish-former-headquarters-site-of-so-much-history.html</guid>
+ <pubDate>Fri, 21 Oct 2022 07:36 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/msfc_news.rss">NASA Marshall Space Flight Center News and Features</source>
+</item>
+ <item> <title>From Student to Employee, How NASA’s Rocket Competition Launches New Careers</title>
+ <link>http://www.nasa.gov/stem/studentlaunch/feature/from-student-to-employee-how-nasa-s-rocket-competition-launches-new-careers.html</link>
+ <description>NASA’s Student Launch competition can equip students with the knowledge and connections necessary to pursue careers in the aerospace industry. This rings true for John Inness, a six-year participant of Student Launch now turned full-time employee.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/inness_2016_team_photo.jpg?itok=5vdP0TiT" length="1220285" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/stem/studentlaunch/feature/from-student-to-employee-how-nasa-s-rocket-competition-launches-new-careers.html</guid>
+ <pubDate>Tue, 18 Oct 2022 14:03 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/msfc_news.rss">NASA Marshall Space Flight Center News and Features</source>
+</item>
+ <item> <title>NASA’S IXPE Helps Unlock the Secrets of Famous Exploded Star</title>
+ <link>http://www.nasa.gov/mission_pages/ixpe/news/nasa-s-ixpe-helps-unlock-the-secrets-of-famous-exploded-star.html</link>
+ <description>For the first time, astronomers have measured and mapped polarized X-rays from the remains of an exploded star, using NASA’s Imaging X-ray Polarimetry Explorer (IXPE).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/casa_streams_lg.jpeg?itok=dvxh5gcS" length="14250990" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/ixpe/news/nasa-s-ixpe-helps-unlock-the-secrets-of-famous-exploded-star.html</guid>
+ <pubDate>Tue, 18 Oct 2022 10:02 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/msfc_news.rss">NASA Marshall Space Flight Center News and Features</source>
+</item>
+ <item> <title>NASA’s Swift, Fermi Missions Detect Exceptional Cosmic Blast</title>
+ <link>http://www.nasa.gov/feature/goddard/2022/nasa-s-swift-fermi-missions-detect-exceptional-cosmic-blast</link>
+ <description>A powerful cosmic explosion detected by NASA&#039;s Fermi, Swift, and other missions ranks among the most luminous events known.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/grb_jet_banner.jpg?itok=ncxs6W5G" length="283633" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/goddard/2022/nasa-s-swift-fermi-missions-detect-exceptional-cosmic-blast</guid>
+ <pubDate>Thu, 13 Oct 2022 13:30 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/msfc_news.rss">NASA Marshall Space Flight Center News and Features</source>
+</item>
+ <item> <title>NASA’s Lucy Spacecraft Prepares to Swing by Earth</title>
+ <link>http://www.nasa.gov/feature/goddard/2022/lucy-ega</link>
+ <description>On Oct. 16, at 7:04 a.m. EDT, NASA’s Lucy spacecraft will skim Earth’s atmosphere, passing a mere 220 miles (350 kilometers) above the surface to gain some of the orbital energy it needs to travel to the Jupiter Trojan asteroids.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/final_lucy_high-end-render_pira-2.jpg?itok=GOm3fq_g" length="175534" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/goddard/2022/lucy-ega</guid>
+ <pubDate>Thu, 13 Oct 2022 12:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/msfc_news.rss">NASA Marshall Space Flight Center News and Features</source>
+</item>
+</channel>
+</rss>

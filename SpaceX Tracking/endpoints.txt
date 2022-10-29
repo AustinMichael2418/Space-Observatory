@@ -1,0 +1,33 @@
+SpaceX API Endpoints:
+
+Capsules:
+https://api.spacexdata.com/v3/capsules
+Cores:
+https://api.spacexdata.com/v3/cores
+Dragons:
+https://api.spacexdata.com/v3/dragons
+History:
+https://api.spacexdata.com/v3/history
+Info:
+https://api.spacexdata.com/v3/info
+https://api.spacexdata.com/v3
+Landing Pads:
+https://api.spacexdata.com/v3/landpads
+Launches:
+https://api.spacexdata.com/v3/launches
+https://api.spacexdata.com/v3/launches/{{flight_number}}
+https://api.spacexdata.com/v3/launches/upcoming
+https://api.spacexdata.com/v3/launches/latest
+https://api.spacexdata.com/v3/launches/next
+Launch Pads:
+https://api.spacexdata.com/v3/launchpads
+Missions:
+https://api.spacexdata.com/v3/missions
+Payloads:
+https://api.spacexdata.com/v3/payloads
+Rockets:
+https://api.spacexdata.com/v3/rockets
+Roadster:
+https://api.spacexdata.com/v3/roadster
+Ships:
+https://api.spacexdata.com/v3/ships

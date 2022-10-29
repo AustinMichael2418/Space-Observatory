@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Solar System and Beyond</title>
+ <description>A RSS news feed containing the latest NASA press releases on missions exploring our solar system and beyond. </description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/solar_system.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>El impacto de DART cambió el movimiento de un asteroide en el espacio</title>
+ <link>http://www.nasa.gov/press-release/el-impacto-de-dart-cambi-el-movimiento-de-un-asteroide-en-el-espacio</link>
+ <description>El análisis de los datos obtenidos en las últimas dos semanas por el equipo de investigación de la Prueba de redireccionamiento del asteroide doble (DART, por sus siglas en inglés) de la NASA muestra que el impacto cinético de la nave espacial contra su asteroide objetivo, Dimorphos, alteró con éxito la órbita del asteroide. Esto marca la primera v</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/3.2_dart_compass_draft2.png?itok=5Q-Zo0uG" length="992792" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/el-impacto-de-dart-cambi-el-movimiento-de-un-asteroide-en-el-espacio</guid>
+ <pubDate>Tue, 11 Oct 2022 13:28 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/solar_system.rss">Solar System and Beyond</source>
+</item>
+ <item> <title>NASA Confirms DART Mission Impact Changed Asteroid’s Motion in Space</title>
+ <link>http://www.nasa.gov/press-release/nasa-confirms-dart-mission-impact-changed-asteroid-s-motion-in-space</link>
+ <description>Analysis of data obtained over the past two weeks by NASA’s Double Asteroid Redirection Test (DART) investigation team shows the spacecraft&#039;s kinetic impact with its target asteroid, Dimorphos, successfully altered the asteroid’s orbit. This marks humanity’s first time purposely changing the motion of a celestial object and the first full-scale dem</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/3.2_dart_compass_draft2.png?itok=5Q-Zo0uG" length="992792" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-confirms-dart-mission-impact-changed-asteroid-s-motion-in-space</guid>
+ <pubDate>Tue, 11 Oct 2022 13:12 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/solar_system.rss">Solar System and Beyond</source>
+</item>
+ <item> <title>NASA to Provide Update on DART, World’s First Planetary Defense Test</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test</link>
+ <description>NASA will host a media briefing at 2 p.m. EDT, Tuesday, Oct. 11, to discuss the agency’s Double Asteroid Redirection Test (DART) mission and its intentional collision with its target asteroid, Dimorphos.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/dart_imagery.png?itok=FPZ7u2Zv" length="48784" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test</guid>
+ <pubDate>Fri, 07 Oct 2022 15:34 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/solar_system.rss">Solar System and Beyond</source>
+</item>
+ <item> <title>NASA’s DART Mission Hits Asteroid in First-Ever Planetary Defense Test</title>
+ <link>http://www.nasa.gov/press-release/nasa-s-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test</link>
+ <description>After 10 months flying in space, NASA’s Double Asteroid Redirection Test (DART) – the world’s first planetary defense technology demonstration – successfully impacted its asteroid target on Monday, the agency’s first attempt to move an asteroid in space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/all_dimorphos_dart_0401930040_12262_01_raw_0.png?itok=5uyNkCGk" length="111478" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test</guid>
+ <pubDate>Mon, 26 Sep 2022 20:09 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/solar_system.rss">Solar System and Beyond</source>
+</item>
+ <item> <title>Celebrate &#039;International Observe the Moon Night&#039; with NASA</title>
+ <link>http://www.nasa.gov/press-release/goddard/2022/celebrate-international-observe-the-moon-night-with-nasa</link>
+ <description>The public is invited to participate in NASA’s celebration of &quot;International Observe the Moon Night&quot; on Saturday, Oct. 1.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/observe-moon-night.png?itok=OdMEa5_J" length="566220" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/goddard/2022/celebrate-international-observe-the-moon-night-with-nasa</guid>
+ <pubDate>Fri, 23 Sep 2022 10:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/solar_system.rss">Solar System and Beyond</source>
+</item>
+ <item> <title>NASA to Host Briefing on Perseverance Mars Rover Mission Operations</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-host-briefing-on-perseverance-mars-rover-mission-operations</link>
+ <description>NASA will host a briefing at 11:30 a.m. EDT (8:30 a.m. PDT) on Thursday, Sept. 15, at the agency’s Jet Propulsion Laboratory in Southern California to provide highlights from the first year and a half of the Perseverance rover’s exploration of Mars.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jezero_rocks.jpg?itok=bBDKG8oC" length="1896714" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-host-briefing-on-perseverance-mars-rover-mission-operations</guid>
+ <pubDate>Mon, 12 Sep 2022 09:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/solar_system.rss">Solar System and Beyond</source>
+</item>
+ <item> <title>La NASA invita a la prensa a la primera prueba de defensa planetaria</title>
+ <link>http://www.nasa.gov/press-release/la-nasa-invita-a-la-prensa-a-la-primera-prueba-de-defensa-planetaria</link>
+ <description>La misión Prueba de redireccionamiento del asteroide doble (DART, por sus siglas en inglés) de la NASA, la primera en el mundo que pone a prueba una tecnología para defender a la Tierra de posibles peligros de asteroides o cometas, impactará con su objetivo, un asteroide que no supone ninguna amenaza para la Tierra, a las 7:14 pm EDT del lunes 26 d</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/dart_2.jpg?itok=awjvcq54" length="7458136" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/la-nasa-invita-a-la-prensa-a-la-primera-prueba-de-defensa-planetaria</guid>
+ <pubDate>Tue, 23 Aug 2022 11:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/solar_system.rss">Solar System and Beyond</source>
+</item>
+ <item> <title>NASA Invites Media to Witness World’s First Planetary Defense Test</title>
+ <link>http://www.nasa.gov/press-release/nasa-invites-media-to-witness-world-s-first-planetary-defense-test</link>
+ <description>NASA’s Double Asteroid Redirection Test (DART), the world’s first mission to test technology for defending Earth against potential asteroid or comet hazards, will impact its target asteroid—which poses no threat to Earth—at 7:14 p.m. EDT on Monday, Sept. 26.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/dart_2.jpg?itok=awjvcq54" length="7458136" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invites-media-to-witness-world-s-first-planetary-defense-test</guid>
+ <pubDate>Tue, 23 Aug 2022 11:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/solar_system.rss">Solar System and Beyond</source>
+</item>
+ <item> <title>NASA Identifies Candidate Regions for Landing Next Americans on Moon</title>
+ <link>http://www.nasa.gov/press-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon</link>
+ <description>As NASA prepares to send astronauts back to the Moon under Artemis, the agency has identified 13 candidate landing regions near the lunar South Pole.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/artemis-iii-landing-regions.jpg?itok=H4aLjrge" length="694621" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon</guid>
+ <pubDate>Fri, 19 Aug 2022 11:07 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/solar_system.rss">Solar System and Beyond</source>
+</item>
+ <item> <title>NASA Selects Proposals to Study Stellar Explosions, Galaxies, Stars</title>
+ <link>http://www.nasa.gov/press-release/nasa-selects-proposals-to-study-stellar-explosions-galaxies-stars</link>
+ <description>NASA has selected four mission proposals submitted to the agency’s Explorers Program for further study.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/hubble_mrk1337_esapotw2145a_0.jpg?itok=51lHpuig" length="103114" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-selects-proposals-to-study-stellar-explosions-galaxies-stars</guid>
+ <pubDate>Thu, 18 Aug 2022 15:36 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/solar_system.rss">Solar System and Beyond</source>
+</item>
+</channel>
+</rss>

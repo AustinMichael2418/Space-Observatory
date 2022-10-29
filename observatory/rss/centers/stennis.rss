@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Stennis News and Features</title>
+ <description>Stennis News RSS</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss" />
+ <language>en-us</language>
+ <managingEditor>paul.foerman-1@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>Relativity Space Announces Plans to Expand Facilities at NASA’s Stennis Space Center</title>
+ <link>http://www.nasa.gov/centers/stennis/news/releases/2022/Relativity-Space-Announces-Plans-to-Expand-Facilities-at-NASAs-Stennis-Space-Center</link>
+ <description>NASA’s Stennis Space Center joined with Relativity Space on Oct. 18 as the company outlined plans for a major expansion of its rocket and engine test facilities at the south Mississippi site.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/s22-060_stennis_photo_-_relativity_space_location.jpg?itok=ZFO_s25L" length="2258488" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/stennis/news/releases/2022/Relativity-Space-Announces-Plans-to-Expand-Facilities-at-NASAs-Stennis-Space-Center</guid>
+ <pubDate>Tue, 18 Oct 2022 09:14 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss">Stennis News and Features</source>
+</item>
+ <item> <title>Stennis Begins Work on Key Testing Component</title>
+ <link>http://www.nasa.gov/press-release/stennis-begins-work-on-key-testing-component</link>
+ <description>A critical component needed for future testing in support of NASA’s Artemis missions to the Moon and beyond recently arrived at the agency’s Stennis Space Center in south Mississippi.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/interstage_simulator-2.jpg?itok=OR0vV_9e" length="1563945" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/stennis-begins-work-on-key-testing-component</guid>
+ <pubDate>Tue, 04 Oct 2022 13:48 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss">Stennis News and Features</source>
+</item>
+ <item> <title>NASA Awards Contract for Acquisition of Gaseous, Liquid Helium</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-contract-for-acquisition-of-gaseous-liquid-helium</link>
+ <description>NASA has selected three companies to supply 1.4 million liters of liquid helium and 87.7 million standard cubic feet of gaseous helium for use at facilities across the agency.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb_0.jpg?itok=mrBnB_c9" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-contract-for-acquisition-of-gaseous-liquid-helium</guid>
+ <pubDate>Thu, 29 Sep 2022 16:17 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss">Stennis News and Features</source>
+</item>
+ <item> <title>Stennis Flashback: NASA Engineers Recall Challenges of Record-Breaking Hot Fire</title>
+ <link>http://www.nasa.gov/centers/stennis/news/releases/2022/Stennis-Flashback-NASA-Engineers-Recall-Challenges-of-Record-Breaking-Hot-Fire</link>
+ <description>At NASA’s Stennis Space Center, a typical hot fire of an RS-25 engine lasts 500 seconds, the same amount of time it must fire to help launch the Space Launch System to orbit.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/s22-049_stennis_photo_-_ssc-2012-01041.jpg?itok=joLbJql5" length="225031" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/stennis/news/releases/2022/Stennis-Flashback-NASA-Engineers-Recall-Challenges-of-Record-Breaking-Hot-Fire</guid>
+ <pubDate>Fri, 22 Jul 2022 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss">Stennis News and Features</source>
+</item>
+ <item> <title>Stennis Flashback: NASA Engineers Recall Challenges of Record-Breaking Hot Fire</title>
+ <link>http://www.nasa.gov/centers/stennis/news/releases/2022/Stennis-Flashback-NASA-Engineers-Recall-Challenges-of-Record-Breaking-Hot-Fire</link>
+ <description>At NASA’s Stennis Space Center, a typical hot fire of an RS-25 engine lasts 500 seconds, the same amount of time it must fire to help launch the Space Launch System to orbit.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/s22-049_stennis_photo_-_ssc-2012-01041.jpg?itok=joLbJql5" length="225031" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/stennis/news/releases/2022/Stennis-Flashback-NASA-Engineers-Recall-Challenges-of-Record-Breaking-Hot-Fire</guid>
+ <pubDate>Fri, 22 Jul 2022 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss">Stennis News and Features</source>
+</item>
+ <item> <title>Stennis Space Center Completing Update of Key Test Stand Data System</title>
+ <link>http://www.nasa.gov/centers/stennis/news/releases/2022/Stennis-Space-Center-Completing-Update-of-Key-Test-Stand-Data-System</link>
+ <description>NASA’s Stennis Space Center is completing updates to its Data Acquisition System at the historic Fred Haise Test Stand to enable collection of critical test information on RS-25 engines that will help power the Space Launch System (SLS) rocket.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/s22-047_stennis_photo_-_data_acquisition_system.png?itok=lw7M3_xt" length="6008231" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/stennis/news/releases/2022/Stennis-Space-Center-Completing-Update-of-Key-Test-Stand-Data-System</guid>
+ <pubDate>Thu, 23 Jun 2022 09:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss">Stennis News and Features</source>
+</item>
+ <item> <title>Video Short: Stennis Space Center Completes Upgrade to Critical Test System</title>
+ <link>http://www.nasa.gov/centers/stennis/news/releases/2022/Video-Short-Stennis-Space-Center-Thrust-Vector-Control-System</link>
+ <description>NASA’s Stennis Space Center has completed upgrades to a critical system needed to test RS-25 engines that will power the new Space Launch System (SLS) rocket on Artemis missions to the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/s22-044_stennis_photo_-_thrust_vector_control_system.jpg?itok=vxa4IUsJ" length="2019408" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/stennis/news/releases/2022/Video-Short-Stennis-Space-Center-Thrust-Vector-Control-System</guid>
+ <pubDate>Mon, 13 Jun 2022 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss">Stennis News and Features</source>
+</item>
+ <item> <title>Stennis Space Center Collaborates on Small Business ‘Boot Camp’ Project</title>
+ <link>http://www.nasa.gov/centers/stennis/news/releases/2022/Stennis-Space-Center-Collaborates-on-Small-Business-Boot-Camp-Project</link>
+ <description>Most people are familiar with large aerospace companies such as Boeing, Aerojet Rocketdyne, Northrop Grumman, and Lockheed-Martin, but how many know that thousands of suppliers, including small businesses, contribute to NASA’s missions?</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/s22-041_stennis_graphic_-_boot_camp_collaboration.png?itok=92AK58EM" length="908881" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/stennis/news/releases/2022/Stennis-Space-Center-Collaborates-on-Small-Business-Boot-Camp-Project</guid>
+ <pubDate>Thu, 19 May 2022 13:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss">Stennis News and Features</source>
+</item>
+ <item> <title>‘Fire in the Hole:’ NASA’s Stennis Space Center Preparing Stand for RS-25 Testing</title>
+ <link>http://www.nasa.gov/centers/stennis/news/releases/2022/Fire-in-the-Hole-NASAs-Stennis-Space-Center-Preparing-Stand-for-RS-25-Testing</link>
+ <description>When cooking on a grill, one may notice that certain areas of the grate burn hotter than others.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/s22-040_stennis_photo_-_flame_deflector_graphic.png?itok=aANMeXk2" length="914514" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/stennis/news/releases/2022/Fire-in-the-Hole-NASAs-Stennis-Space-Center-Preparing-Stand-for-RS-25-Testing</guid>
+ <pubDate>Wed, 04 May 2022 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss">Stennis News and Features</source>
+</item>
+ <item> <title>INFINITY Science Center Marks 10 Years as NASA Visitor Center, Gulf Coast Attraction</title>
+ <link>http://www.nasa.gov/centers/stennis/news/releases/2022/INFINITY-Science-Center-Marks-10-Years-as-NASA-Visitor-Center-Gulf-Coast-Attraction</link>
+ <description>For INFINITY Science Center leaders, commemoration of the 10th anniversary of the Hancock County, Mississippi, facility on April 30 represents not just a celebration but a renewed beginning.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/s22-039_stennis_photo_-_infinity_science_center.jpg?itok=U8Mt7jIg" length="1487873" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/centers/stennis/news/releases/2022/INFINITY-Science-Center-Marks-10-Years-as-NASA-Visitor-Center-Gulf-Coast-Attraction</guid>
+ <pubDate>Mon, 18 Apr 2022 12:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss">Stennis News and Features</source>
+</item>
+</channel>
+</rss>

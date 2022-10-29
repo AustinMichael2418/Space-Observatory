@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Johnson Space Center - News and Features</title>
+ <description>Ames News RSS</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/johnson_news.rss" />
+ <language>en-us</language>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>Maryland Students, Navy Pilots to Hear from NASA Astronauts in Space</title>
+ <link>http://www.nasa.gov/press-release/maryland-students-navy-pilots-to-hear-from-nasa-astronauts-in-space</link>
+ <description>Pilots from the U.S. Naval Test Pilot School in Patuxent River, Maryland, and students across southern Maryland will have an opportunity this week to hear from NASA astronauts aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jsc2022e076176.jpeg?itok=wEDM4qDn" length="515422" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/maryland-students-navy-pilots-to-hear-from-nasa-astronauts-in-space</guid>
+ <pubDate>Mon, 24 Oct 2022 11:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/johnson_news.rss">NASA Johnson Space Center - News and Features</source>
+</item>
+ <item> <title>NASA to Participate in ASCEND Conference, Brief Media on Tech Demo</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-participate-in-ascend-conference-brief-media-on-tech-demo</link>
+ <description>NASA leaders, including Deputy Administrator Pam Melroy, will participate in the 2022 ASCEND conference, hosted by the American Institute of Aeronautics and Astronautics (AIAA) in Las Vegas from Monday, Oct. 24, through Wednesday, Oct. 26.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/flight_load_test-4737.jpeg?itok=960LZaFJ" length="3216837" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-participate-in-ascend-conference-brief-media-on-tech-demo</guid>
+ <pubDate>Thu, 20 Oct 2022 15:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/johnson_news.rss">NASA Johnson Space Center - News and Features</source>
+</item>
+ <item> <title>Moonwalking Test Mission Daily Field Log</title>
+ <link>http://www.nasa.gov/feature/moonwalking-test-mission-daily-field-log</link>
+ <description>During JETT3, two NASA astronauts traversed the lunar-like environment of the San Francisco Volcanic Field located north of Flagstaff, Arizona.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jett3-cardman-fuestel-1.jpg?itok=TBM6Ptp7" length="439693" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/moonwalking-test-mission-daily-field-log</guid>
+ <pubDate>Tue, 18 Oct 2022 17:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/johnson_news.rss">NASA Johnson Space Center - News and Features</source>
+</item>
+ <item> <title>NASA: Charla en directo con el astronauta Frank Rubio desde el espacio</title>
+ <link>http://www.nasa.gov/press-release/nasa-charla-en-directo-con-el-astronauta-frank-rubio-desde-el-espacio</link>
+ <description>El astronauta de la NASA Frank Rubio discutirá su primer mes viviendo y trabajando en la Estación Espacial Internacional en una conversación en directo y en español con Diana Trujillo, directora de vuelo de la NASA, el viernes 21 de octubre a las 12 p.m. EDT.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/iss068e006386.jpeg?itok=9LhlttB-" length="1425687" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-charla-en-directo-con-el-astronauta-frank-rubio-desde-el-espacio</guid>
+ <pubDate>Tue, 18 Oct 2022 14:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/johnson_news.rss">NASA Johnson Space Center - News and Features</source>
+</item>
+ <item> <title>NASA’s SpaceX Crew-4 Astronauts Safely Splash Down in Atlantic</title>
+ <link>http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-safely-splash-down-in-atlantic</link>
+ <description>NASA’s SpaceX Crew-4 astronauts aboard the Dragon spacecraft safely splashed down Friday off the coast of Jacksonville, Florida, completing the agency’s fourth commercial crew mission to the International Space Station. The international crew of four spent 170 days in orbit.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/crew-4_splashdown.jpg?itok=XDwjAbTZ" length="1577569" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-safely-splash-down-in-atlantic</guid>
+ <pubDate>Fri, 14 Oct 2022 17:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/johnson_news.rss">NASA Johnson Space Center - News and Features</source>
+</item>
+ <item> <title>Meet the Desert RATS Crew for Upcoming Artemis Rover Mission Simulations</title>
+ <link>http://www.nasa.gov/feature/meet-the-desert-rats-crew-for-upcoming-artemis-rover-mission-simulations</link>
+ <description>As NASA works to develop technologies needed to establish a long-term presence at the Moon with future Artemis missions, pressurized rovers in which humans can live and work will play an important role.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/6116201639_cf9c048808_o.jpg?itok=okgV5iCB" length="7413910" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/meet-the-desert-rats-crew-for-upcoming-artemis-rover-mission-simulations</guid>
+ <pubDate>Thu, 13 Oct 2022 16:16 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/johnson_news.rss">NASA Johnson Space Center - News and Features</source>
+</item>
+ <item> <title>Space Rocks, Moon Tools, and Astronauts on ‘NASA Explorers’ Video Series</title>
+ <link>http://www.nasa.gov/feature/goddard/2022/new-nasa-explorers-video-series-features-space-rocks-moon-tools-and-an-artemis-astronaut</link>
+ <description>It’s not rockets and satellites that make NASA soar. It’s people. On season 5 of NASA Explorers, “Artemis Generation,” you’ll meet the scientists and engineers who are studying Moon rocks, building tools, working aboard NASA’s International Space Station, and training astronauts in preparation for landing humans on the Moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/coverphoto.jpg?itok=_LZSJdXX" length="711076" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/goddard/2022/new-nasa-explorers-video-series-features-space-rocks-moon-tools-and-an-artemis-astronaut</guid>
+ <pubDate>Wed, 12 Oct 2022 15:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/johnson_news.rss">NASA Johnson Space Center - News and Features</source>
+</item>
+ <item> <title>NASA’s SpaceX Crew-5 Launches to International Space Station</title>
+ <link>http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-launches-to-international-space-station</link>
+ <description>The crew members assigned to NASA’s SpaceX Crew-5 mission are in orbit following their launch to the International Space Station noon EDT Wednesday, from Launch Complex 39A at NASA’s Kennedy Space Center in Florida.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/spacex_crew_5_launch_10.5.22.jpg?itok=tsDnX_hW" length="298470" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-launches-to-international-space-station</guid>
+ <pubDate>Wed, 05 Oct 2022 10:09 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/johnson_news.rss">NASA Johnson Space Center - News and Features</source>
+</item>
+ <item> <title>Meet the Teams Leading Moonwalking Test Mission</title>
+ <link>http://www.nasa.gov/feature/meet-the-teams-leading-moonwalking-test-mission</link>
+ <description>The remote, rocky, high-desert terrain of the S P Crater near Flagstaff, Arizona will serve as lunar proxy for a mission simulation called Joint Extravehicular Activity Test Team Field Test #3 (JETT3) scheduled for Oct. 4-9, 2022.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jett1-test-engineers.png?itok=Grqw6pZJ" length="5286818" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/meet-the-teams-leading-moonwalking-test-mission</guid>
+ <pubDate>Tue, 04 Oct 2022 17:58 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/johnson_news.rss">NASA Johnson Space Center - News and Features</source>
+</item>
+ <item> <title>NASA to Practice Artemis Moonwalking, Roving Operations in Arizona Desert</title>
+ <link>http://www.nasa.gov/feature/nasa-to-practice-artemis-moonwalking-roving-operations-in-arizona-desert</link>
+ <description>To prepare for the Artemis era of research on the Moon, NASA will conduct two, multi-week field tests near Flagstaff, Arizona.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/2011-drats-tingle.jpg?itok=atjyJmcY" length="375015" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/nasa-to-practice-artemis-moonwalking-roving-operations-in-arizona-desert</guid>
+ <pubDate>Mon, 03 Oct 2022 14:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/johnson_news.rss">NASA Johnson Space Center - News and Features</source>
+</item>
+</channel>
+</rss>

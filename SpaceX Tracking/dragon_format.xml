@@ -1,0 +1,22 @@
+<h1><a id="dragon{{j}}" href="{{wikipedia}}"></a></h1>
+<p id="desc{{j}}"></p>
+<p>First Flight: <span id="ff{{j}}"></span></p>
+<p id="active{{j}}"></p>
+<p>Dry Mass: <span id="masskg{{j}}"></span> kg, <span id="masslbs{{j}}"></span> lbs</p>
+<p>Payload Mass: <span id="payloadkg{{j}}"></span> kg, <span id="payloadlbs{{j}}"></span> lbs</p>
+<p>Payload Volume: <span id="payloadvolm{{j}}"></span> m^3, <span id="payloadvolft{{j}}"></span> ft^3</p>
+<p>Pressurized Capsule Payload Volume: <span id="presspayloadvolm{{j}}"></span> m^3, <span id="presspayloadvolft{{j}}"></span> ft^3</p>
+<p>Return Payload Mass: <span id="rtrnpayloadkg{{j}}"></span> kg, <span id="rtrnpayloadlbs{{j}}"></span> lbs</p>
+<p>Return Payload Volume: <span id="rtrnpayloadvolm{{j}}"></span> m^3, <span id="rtrnpayloadvolft{{j}}"></span> ft^3</p>
+<p>Orbit Duration: <span id="od{{j}}"></span> years Crew Capacity: <span id="cc{{j}}"></span></p>
+<p><span id="dia_m{{j}}"></span>-meter (<span id="dia_ft{{j}}"></span>-foot) diameter with <span id="incline{{j}}"></span> degree incline</p>
+<h2>Trunk</h2>
+<p>Volume: <span id="trunkft{{j}}"></span> ft^3, <span id="trunkm{{j}}"></span> m^3</p>
+<p><span id="solar{{j}}"></span> Solar Arrays</p>
+<p>Unpressurized Cargo</p>
+<h2>Thrusters</h2>
+<div id="thrust{{j}}"></div>
+<h2>Heat Shield</h2>
+<p><span id="hssize{{j}}"></span>-meter <span id="mat{{j}}"></span> heat shield that can withstand <span id="temp{{j}}"></span> degrees celsius in partnership with NASA</p>
+<h2>Images</h2>
+<div id="img{{j}}"></div>
